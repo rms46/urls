@@ -31,8 +31,6 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-# URLS
-
 | AAA | BBB | CCC | DDD |
 |     |     |     |     |
 |     |     |     |     |
