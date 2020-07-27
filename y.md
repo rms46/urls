@@ -31,7 +31,7 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| AAA | BBB | CCC | DDD |
+| [Hidden Device 1](https://youtu.be/UeAKTjx_eKA) | [Hiden Device 2](https://youtu.be/ioU5G_IuGuw) | CCC | DDD |
 |     |     |     |     |
 |     |     |     |     |
 | AAA | BBB | CCC | DDD |
