@@ -31,7 +31,7 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| AAA | BBB | CCC | DDD |
+| [Git Commit Signature](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | BBB | CCC | DDD |
 |     |     |     |     |
 |     |     |     |     |
 | AAA | BBB | CCC | DDD |
