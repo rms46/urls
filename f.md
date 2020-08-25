@@ -31,17 +31,7 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| AAA | BBB | CCC | DDD |
+| [FASILKOM UI](https://www.cs.ui.ac.id/) | [SIAK](https://academic.ui.ac.id/) | [SCELE](https://scele.cs.ui.ac.id/) | [KURIKULUM](https://scele.cs.ui.ac.id/pluginfile.php/1279/block_html/content/Kurikulum%20Sarjana%202016.pdf) |
 |     |     |     |     |
 |     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
 

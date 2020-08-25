@@ -34,14 +34,4 @@
 | AAA | BBB | CCC | DDD |
 |     |     |     |     |
 |     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
 

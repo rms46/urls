@@ -31,17 +31,6 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| [Hidden Device 1](https://youtu.be/UeAKTjx_eKA) | [Hiden Device 2](https://youtu.be/ioU5G_IuGuw) | CCC | DDD |
+| [Y: YouTube](https://www.youtube.com/) | [Y: Hidden Device 1](https://youtu.be/UeAKTjx_eKA) | [Y: Hiden Device 2](https://youtu.be/ioU5G_IuGuw) | DDD |
 |     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
 
