@@ -31,7 +31,6 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| [Type of Nouns](https://youtu.be/a0PS8emW6Qo) | BBB | CCC | DDD |
+| [Type of Nouns](https://youtu.be/a0PS8emW6Qo) | X | X | X |
 |                                               |     |     |     |
-| AAA                                           | BBB | CCC | DDD |
 

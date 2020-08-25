@@ -31,17 +31,7 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| [Managing Commit Signature Verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | BBB | CCC | DDD |
+| [GNUPG](https://gnupg.org/) | [Managing Commit Signature Verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | X | X |
 |     |     |     |     |
 |     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
 

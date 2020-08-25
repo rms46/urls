@@ -31,17 +31,7 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| AAA | BBB | CCC | DDD |
+| [FASILKOM UI](https://www.cs.ui.ac.id/) | [GNUPG](https://gnupg.org/) | [Type of Nouns](https://youtu.be/a0PS8emW6Qo) | [Y: YouTube](https://www.youtube.com/) |
 |     |     |     |     |
 |     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
 
