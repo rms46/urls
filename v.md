@@ -31,7 +31,7 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| X | X | X | X |
+| [Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/) | [Rahmat](https://rahmat.vlsm.org) | [Samik-Ibrahim III](http://samikibrahim3.vlsm.org/) | [Archive](http://rms46.vlsm.org/) |
 |     |     |     |     |
 |     |     |     |     |
 
