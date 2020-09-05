@@ -31,7 +31,5 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| X | X | X | X |
-|     |     |     |     |
-|     |     |     |     |
+| [Ubuntu: USB FlashDisk](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [Ubuntu: exFat](https://itsfoss.com/mount-exfat/) | X | X |
 
