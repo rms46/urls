@@ -31,7 +31,6 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| [GNUPG](https://gnupg.org/) | [Managing Commit Signature Verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | X | X |
-|     |     |     |     |
-|     |     |     |     |
+| [GNUPG](https://gnupg.org/) |
+| [Managing Commit Signature Verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | [Git Repository Backup](https://git-memo.readthedocs.io/en/latest/repository_backup.html) |
 
