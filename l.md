@@ -31,7 +31,6 @@
 [WEB](https://urls.vlsm.org/)
 [GITHUB](https://github.com/rms46/urls/)
 
-| X | X | X | X |
-|     |     |     |     |
-|     |     |     |     |
+| [Belajar LaTeX](https://github.com/Belajar-Latex/) |
+
 
