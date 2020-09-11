@@ -1,35 +1,6 @@
 ---
+layout: "urls"
 ---
-[A](a.md)
-[B](b.md)
-[C](c.md)
-[D](d.md)
-[E](e.md)
-[F](f.md)
-[G](g.md)
-[H](h.md)
-[I](i.md)
-[J](j.md)
-[K](k.md)
-[L](l.md)
-[M](m.md)
-[N](n.md)
-[O](o.md)
-[P](p.md)
-[Q](q.md)
-[R](r.md)
-[S](s.md)
-[T](t.md)
-[U](u.md)
-[V](v.md)
-[W](w.md)
-[X](x.md)
-[Y](y.md)
-[Z](z.md)
-[INDEX](index.md)
-[README](README.md)
-[WEB](https://urls.vlsm.org/)
-[GITHUB](https://github.com/rms46/urls/)
 
 | [Y: YouTube](https://www.youtube.com/) | [Y: Hidden Device 1](https://youtu.be/UeAKTjx_eKA) | [Y: Hiden Device 2](https://youtu.be/ioU5G_IuGuw) | [Y: Calculus 1](https://youtu.be/HfACrKJ_Y2w) |
 | [Y: New Marketing 101](https://youtu.be/_4Ei1a9ezVI?t=3914) | [Y: Security](https://youtu.be/iNnb94MAJ6g) | [Y!The End of the CS Degree](https://youtu.be/VZFIB4IjcXE) | [Y!RISMAN ADNAN](https://youtu.be/uOacUZOAoiU) |
