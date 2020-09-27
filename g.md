@@ -7,4 +7,4 @@ layout: "urls"
 | [Google Analytics](https://analytics.google.com/) | [Google Drive](https://drive.google.com/) | [Google YouTube](https://www.youtube.com/) |
 | [Grammarly](https://grammarly.com/) |
 | [GNUPG](https://gnupg.org/) |
-
+| [GitFlow WorkFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) | [GitFlow CheatSheet](http://danielkummer.github.io/git-flow-cheatsheet/) | [Git Tutorial](https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP) |
