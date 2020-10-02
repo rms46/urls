@@ -13,4 +13,8 @@ layout: "urls"
 | <https://osp4diss.vlsm.org> | [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [OSP4DISS](https://github.com/OSP4DISS/) |
 | [GNUPG](https://gnupg.org/) | [Bandwidth Place](https://www.bandwidthplace.com/) | [YSense](https://www.ysense.com/) |
 | [Password Generator](https://passwordsgenerator.net/) | Phantom [Trial](http://www.phantomtrail.com/daily-comic-strips/Phantom) [Comics Kingdom](https://www.comicskingdom.com/phantom) |
+<hr>
+| [IndoGlobal](https://indoglobal.com/) |
+| [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) |
+
 

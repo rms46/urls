@@ -2,5 +2,5 @@
 layout: "urls"
 ---
 
-| X |
+| [Afraid](https://freedns.afraid.org/) |
 
