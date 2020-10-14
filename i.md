@@ -15,6 +15,9 @@ layout: "urls"
 | [Password Generator](https://passwordsgenerator.net/) | Phantom [Trial](http://www.phantomtrail.com/daily-comic-strips/Phantom) [Comics Kingdom](https://www.comicskingdom.com/phantom) |
 
 <hr>
+| [Twitter](https://tweetdeck.twitter.com/) | [GMAIL](https://mail.google.com/) |
+
+<hr>
 | [IndoGlobal](https://indoglobal.com/) |
 | [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) |
 
