@@ -12,4 +12,6 @@ layout: "urls"
 # ETC
 <br>
 | [Undang Undang NKRI](https://github.com/rms46/uuri/) |
+<br>
+| [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) | [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
 
