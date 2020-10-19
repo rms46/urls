@@ -9,8 +9,8 @@ layout: "urls"
 
 <hr>
 
-| <https://os.vlsm.org> | <https://os.vlsm.org/GitHubPages/> | [SCELE: OS](https://scele.cs.ui.ac.id/course/view.php?id=3020) | [SCELE: SP](https://scele.cs.ui.ac.id/course/view.php?id=2975) |
-| <https://osp4diss.vlsm.org> | [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [OSP4DISS](https://github.com/OSP4DISS/) |
+| <https://os.vlsm.org/> | <https://os.vlsm.org/GitHubPages/> | [SCELE: OS](https://scele.cs.ui.ac.id/course/view.php?id=3020) | [SCELE: SP](https://scele.cs.ui.ac.id/course/view.php?id=2975) |
+| <https://osp4diss.vlsm.org/> | [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [OSP4DISS](https://github.com/OSP4DISS/) |
 | [GNUPG](https://gnupg.org/) | [Bandwidth Place](https://www.bandwidthplace.com/) | [YSense](https://www.ysense.com/) |
 | [Password Generator](https://passwordsgenerator.net/) | Phantom [Trial](http://www.phantomtrail.com/daily-comic-strips/Phantom) [Comics Kingdom](https://www.comicskingdom.com/phantom) |
 
