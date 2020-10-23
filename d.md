@@ -2,5 +2,5 @@
 layout: "urls"
 ---
 
-| [Dockers and Kubernetes](https://www.youtube.com/watch?v=t8GbPocwQW0) |
+| [Dockers and Kubernetes](https://www.youtube.com/watch?v=Wf2eSG3owoA) |
 
