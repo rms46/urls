@@ -2,5 +2,5 @@
 layout: "urls"
 ---
 
-| [Twitter](https://tweetdeck.twitter.com/) |
+| [TweetDeck](https://tweetdeck.twitter.com/) | [Twitter](https://twitter.com/) |
 
