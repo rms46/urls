@@ -9,7 +9,7 @@ layout: "urls"
 <br>
 # Git and GitHub
 
-| [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) | [Please Stop  Recommending Git Flow](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) |
+| [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) | [Please Stop  Recommending Git Flow](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) | [Understanding GitHub Flow](https://guides.github.com/introduction/flow/) |
 
 | [GitFlow CheatSheet](http://danielkummer.github.io/git-flow-cheatsheet/) | 
 
