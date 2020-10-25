@@ -42,3 +42,8 @@ layout: "urls"
 
 | [Git Tutorial: Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW) |
 
+| [Merge Requests](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html) |
+
+| [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) |
+
+
