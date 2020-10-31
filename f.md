@@ -14,3 +14,5 @@ layout: "urls"
 
 | [Fast](https://fast.com/) |
 
+| [Finance: Trend Line](https://en.wikipedia.org/wiki/Trend_line_(technical_analysis)) | [Finance: Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_retracement) | [Finance: Candlestrick](https://en.wikipedia.org/wiki/Candlestick_pattern) |
+

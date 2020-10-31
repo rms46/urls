@@ -3,8 +3,13 @@ layout: "urls"
 ---
 
 | [Google Analytics](https://analytics.google.com/) | [Google Drive](https://drive.google.com/) | [Google YouTube](https://www.youtube.com/) |
+
 | [Grammarly](https://grammarly.com/) |
+
 | [GNUPG](https://gnupg.org/) |
+
+| [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
+
 
 <br>
 # Git and GitHub
