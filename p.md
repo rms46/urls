@@ -8,3 +8,4 @@ layout: "urls"
 
 | [PadiCloud](https://manage.padicloud.id/) | [PadiPanel](https://cpanel.vlsm.org/) |
 
+| [Peraturan](https://peraturan.go.id/) |
