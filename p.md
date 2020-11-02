@@ -9,3 +9,5 @@ layout: "urls"
 | [PadiCloud](https://manage.padicloud.id/) | [PadiPanel](https://cpanel.vlsm.org/) |
 
 | [Peraturan](https://peraturan.go.id/) | [Peraturan BPK](https://peraturan.bpk.go.id/) |
+
+| [Permata Bank](https://www.permatabank.com/) |
