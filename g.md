@@ -6,13 +6,29 @@ layout: "urls"
 
 | [Grammarly](https://grammarly.com/) |
 
-| [GNUPG](https://gnupg.org/) |
-
 | [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
 
+| [Google Scholar](https://scholar.google.com/) |
+
+<br>
+
+| [The Great Courses](https://www.thegreatcourses.com/) |
+
+<br>
+# GNUPG
+
+| [GNUPG](https://gnupg.org/) |
+
+| [GNUPG CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) |
+
+| [GNUPG Tutorial](https://futureboy.us/pgp.html) |
 
 <br>
 # Git and GitHub
+
+| [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) | [GitLab CSUI](https://gitlab.cs.ui.ac.id/) |
+
+| [GitHub Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github) |
 
 | [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) | [Please Stop  Recommending Git Flow](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) | [Understanding GitHub Flow](https://guides.github.com/introduction/flow/) |
 

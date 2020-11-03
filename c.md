@@ -2,6 +2,8 @@
 layout: "urls"
 ---
 
+| [Copas Kilat](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/copas-kilat.html) |
+
 | [Comics Ranker](https://www.ranker.com/list/best-comic-strips-ever/ranker-comics/) |
 
 | [CloudKilat](https://portal.cloudkilat.com/) |
@@ -9,8 +11,6 @@ layout: "urls"
 | [Cicak Bin Kadal (GitHub)](https://github.com/cbkadal) | [Cicak Bin Kadal (os202)](https://github.com/cbkadal/os202) ([WEB](https://cbkadal.github.io/os202/)) | [Cicak Bin Kadal (sp202)](https://github.com/cbkadal/sp202) ([WEB](https://cbkadal.github.io/sp202/)) |
 
 | [Cygwin](https://devtidbits.com/2011/07/01/cygwin-walkthrough-and-beginners-guide-is-it-linux-for-windows-or-a-posix-compatible-alternative-to-powershell/) |
-
-| [Copas Kilat](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/copas-kilat.html) |
 
 | [CIMB](https://www.octoclicks.co.id/) | 
 

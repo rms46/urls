@@ -6,13 +6,20 @@ layout: "urls"
 
 | [SI Asisten](https://siasisten.cs.ui.ac.id/) | 
 
+| [Portal Aplikasi](https://apps.cs.ui.ac.id/) |
+
+| [Papan CSUI](https://papan.cs.ui.ac.id/) |
+
 <hr>
 
 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | [Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | [SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY) | [JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg) |
 
 <hr>
 
+| [FUSE Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/) |
+
 | [Fast](https://fast.com/) |
 
 | [Finance: Trend Line](https://en.wikipedia.org/wiki/Trend_line_(technical_analysis)) | [Finance: Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_retracement) | [Finance: Candlestrick](https://en.wikipedia.org/wiki/Candlestick_pattern) |
+
 

@@ -8,3 +8,12 @@ layout: "urls"
 
 | [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) |
 
+| [BlogSpot Source Code Formatter](http://codeformatter.blogspot.com/) |
+
+| [Browser: What is my Browser?](https://www.whatismybrowser.com/) |
+
+<br>
+
+| [BibMe](https://www.bibme.org/) |
+
+

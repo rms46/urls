@@ -12,3 +12,7 @@ layout: "urls"
 
 | [Journal of Information System](https://jsi.cs.ui.ac.id/index.php/jsi/) | [Jurnal Ilmiah Kursor](http://kursorjournal.org/index.php/kursor/) |
 
+| [Java - Infoworld](https://www.infoworld.com/category/java/) |
+
+| [Jadwal Shalat](http://m.jadwalsholat.org/) |
+

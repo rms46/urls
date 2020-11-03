@@ -21,4 +21,11 @@ layout: "urls"
 | [IndoGlobal](https://indoglobal.com/) |
 | [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) |
 
+| [IDX](https://www.idx.co.id/) |
+| [Index Saham](https://www.idx.co.id/data-pasar/data-saham/indeks-saham/) |
 
+<hr>
+
+| [ISP: MyRepublic](https://myrepublic.co.id/) |
+
+| [ISP: FirstMedia](https://my.firstmedia.com/) |
