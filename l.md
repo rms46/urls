@@ -14,3 +14,7 @@ layout: "urls"
 
 | [LaTeX (Belajar)](https://github.com/Belajar-Latex) |
 
+<br>
+
+| [Linux From Scratch](http://www.linuxfromscratch.org/) |
+
