@@ -6,3 +6,9 @@ layout: "urls"
 
 | [ANTV](https://visionplus.okezone.com/play/12-antv) |
 
+# Academic
+
+| [Scribbr](https://www.youtube.com/c/Scribbr-us) | [Free Code Camp](https://www.youtube.com/c/Freecodecamp) |
+
+
+
