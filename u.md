@@ -16,6 +16,11 @@ layout: "urls"
 
 | [Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) |
 
+| [Initial Server Setup with Ubuntu](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) |
+
+| [How To Set Up and Configure an OpenVPN Server on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
+
+
 <br>
 # ETC
 

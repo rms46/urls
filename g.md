@@ -2,13 +2,13 @@
 layout: "urls"
 ---
 
-| [Google Analytics](https://analytics.google.com/) | [Google Drive](https://drive.google.com/) | [Google YouTube](https://www.youtube.com/) |
+
+| [Google](https://google.com/) | [Google YouTube](https://www.youtube.com/) | [Google Analytics](https://analytics.google.com/) | [Google Drive](https://drive.google.com/) |
+
+| [Google Drive](https://drive.google.com/) | [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [Google Scholar](https://scholar.google.com/) |
+
 
 | [Grammarly](https://grammarly.com/) |
-
-| [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
-
-| [Google Scholar](https://scholar.google.com/) |
 
 <br>
 
