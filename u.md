@@ -8,6 +8,7 @@ layout: "urls"
 | [UI: Beranda](https://beranda.ui.ac.id/) | [UI: SIAK](https://academic.ui.ac.id/) | [UI: SSO](https://sso.ui.ac.id/) |
 | [UI: Drive](https://drive.ui.ac.id/)     | [UI: Upload](http://upload.ui.ac.id/)  | [UI: Remote Lib](https://remote-lib.ui.ac.id/) | 
 | [UI](https://ui.ac.id/) | 
+| [Klinik](https://reservasi.ehealth.co.id/) |
 
 <br>
 # Ubuntu
