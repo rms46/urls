@@ -27,3 +27,9 @@ layout: "urls"
 
 | [Ruby on Rails](https://www.youtube.com/watch?v=fmyvWz5TUWg) |
 
+# Research
+
+| [CS Research Aria](https://cs.unc.edu/research/areas/) |
+
+| [CS Types of Research](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/cs-research.html) |
+
