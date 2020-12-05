@@ -18,3 +18,5 @@ layout: "urls"
 
 | [Linux From Scratch](http://www.linuxfromscratch.org/) |
 
+| [Linux From Scratch](http://lfs.vlsm.org/) |
+
