@@ -38,4 +38,10 @@ layout: "urls"
 
 | [Strength Test](http://rumkin.com/tools/password/passchk.php) |
 
+<hr>
+# SYSPROG
+
+| [Play List](https://www.youtube.com/playlist?list=PLBSbnqa_elVtZHIifu6EQody-AYNTOEq0) |
+
+
 
