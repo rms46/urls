@@ -17,3 +17,6 @@ layout: "urls"
 | [Permata Bank](https://www.permatabank.com/) |
 
 | [PayPal](https://www.paypal.com/) |
+
+| [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) |
+
