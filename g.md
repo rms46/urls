@@ -28,7 +28,7 @@ layout: "urls"
 <br>
 # Git and GitHub
 
-| [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) | [GitLab CSUI](https://gitlab.cs.ui.ac.id/) |
+| [Git Token authentication](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) | [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) | [GitLab CSUI](https://gitlab.cs.ui.ac.id/) |
 
 | [GitHub Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github) |
 
