@@ -5,37 +5,21 @@ layout: "urls"
 <br>
 # Universitas Indonesia
 
+| [UI](https://ui.ac.id/) | 
 | [UI: Beranda](https://beranda.ui.ac.id/) | [UI: SIAK](https://academic.ui.ac.id/) | [UI: SSO](https://sso.ui.ac.id/) |
 | [UI: Drive](https://drive.ui.ac.id/)     | [UI: Upload](http://upload.ui.ac.id/)  | [UI: Remote Lib](https://remote-lib.ui.ac.id/) | 
-| [UI](https://ui.ac.id/) | 
-| [Klinik](https://reservasi.ehealth.co.id/) |
+| [UI Klinik Satelit](https://reservasi.ehealth.co.id/) | [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) | [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
 
 <br>
 # Ubuntu
 
-| [USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [exFat](https://itsfoss.com/mount-exfat/) | [ Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/)
-
-| [Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) |
-
-| [Initial Server Setup with Ubuntu](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) |
-
-| [How To Set Up and Configure an OpenVPN Server on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
-
+| [Ubuntu: USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [Ubuntu: Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [Ubuntu: Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/)
+| [Ubuntu: Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) | [Ubuntu: Server Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) | [Ubuntu: OpenVPN Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
 
 <br>
 # ETC
 
 | [Undang Undang NKRI](https://uu.vlsm.org/) |
-
-<br>
-
-| [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) | [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
-
-<br>
-
-| [Udemy](https://www.udemy.com/) |
-
-| [Udacity](https://www.udacity.com/) |
-
-<hr>
+| [Udemy](https://www.udemy.com/) | [Udacity](https://www.udacity.com/) | [UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/) |
+| [exFat](https://itsfoss.com/mount-exfat/) | 
 
