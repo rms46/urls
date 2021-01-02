@@ -4,9 +4,10 @@ layout: "urls"
 
 | [Google](https://google.com/) | [Google YouTube](https://www.youtube.com/) | [Google Analytics](https://analytics.google.com/) | 
 | [Google Drive](https://drive.google.com/) | [Google Drive](https://drive.google.com/) | [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
-| [Google Scholar](https://scholar.google.com/) |
+| [Google Scholar](https://scholar.google.com/) | [Google Search Console](https://search.google.com/search-console) |
 | [The Great Courses](https://www.thegreatcourses.com/) | [Go Movies](https://www12.gomoviesfree.page/) | [Grammarly](https://grammarly.com/) |
 | [Grub](https://www.dedoimedo.com/computers/grub.html) | [Grub2](https://www.dedoimedo.com/computers/grub-2.html) |
+
 
 <br>
 # GNUPG
