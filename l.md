@@ -16,7 +16,5 @@ layout: "urls"
 
 <br>
 
-| [Linux From Scratch](http://www.linuxfromscratch.org/) |
-
-| [Linux From Scratch](http://lfs.vlsm.org/) |
+| [LinuxFromScratch.org](http://www.linuxfromscratch.org/) | [LFS VauLSMorg](http://lfs.vlsm.org/) | [Linux Conf Au](https://www.youtube.com/c/linuxconfau) |
 

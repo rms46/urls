@@ -26,5 +26,8 @@ layout: "urls"
 
 | [Play List](https://www.youtube.com/playlist?list=PLBSbnqa_elVtZHIifu6EQody-AYNTOEq0) |
 
+| [Speed Reading](https://youtu.be/RmmQyE00vl4) |
+
+
 
 
