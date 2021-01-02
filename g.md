@@ -25,5 +25,7 @@ layout: "urls"
 | [Git 01: What is Version Control?](https://www.youtube.com/watch?v=9GKpbI1siow) | [Git 02: Vocab](https://www.youtube.com/watch?v=n-p1RUmdl9M) | [Git 03: Installation](https://www.youtube.com/watch?v=UFEby2zo-9E) | 
 | [Git 04: GitHub](https://www.youtube.com/watch?v=ol_UCWox9kc) | [Git Tutorial: Codemy](https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP) | [Git Tutorial: Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW) | 
 | [Merge Requests](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html) | [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) | [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk) |
+| [Git Key Terms](https://video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) |
+
 
 
