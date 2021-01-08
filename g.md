@@ -8,6 +8,7 @@ layout: "urls"
 | [The Great Courses](https://www.thegreatcourses.com/) | [Go Movies](https://www12.gomoviesfree.page/) | [Grammarly](https://grammarly.com/) |
 | [Grub](https://www.dedoimedo.com/computers/grub.html) | [Grub2](https://www.dedoimedo.com/computers/grub-2.html) |
 
+| [The Grounded Theory Institute](http://www.groundedtheory.com/) | [The Grounded Theory Review](http://groundedtheoryreview.com/) |
 
 <br>
 # GNUPG
