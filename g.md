@@ -2,12 +2,12 @@
 layout: "urls"
 ---
 
-| [Google](https://google.com/) | [Google YouTube](https://www.youtube.com/) | [Google Analytics](https://analytics.google.com/) | 
-| [Google Drive](https://drive.google.com/) | [Google Drive](https://drive.google.com/) | [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
-| [Google Scholar](https://scholar.google.com/) | [Google Search Console](https://search.google.com/search-console) |
+| [Google](https://google.com/) | [Google Analytics](https://analytics.google.com/) | [Google Drive](https://drive.google.com/) |
+| [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [Google Scholar](https://scholar.google.com/) | [Google Search Console](https://search.google.com/search-console) |
+| [Y! Google YouTube](https://www.youtube.com/) | [Y! Google Photo](https://youtu.be/7Ew5Oej19tU) |
+
 | [The Great Courses](https://www.thegreatcourses.com/) | [Go Movies](https://www12.gomoviesfree.page/) | [Grammarly](https://grammarly.com/) |
 | [Grub](https://www.dedoimedo.com/computers/grub.html) | [Grub2](https://www.dedoimedo.com/computers/grub-2.html) |
-
 | [The Grounded Theory Institute](http://www.groundedtheory.com/) | [The Grounded Theory Review](http://groundedtheoryreview.com/) |
 
 <br>
