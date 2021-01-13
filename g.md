@@ -2,9 +2,10 @@
 layout: "urls"
 ---
 
-| [Google](https://google.com/) | [Google Analytics](https://analytics.google.com/) | [Google Drive](https://drive.google.com/) |
-| [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [Google Scholar](https://scholar.google.com/) | [Google Search Console](https://search.google.com/search-console) |
+| [Google](https://google.com/) | [Google Scholar](https://scholar.google.com/) | [Google Drive](https://drive.google.com/) | 
+| [Google Search Consonle](https://search.google.com/search-console) | [Google Analytics](https://analytics.google.com/) | 
 | [Y! Google YouTube](https://www.youtube.com/) | [Y! Google Photo](https://youtu.be/7Ew5Oej19tU) |
+| [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | 
 
 | [The Great Courses](https://www.thegreatcourses.com/) | [Go Movies](https://www12.gomoviesfree.page/) | [Grammarly](https://grammarly.com/) |
 | [Grub](https://www.dedoimedo.com/computers/grub.html) | [Grub2](https://www.dedoimedo.com/computers/grub-2.html) |
@@ -30,5 +31,7 @@ layout: "urls"
 | [Git Key Terms](https://video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) |
 | [Git Udacity](https://classroom.udacity.com/courses/ud123) |
 
+| [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) | [GH: Google Workspace Script](https://github.com/googleworkspace/apps-script-samples/) | [Google Scripts/Sheets](https://www.howtogeek.com/201436/8-surprisingly-useful-things-you-can-do-with-google-sheets-and-google-apps-script/) |
+| [Google Apps Script Tutorial](http://www.googleappsscript.org/) |
 
 

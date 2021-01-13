@@ -14,3 +14,5 @@ layout: "urls"
 
 | [CIMB](https://www.octoclicks.co.id/) | 
 
+| [Codecademy](https://www.codecademy.com/) |
+

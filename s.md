@@ -13,7 +13,7 @@ layout: "urls"
 <hr>
 
 | [SETKAB](https://jdih.setkab.go.id/) | [SETNEG](https://jdih.setneg.go.id/) |
-| [SpeedTest](https://www.comparitech.com/internet-providers/speed-test/) | [Sunah.com](https://sunnah.com/) |
+| [SpeedTest](https://www.comparitech.com/internet-providers/speed-test/) | [Sunah.com](https://sunnah.com/) | [Y! SpeedReading](https://youtu.be/RmmQyE00vl4/) |
 
 
 <hr>
