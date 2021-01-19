@@ -2,6 +2,8 @@
 layout: "urls"
 ---
 
+| [License: Open Source](https://choosealicense.com/) |
+
 | [Belajar LaTeX](https://github.com/Belajar-Latex/) |
 
 | [LanguageTool](https://languagetoolplus.com/) |
