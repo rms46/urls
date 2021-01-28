@@ -23,3 +23,6 @@ layout: "urls"
 | [Finance: Trend Line](https://en.wikipedia.org/wiki/Trend_line_(technical_analysis)) | [Finance: Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_retracement) | [Finance: Candlestrick](https://en.wikipedia.org/wiki/Candlestick_pattern) |
 
 
+| [freeDNS](https://freedns.afraid.org/) |
+ [Archive.org](https://archive.org/) |
+
