@@ -19,6 +19,7 @@ layout: "urls"
 <br>
 # Git and GitHub
 
+| [git init](https://www.atlassian.com/git/tutorials/setting-up-a-repository) | [git init](https://git-scm.com/docs/git-init) |
 | [Git Commit Email Address](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) | [Git Token authentication](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) | [GitHub Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github) |
 | [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) | [GitLab CSUI](https://gitlab.cs.ui.ac.id/) |
 | [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) | [Please Stop  Recommending Git Flow](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) | [Understanding GitHub Flow](https://guides.github.com/introduction/flow/) |
