@@ -12,6 +12,7 @@ layout: "urls"
 
 <hr>
 
+| [Favicon Converter](https://favicon.io/favicon-converter/) |
 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | [Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | [SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY) | [JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg) |
 
 <hr>

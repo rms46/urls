@@ -16,3 +16,5 @@ layout: "urls"
 
 | [Jadwal Shalat](http://m.jadwalsholat.org/) |
 
+| [Jekyll Variables](https://jekyllrb.com/docs/variables/) |
+
