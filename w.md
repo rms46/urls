@@ -2,7 +2,7 @@
 layout: "urls"
 ---
 
-| [Washington Post](https://www.washingtonpost.com/) | [WhatsApp](https://web.whatsapp.com/) |
+| [Washington Post](https://www.washingtonpost.com/) | [You should delete your WhatsApp ASAP](https://youtu.be/shpiVm1qpnw) |
 | [WordPress.com](https://wordpress.com/learn/) | [WPBeginner](https://www.wpbeginner.com/) | 
 | [W3C: Markup Validation Service](http://validator.w3.org/) | [W3Schools](https://www.w3schools.com/) |
 
