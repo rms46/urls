@@ -8,5 +8,5 @@ layout: "urls"
 
 | [Y: Finance](https://finance.yahoo.com/) |
 
-| [Y: Balonku Ada Lima](https://www.youtube.com/watch?v=K5czD_jB9Os) |
+| [Y: Balonku Ada Lima](https://www.youtube.com/watch?v=K5czD_jB9Os) | [Y: Pak Kasur](https://www.youtube.com/watch?v=t2wndEioW9c) |
 
