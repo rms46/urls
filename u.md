@@ -11,6 +11,10 @@ layout: "urls"
 | [UI Klinik Satelit](https://reservasi.ehealth.co.id/) | [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) | [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
 
 <br>
+# Udemy
+| [Free: Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/) |
+
+<br>
 # Ubuntu
 
 | [Ubuntu: USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [Ubuntu: Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [Ubuntu: Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/)
