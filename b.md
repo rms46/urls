@@ -16,4 +16,7 @@ layout: "urls"
 
 | [Balonku ada 5](https://youtu.be/K5czD_jB9Os) |
 
+<br>
+
+| [Y: Bash Short Cuts](https://www.youtube.com/watch?v=C-AQAJXdoS8) | 
 

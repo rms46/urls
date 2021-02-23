@@ -26,3 +26,8 @@ layout: "urls"
 | [Undang Undang NKRI](https://uu.vlsm.org/) |
 | [Udemy](https://www.udemy.com/) | [UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/) | [exFat](https://itsfoss.com/mount-exfat/) | 
 [Udacity](https://www.udacity.com/) | [Udacity: Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/) |
+
+<br>
+
+| [Y: The Unix OS](https://www.youtube.com/watch?v=tc4ROCJYbm0) |
+
