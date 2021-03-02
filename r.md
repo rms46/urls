@@ -13,13 +13,9 @@ layout: "urls"
 | [RMS: Kinerja Prosesor Intel](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/prosesor-intel-core-i5-650.html) |
 
 
-
-
-
-
 ## Research
 
-| [Y: README](https://youtu.be/EBZxpavWMjk) | [How to Read a Paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) | [CS Research Areas](https://cs.unc.edu/research/areas/) | [CS Types of Research](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/cs-research.pdf) |
+| [Y: The README file](https://youtu.be/EBZxpavWMjk) | [How to Read a Paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) | [CS Research Areas](https://cs.unc.edu/research/areas/) | [CS Types of Research](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/cs-research.pdf) |
 
 ## ETC
 
