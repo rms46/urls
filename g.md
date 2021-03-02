@@ -3,7 +3,7 @@ layout: "urls"
 ---
 
 | [Google](https://google.com/) | [Google Scholar](https://scholar.google.com/) | [Google Drive](https://drive.google.com/) | [G: MyActivity](https://myactivity.google.com/) |
-| [Google Search Consonle](https://search.google.com/search-console) | [Google Analytics](https://analytics.google.com/) | [Y! Google YouTube](https://www.youtube.com/) | [Y! Google Photo](https://youtu.be/7Ew5Oej19tU) |
+| [Google Search Consonle](https://search.google.com/search-console) | [Google Analytics](https://analytics.google.com/) | [Y: Google YouTube](https://www.youtube.com/) | [Y: Google Photo](https://youtu.be/7Ew5Oej19tU) |
 [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | 
 
 | [The Great Courses](https://www.thegreatcourses.com/) | [Go Movies](https://www12.gomoviesfree.page/) | [Grammarly](https://grammarly.com/) |
