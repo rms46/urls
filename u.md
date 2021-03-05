@@ -5,9 +5,8 @@ layout: "urls"
 <br>
 # Universitas Indonesia
 
-| [UI](https://ui.ac.id/) | 
-| [UI: Beranda](https://beranda.ui.ac.id/) | [UI: SIAK](https://academic.ui.ac.id/) | [UI: SSO](https://sso.ui.ac.id/) |
-| [UI: Drive](https://drive.ui.ac.id/)     | [UI: Upload](http://upload.ui.ac.id/)  | [UI: Remote Lib](https://remote-lib.ui.ac.id/) | 
+| [UI](https://ui.ac.id/) | [UI: Beranda](https://beranda.ui.ac.id/) | [UI: SIAK](https://academic.ui.ac.id/) | [UI: SSO](https://sso.ui.ac.id/) |
+| [UI: Drive](https://drive.ui.ac.id/)     | [UI: Upload](http://upload.ui.ac.id/)  | [UI: Remote Lib](https://remote-lib.ui.ac.id/) | [UI BPR OS](https://scele.cs.ui.ac.id/mod/assign/view.php?id=68993) |
 | [UI Klinik Satelit](https://reservasi.ehealth.co.id/) | [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) | [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
 
 <br>
