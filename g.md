@@ -14,6 +14,7 @@ layout: "urls"
 # GNUPG
 
 | [GNUPG](https://gnupg.org/) | [GNUPG CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) | [GNUPG Tutorial](https://futureboy.us/pgp.html) |
+| [GNUPG: Signing Party](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
 
 <br>
 # Git and GitHub
