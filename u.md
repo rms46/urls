@@ -11,20 +11,20 @@ layout: "urls"
 
 <br>
 # Udemy
-| [Free: Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/) |
+
+| [Udemy](https://www.udemy.com/) | [Free: Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/) |
 
 <br>
 # Ubuntu
 
-| [Ubuntu: USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [Ubuntu: Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [Ubuntu: Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/)
-| [Ubuntu: Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) | [Ubuntu: Server Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) | [Ubuntu: OpenVPN Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
+| [Ubuntu: USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [Ubuntu: Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [Ubuntu: Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/) | [Ubuntu: Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) |
+| [Ubuntu: Server Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) | [Ubuntu: OpenVPN Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
 
 <br>
 # ETC
 
-| [Undang Undang NKRI](https://uu.vlsm.org/) |
-| [Udemy](https://www.udemy.com/) | [UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/) | [exFat](https://itsfoss.com/mount-exfat/) | 
-[Udacity](https://www.udacity.com/) | [Udacity: Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/) |
+| [Undang Undang NKRI](https://uu.vlsm.org/) | 
+| [Udacity: Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/) | [UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/) | [exFat](https://itsfoss.com/mount-exfat/) | [Udacity](https://www.udacity.com/) |
 
 <br>
 
