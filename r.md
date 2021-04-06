@@ -20,3 +20,7 @@ layout: "urls"
 ## ETC
 
 | [Ruby on Rails](https://www.youtube.com/watch?v=fmyvWz5TUWg) | [Rossmann:BOARDS](https://boards.rossmanngroup.com/) | [Rumah Fikih](https://www.rumahfiqih.com/) | [Product Ratings](https://www.rtings.com/) |
+
+## RORA
+
+| [Y: RORA: Juzuk Amma](https://youtu.be/GY_iFrRRKIM) |
