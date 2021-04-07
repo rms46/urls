@@ -23,4 +23,5 @@ layout: "urls"
 
 ## RORA
 
-| [Y: RORA: Juzuk Amma](https://youtu.be/GY_iFrRRKIM) |
+| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) | YRORA: Tafsir Al-Azhar [01](https://youtu.be/GY_iFrRRKIM) [02](https://youtu.be/kdzlE58pl38) |
+
