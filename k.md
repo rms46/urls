@@ -10,5 +10,5 @@ layout: "urls"
 
 | [Kotlin Coroutine](https://www.youtube.com/watch?v=itQfBTZLOvM) |
 
-| [YKN: Caliphate, KSA, Hizb-ut-Tharir](https://youtu.be/CteidG21wwE)
+| [YKN: Caliphate, KSA, Hizb-ut-Tahrir](https://youtu.be/CteidG21wwE)
 
