@@ -11,7 +11,5 @@ layout: "urls"
 | [Eko Kurniawan Khannedy](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) |
 
 | [Ejen Ali](https://www.youtube.com/c/EjenAli/playlists) |
-
-
-
+| [Eli: Silicon Dojo](http://www.silicondojo.com/) |
 
