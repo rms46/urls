@@ -9,3 +9,4 @@ layout: "urls"
 | [Y: Sirah Nabawiyyah](https://www.youtube.com/playlist?list=PLlK0gGuioshBgZZf8VOC4IonQtFxPsifW) | [Y: Sirah Sahabat](https://www.youtube.com/playlist?list=PLlK0gGuioshBxyBg4TzEtKETkzOfv4mvB) | [Y: Kajian Singkat](https://www.youtube.com/playlist?list=PLlK0gGuioshB00smsBcZSuyujWEPx7ZkT) | [Y: Kajian Lainnya](https://www.youtube.com/playlist?list=PLlK0gGuioshC5m_EEvJIdDzZMaha5YFKs) |
 | [Y: Finance](https://finance.yahoo.com/) |
 | [Y: Balonku Ada Lima](https://www.youtube.com/watch?v=K5czD_jB9Os) | [Y: Pak Kasur](https://www.youtube.com/watch?v=t2wndEioW9c) | [Y: Uwa and Friends](https://www.youtube.com/c/uwaandfriends/videos) | [Y: Rico](https://www.youtube.com/c/RikoTheSeries/videos) |
+| Y:Brown: Historical criticism of Islam [[1](https://youtu.be/WHGii1Ah_3E)][[2](https://youtu.be/FjQaHoJNSX8)][[3](https://youtu.be/pWV5BxM9Y40)] |
