@@ -23,5 +23,6 @@ layout: "urls"
 
 ## RORA
 
-| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) | [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | YRORA: Tafsir Al-Azhar [01](https://youtu.be/GY_iFrRRKIM) [02](https://youtu.be/kdzlE58pl38) |
+| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) | 
+| [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) |
 
