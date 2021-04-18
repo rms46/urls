@@ -12,3 +12,5 @@ layout: "urls"
 [[2](https://youtu.be/CC2jqpXcUjc)]
 |
 
+| [Quran Surah List](https://rms46.vlsm.org/2/230.pdf) |
+
