@@ -7,10 +7,5 @@ layout: "urls"
 
 | [Quran 30 for 30](https://www.youtube.com/playlist?list=PLQ02IYL5pmhHd0H-Megw6yFxptUOh3rEQ) |
 
-| Gems From Juz 
-[[1](https://youtu.be/_7-6zdRtzhA)]
-[[2](https://youtu.be/CC2jqpXcUjc)]
-|
-
-| [Quran Surah List](https://rms46.vlsm.org/2/230.pdf) |
+| [Gems From the Quran](https://www.youtube.com/watch?v=_7-6zdRtzhA&list=PLHJNuhNCF4Nn0sDyeXCSS7a2CT5F0Z9fV) | [Quran Surah List](https://rms46.vlsm.org/2/230.pdf) |
 
