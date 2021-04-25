@@ -25,6 +25,7 @@ layout: "urls"
 
 | [Undang Undang NKRI](https://uu.vlsm.org/) | 
 | [Udacity: Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/) | [UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/) | [exFat](https://itsfoss.com/mount-exfat/) | [Udacity](https://www.udacity.com/) |
+| [IOU](https://iou.edu.gm/) |
 
 <br>
 
