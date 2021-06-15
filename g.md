@@ -5,15 +5,15 @@ layout: "urls"
 <br>
 # Git and GitHub
 
-| [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) | [Git Key Terms](https://video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) | [Y: Git For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) | 
-| [Git Tutorial](https://www.atlassian.com/git/tutorials/) | [Pro Git](https://git-scm.com/docs/git-init) | 
+| [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) | [Git Key Terms](https://video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) | [Y: Git For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) | [Git Tutorial](https://www.atlassian.com/git/tutorials/) |
+| [Pro Git](https://git-scm.com/docs/git-init) | [Git merge vs rebase](https://youtu.be/CRlGDDprdOQ) | [GitFlow CheatSheet](http://danielkummer.github.io/git-flow-cheatsheet/) | 
 | [GitHub Commit Email Address](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) |
 | [Git Udacity](https://classroom.udacity.com/courses/ud123) |
 | [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk) |
 | [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) | [GitLab CSUI](https://gitlab.cs.ui.ac.id/) |
 | [Git Token authentication](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) | [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) | [Please Stop  Recommending Git Flow](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) | [Understanding GitHub Flow](https://guides.github.com/introduction/flow/) |
-| [GitFlow CheatSheet](http://danielkummer.github.io/git-flow-cheatsheet/) | [Git merge vs rebase](https://youtu.be/CRlGDDprdOQ) | [What is a pull request](https://www.youtube.com/watch?v=For9VtrQx58) | [Git: Tutorial](https://backlog.com/git-tutorial/) |
-| [GitHub: Managing Commit Signature Verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | [Git Repository Backup](https://git-memo.readthedocs.io/en/latest/repository_backup.html) | [GitHubDocs:Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line) | [WorkFlows](https://www.atlassian.com/git/tutorials/comparing-workflows) 
+| [What is a pull request](https://www.youtube.com/watch?v=For9VtrQx58) | [Git: Tutorial](https://backlog.com/git-tutorial/) |
+| [GitHub: Managing Commit Signature Verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification) | [Git Repository Backup](https://git-memo.readthedocs.io/en/latest/repository_backup.html) | [GitHubDocs:Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line) | 
 | [Merge vs Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) | [Git 01: What is Version Control?](https://www.youtube.com/watch?v=9GKpbI1siow) | [Git 02: Vocab](https://www.youtube.com/watch?v=n-p1RUmdl9M) | [Git 03: Installation](https://www.youtube.com/watch?v=UFEby2zo-9E) | 
 | [Git 04: GitHub](https://www.youtube.com/watch?v=ol_UCWox9kc) | [Git Tutorial: Codemy](https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP) | [Git Tutorial: Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW) | [Merge Requests](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html) 
 | [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) |
