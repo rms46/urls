@@ -11,11 +11,6 @@ layout: "urls"
 | [YSense](https://www.ysense.com/) | [GNUPG](https://gnupg.org/) |
 
 <hr>
-| [GMAIL](https://mail.google.com/) |
-
-<hr>
 | [IndoGlobal](https://indoglobal.com/) | [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) |
 
-<hr>
 
-| [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: FirstMedia](https://my.firstmedia.com/) |

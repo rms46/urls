@@ -11,9 +11,6 @@ layout: "urls"
 | [YSense](https://www.ysense.com/) | [GNUPG](https://gnupg.org/) |
 
 <hr>
-| [Twitter](https://tweetdeck.twitter.com/) | [GMAIL](https://mail.google.com/) |
-
-<hr>
 | [IndoGlobal](https://indoglobal.com/) |
 | [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) |
 
@@ -22,6 +19,10 @@ layout: "urls"
 
 <hr>
 
-| [ISP: MyRepublic](https://myrepublic.co.id/) |
+| [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: FirstMedia](https://my.firstmedia.com/) |
 
-| [ISP: FirstMedia](https://my.firstmedia.com/) |
+<hr>
+
+| [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
+
+
