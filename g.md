@@ -35,4 +35,5 @@ layout: "urls"
 # GNUPG
 
 | [GNUPG](https://gnupg.org/) | [GNUPG CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) | [GNUPG Tutorial](https://futureboy.us/pgp.html) | [GNUPG: Signing Party Howto](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
+| [GPG: Can and Cannot Prove](https://www.qubes-os.org/security/verifying-signatures/) |
 
