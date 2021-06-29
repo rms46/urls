@@ -2,7 +2,7 @@
 layout: "urls"
 ---
 
-| [Password Generator](https://passwordsgenerator.net/) |
+| [PDFtk](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/pdftk-memotong-berkas-pdf.html) | [Password Generator](https://passwordsgenerator.net/) |
 
 | Phantom [Trial](http://www.phantomtrail.com/daily-comic-strips/Phantom) [Comics Kingdom](https://www.comicskingdom.com/phantom) |
 
