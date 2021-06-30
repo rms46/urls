@@ -34,6 +34,7 @@ layout: "urls"
 <br>
 # GNUPG
 
-| [GNUPG](https://gnupg.org/) | [GNUPG CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) | [GNUPG Tutorial](https://futureboy.us/pgp.html) | [GNUPG: Signing Party Howto](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
-| [GPG: Can and Cannot Prove](https://www.qubes-os.org/security/verifying-signatures/) |
+| [GNUPG](https://gnupg.org/) | [GPG: CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) | [GPG: Tutorial](https://futureboy.us/pgp.html) | [GPG: Signing Party Howto](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
+| [GPG: Can and Cannot Prove](https://www.qubes-os.org/security/verifying-signatures/) | [GPG: Ownertrust Levels](https://gpgtools.tenderapp.com/kb/faq/what-is-ownertrust-trust-levels-explained) | [GPG: Y: Web of Trust](https://www.youtube.com/watch?v=ktxv53HYrZA) |
+
 
