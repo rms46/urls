@@ -14,7 +14,7 @@ layout: "urls"
 
 ## REGEX
 
-| [REGEXR](https://regexr.com/) |
+| [Y: REGEX Tutorial](https://youtu.be/rhzKDrUiJVk) | [REGEXR](https://regexr.com/) |
 
 ## Research
 
