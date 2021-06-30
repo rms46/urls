@@ -12,6 +12,9 @@ layout: "urls"
 | [RMS: Kumpulan Gambar Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html) | [RMS: Tantangan Penelitian Tugas Akhir](https://rahmatm.samik-ibrahim.vlsm.org/2011/01/tantangan-penelitian-tugas-akhir.html) |
 | [RMS: Kinerja Prosesor Intel](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/prosesor-intel-core-i5-650.html) |
 
+## REGEX
+
+| [REGEXR](https://regexr.com/) |
 
 ## Research
 
@@ -20,9 +23,4 @@ layout: "urls"
 ## ETC
 
 | [Ruby on Rails](https://www.youtube.com/watch?v=fmyvWz5TUWg) | [Rossmann:BOARDS](https://boards.rossmanngroup.com/) | [Rumah Fikih](https://www.rumahfiqih.com/) | [Product Ratings](https://www.rtings.com/) |
-
-## RORA
-
-| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) | 
-| [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) |
 

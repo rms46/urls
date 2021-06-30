@@ -23,6 +23,9 @@ layout: "urls"
 
 <hr>
 
+
+| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
+| [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) |
 | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
 
 
