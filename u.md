@@ -7,12 +7,9 @@ layout: "urls"
 
 | [UI](https://ui.ac.id/) | [UI: Beranda](https://beranda.ui.ac.id/) | [UI: SIAK](https://academic.ui.ac.id/) | [UI: SSO](https://sso.ui.ac.id/) |
 | [UI: Drive](https://drive.ui.ac.id/)     | [UI: Upload](http://upload.ui.ac.id/)  | [UI: Remote Lib](https://remote-lib.ui.ac.id/) | [UI BPR OS](https://scele.cs.ui.ac.id/mod/assign/view.php?id=68993) |
-| [UI: Sipeg](https://sipeg.ui.ac.id/) | [UI Klinik Satelit](https://reservasi.ehealth.co.id/) | [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) | [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
+| [UI: Sipeg](https://sipeg.ui.ac.id/) | [UI: SCELE](https://scele.cs.ui.ac.id/) [UI: Forum Akademis](https://scele.cs.ui.ac.id/mod/forum/view.php?id=1) | [UI Klinik Satelit](https://reservasi.ehealth.co.id/) | [RSUI: Telemedicine  ](http://bit.ly/telemedicineRSUI) 
+| [RSUI: Jadwal Dokter ](http://bit.ly/jadwaldokterRSUI) |
 
-<br>
-# Udemy
-
-| [Udemy](https://www.udemy.com/) | [Free: Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/) |
 
 <br>
 # Ubuntu
@@ -23,11 +20,7 @@ layout: "urls"
 <br>
 # ETC
 
-| [Undang Undang NKRI](https://uu.vlsm.org/) | 
+| [Undang Undang NKRI](https://uu.vlsm.org/) | [IOU](https://iou.edu.gm/) | [Y: The Unix OS](https://www.youtube.com/watch?v=tc4ROCJYbm0) |
 | [Udacity: Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/) | [UEFI](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/) | [exFat](https://itsfoss.com/mount-exfat/) | [Udacity](https://www.udacity.com/) |
-| [IOU](https://iou.edu.gm/) |
-
-<br>
-
-| [Y: The Unix OS](https://www.youtube.com/watch?v=tc4ROCJYbm0) |
+| [Udemy](https://www.udemy.com/) | [Free: Shell Scripting](https://www.udemy.com/course/linux-shell-scripting-free/) |
 
