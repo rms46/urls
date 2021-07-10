@@ -23,6 +23,7 @@ layout: "urls"
 <br>
 # ETC
 
+| [Y: Gimp Tutorial](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz) |
 | [Google Developers](https://developers.google.com/) | [Google Search Console](https://search.google.com/search-console) | [Google Search Console Insights](https://search.google.com/search-console/insights/) | [Google Analytics](https://analytics.google.com/) |
 | [Y: Google YouTube](https://www.youtube.com/) | [Y: Google Photo](https://youtu.be/7Ew5Oej19tU) | [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [G: MyActivity](https://myactivity.google.com/) |
 | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) | [GH: Google Workspace Script](https://github.com/googleworkspace/apps-script-samples/) | [Google Scripts/Sheets](https://www.howtogeek.com/201436/8-surprisingly-useful-things-you-can-do-with-google-sheets-and-google-apps-script/) | [Google Apps Script Tutorial](http://www.googleappsscript.org/) |
