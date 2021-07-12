@@ -19,4 +19,5 @@ layout: "urls"
 <br>
 
 | [Y: Bash Short Cuts](https://www.youtube.com/watch?v=C-AQAJXdoS8) | 
+| [DATE PROMPTS](https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts) |
 
