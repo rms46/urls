@@ -2,7 +2,9 @@
 layout: "urls"
 ---
 
-| [SPADA](https://admin-spada.kemdikbud.go.id/) |
+| [SPADA](https://admin-spada.kemdikbud.go.id/) | [SPADA DIKTI](https://spadadikti.id/home-landing/) | [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) |
+
+
 | [SCELE: OS](https://scele.cs.ui.ac.id/course/view.php?id=3020) | [SCELE: SP](https://scele.cs.ui.ac.id/course/view.php?id=2975) | [SCELE: Akademis](https://scele.cs.ui.ac.id/mod/forum/view.php?id=1) | [SIAK](https://academic.ui.ac.id/) |
 | [SI Asisten](https://siasisten.cs.ui.ac.id/) |
 ||
