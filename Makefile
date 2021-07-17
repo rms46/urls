@@ -2,6 +2,5 @@
 
 all:
 	@echo -n "XYZZY.."
-	@sleep 1
 	@echo ". Nothing Happens..."
 
