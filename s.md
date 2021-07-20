@@ -2,9 +2,9 @@
 layout: "urls"
 ---
 
+| [SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide) |
 | [SPADA](https://admin-spada.kemdikbud.go.id/) | [SPADA DIKTI](https://spadadikti.id/home-landing/) | [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) |
-
-
+||
 | [SCELE: OS](https://scele.cs.ui.ac.id/course/view.php?id=3020) | [SCELE: SP](https://scele.cs.ui.ac.id/course/view.php?id=2975) | [SCELE: Akademis](https://scele.cs.ui.ac.id/mod/forum/view.php?id=1) | [SIAK](https://academic.ui.ac.id/) |
 | [SI Asisten](https://siasisten.cs.ui.ac.id/) |
 ||
@@ -19,5 +19,4 @@ layout: "urls"
 | [Play List](https://www.youtube.com/playlist?list=PLBSbnqa_elVtZHIifu6EQody-AYNTOEq0) |
 | [Speed Reading](https://youtu.be/RmmQyE00vl4) |
 | [SU: Clean Script](https://superuser.com/questions/236930/how-to-clean-up-output-of-linux-script-command) | [SE: Remove Control Chars](https://unix.stackexchange.com/questions/14684/removing-control-chars-including-console-codes-colours-from-script-output) |
-
 
