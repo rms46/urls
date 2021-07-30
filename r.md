@@ -13,7 +13,7 @@ layout: "urls"
 | [RMS: Kinerja Prosesor Intel](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/prosesor-intel-core-i5-650.html) |
 ||
 | RMS Link |
-| [RMS: Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [RMS: Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) |
+| [RMS: Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [RMS: Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) | [RMS: Rahmat's BookMarks](https://rahmatm.samik-ibrahim.vlsm.org/p/rmss-url-list.html) |
 ||
 | REGEX |
 | [Y: REGEX Tutorial](https://youtu.be/rhzKDrUiJVk) | [REGEXR](https://regexr.com/) |
