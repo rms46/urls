@@ -12,7 +12,8 @@ layout: "urls"
 | [RMS: Kumpulan Gambar Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html) | [RMS: Tantangan Penelitian Tugas Akhir](https://rahmatm.samik-ibrahim.vlsm.org/2011/01/tantangan-penelitian-tugas-akhir.html) |
 | [RMS: Kinerja Prosesor Intel](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/prosesor-intel-core-i5-650.html) |
 ||
-| [RMS: Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
+| RMS Link |
+| [RMS: Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) | [RMS: Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) |
 ||
 | REGEX |
 | [Y: REGEX Tutorial](https://youtu.be/rhzKDrUiJVk) | [REGEXR](https://regexr.com/) |
