@@ -3,6 +3,10 @@ layout: "urls"
 ---
 
 ||
+| GHP |
+||
+| [GHP: Hacker Theme](https://github.com/pages-themes/hacker) | [GHP: OSP4DISS](https://github.com/OSP4DISS) |
+||
 | Links |
 | [Grammarly](https://grammarly.com/) | [Y: Gimp Tutorial](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz) |
 ||
