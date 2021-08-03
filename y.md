@@ -4,7 +4,7 @@ layout: "urls"
 
 
 ||
-| [Y: YAML Tutorial](https://youtu.be/1uFVr15xDGg) |
+| [Y: YAML Tutorial](https://youtu.be/1uFVr15xDGg) | [YAML and Liquid](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial) |
 ||
 | [Yaqeen Institute](https://yaqeeninstitute.org/) |
 | [Y: 10 Informative Channels](https://youtu.be/5p2hWMmh0fU) | [YSense](https://www.ysense.com/) |
