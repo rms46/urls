@@ -3,7 +3,7 @@ layout: "urls"
 ---
 
 ||
-| [Liquid](https://shopify.github.io/liquid/filters/default/) | [License: Open Source](https://choosealicense.com/) | [LanguageTool](https://languagetoolplus.com/) | [LXD Memo](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/lxd-memo.html) |
+| [Liquid](https://shopify.github.io/liquid/) | [License: Open Source](https://choosealicense.com/) | [LanguageTool](https://languagetoolplus.com/) | [LXD Memo](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/lxd-memo.html) |
 | [Belajar LaTeX](https://github.com/Belajar-Latex/) | [LaTeX BibMe](https://www.bibme.org/) | [LaTeX (Belajar)](https://github.com/Belajar-Latex) | [Top 5 Language 2021](https://youtu.be/aSGsMBX-zuQ) | 
 ||
 | [LFS VauLSMorg](http://lfs.vlsm.org/) | [LinuxFromScratch.org](http://www.linuxfromscratch.org/) | [Y:Linux Conf Au](https://www.youtube.com/c/linuxconfau) |
