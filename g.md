@@ -9,14 +9,14 @@ layout: "urls"
 | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) | [GH: Google Workspace Script](https://github.com/googleworkspace/apps-script-samples/) | [Google Scripts/Sheets](https://www.howtogeek.com/201436/8-surprisingly-useful-things-you-can-do-with-google-sheets-and-google-apps-script/) | [Google Apps Script Tutorial](http://www.googleappsscript.org/) |
 | [Google](https://google.com/) | [Google Scholar](https://scholar.google.com/) | [Google Drive](https://drive.google.com/) |
 ||
+| Links |
+| [Grammarly](https://grammarly.com/) | [The Grounded Theory Review](http://groundedtheoryreview.com/) | [The Grounded Theory Institute](http://www.groundedtheory.com/) | [The Grounded Theory Page](https://gtm.vlsm.org/) |
+| [The Great Courses](https://www.thegreatcourses.com/) | [Grub](https://www.dedoimedo.com/computers/grub.html) | [Grub2](https://www.dedoimedo.com/computers/grub-2.html) | [Go Movies](https://www12.gomoviesfree.page/) |
+| [Y: Gimp Tutorial](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz) |
+||
 | GHP |
 ||
 | [GHP: Hacker Theme](https://github.com/pages-themes/hacker) | [GHP: OSP4DISS](https://github.com/OSP4DISS) |
-||
-| Links |
-| [The Grounded Theory Review](http://groundedtheoryreview.com/) | [The Grounded Theory Institute](http://www.groundedtheory.com/) | [The Grounded Theory Page](https://gtm.vlsm.org/) | [Grammarly](https://grammarly.com/) |
-| [The Great Courses](https://www.thegreatcourses.com/) | [Grub](https://www.dedoimedo.com/computers/grub.html) | [Grub2](https://www.dedoimedo.com/computers/grub-2.html) | [Go Movies](https://www12.gomoviesfree.page/) |
-| [Y: Gimp Tutorial](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz) |
 ||
 | GNUPG |
 | [GNUPG](https://gnupg.org/) | [GPG: CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) | [GPG: Tutorial](https://futureboy.us/pgp.html) | [GPG: Signing Party Howto](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
