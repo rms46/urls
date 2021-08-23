@@ -3,7 +3,7 @@ layout: "urls"
 ---
 
 ||
-| [LuaLaTeX: A Guide](http://dante.ctan.org/tex-archive/info/luatex/lualatex-doc/lualatex-doc.pdf) | [An Introduction to LuaTeX 01](https://www.overleaf.com/learn/latex/Articles/An_Introduction_to_LuaTeX_(Part_1):_What_is_it%E2%80%94and_what_makes_it_so_different%3F) | [An Introduction to LuaTeX 02](https://www.overleaf.com/learn/latex/Articles/An_Introduction_to_LuaTeX_(Part_2):_Understanding_%5Cdirectlua) |
+| [xxTeXxx: A Starter](https://tug.org/begin.html) | [LuaLaTeX: A Guide](http://dante.ctan.org/tex-archive/info/luatex/lualatex-doc/lualatex-doc.pdf) | [An Introduction to LuaTeX 01](https://www.overleaf.com/learn/latex/Articles/An_Introduction_to_LuaTeX_(Part_1):_What_is_it%E2%80%94and_what_makes_it_so_different%3F) | [An Introduction to LuaTeX 02](https://www.overleaf.com/learn/latex/Articles/An_Introduction_to_LuaTeX_(Part_2):_Understanding_%5Cdirectlua) |
 | [LaTeX: Belajar](https://latex.vlsm.org/) | [LaTeX: Belajar](https://github.com/Belajar-Latex/) | [Y: Language Top 5 2021](https://youtu.be/aSGsMBX-zuQ) | [LaTeX BibMe](https://www.bibme.org/) | 
 | [Liquid](https://shopify.github.io/liquid/) | [License: Open Source](https://choosealicense.com/) | [LanguageTool](https://languagetoolplus.com/) | [LXD Memo](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/lxd-memo.html) |
 ||
