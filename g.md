@@ -7,7 +7,7 @@ layout: "urls"
 | [Google Search Console Insights](https://search.google.com/search-console/insights/) | [Google Analytics](https://analytics.google.com/) | [Google CSE](https://programmablesearchengine.google.com/cse/all) | [G: MyActivity](https://myactivity.google.com/) |
 | [Y: Google YouTube](https://www.youtube.com/) | [Y: Google Photo](https://youtu.be/7Ew5Oej19tU) | [Google Scripts](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/google-scripts.html) |
 | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) | [GH: Google Workspace Script](https://github.com/googleworkspace/apps-script-samples/) | [Google Scripts/Sheets](https://www.howtogeek.com/201436/8-surprisingly-useful-things-you-can-do-with-google-sheets-and-google-apps-script/) | [Google Apps Script Tutorial](http://www.googleappsscript.org/) |
-| [Google](https://google.com/) | [Google Scholar](https://scholar.google.com/) | [Google Drive](https://drive.google.com/) |
+| [Google](https://google.com/) | [Google Business](https://www.google.com/business/) | [Google Scholar](https://scholar.google.com/) | [Google Drive](https://drive.google.com/) |
 ||
 | Links |
 | [Grammarly](https://grammarly.com/) | [The Grounded Theory Review](http://groundedtheoryreview.com/) | [The Grounded Theory Institute](http://www.groundedtheory.com/) | [The Grounded Theory Page](https://gtm.vlsm.org/) |
