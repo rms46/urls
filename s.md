@@ -20,4 +20,4 @@ layout: "urls"
 | [Play List](https://www.youtube.com/playlist?list=PLBSbnqa_elVtZHIifu6EQody-AYNTOEq0) |
 | [Speed Reading](https://youtu.be/RmmQyE00vl4) |
 | [SU: Clean Script](https://superuser.com/questions/236930/how-to-clean-up-output-of-linux-script-command) | [SE: Remove Control Chars](https://unix.stackexchange.com/questions/14684/removing-control-chars-including-console-codes-colours-from-script-output) |
-
+| [Scribbr](https://www.youtube.com/c/Scribbr-us) |
