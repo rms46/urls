@@ -20,6 +20,8 @@ layout: "urls"
   Berikut merupakan usulan pembakuan pembuatan partisi disk untuk keperluan server mirror (umpama si Komo).
   Untuk meningkatkan kehandalan sistem, sebaiknya disk selalu dibagi menjadi empat (4) partisi.
   Pada tulisan ini akan digunakan contoh disk /dev/sdd.
+* [Unboxing Minang Kakao 100% Dark Chocolate (32gram)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/unboxing-minang-kakao-100-dark.html).
+  Berikut laporan unboxing coklat Minang Kakao 100% Dark Chocolate (32gram).
 * [Office Sweet Office](https://rahmatm.samik-ibrahim.vlsm.org/2008/03/office-sweet-office.html).
   Ini pojok ruang kerjaku --- office sweet office --- ruang 3207 pada tahun 2008 lalu.
   Paling kiri ada sangam.vlsm.org (server intranet) yang sudah lama off, lalu TV (sudah off), 
@@ -151,5 +153,52 @@ layout: "urls"
 * [Mesin Ketik (Typewriter)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/mesin-ketik-typewriter.html).
   Topik hari ini ialah mesin ketik, sebuah mesin cetak yang biasanya tidak menggunakan listrik.
   Bagaimanakah cara menggunakan mesin tik?
+* [UBUNTU: How can I test my hard drive health?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/ubuntu-how-can-i-test-my-hard-drive.html).
+  The smartmontools package contains two utility programs (smartctl and smartd) to control and monitor 
+  storage systems using the Self-Monitoring, Analysis and Reporting Technology System (SMART) 
+  built into most modern ATA/SATA, SCSI/SAS and NVMe disks.
+* [Tips to improve PC performance in Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/tips-to-improve-pc-performance-in.html).
+  Just Google it! It may change from time to time. This is what I am currently following.
+* [The Bash PROMPT_COMMAND before PS1](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/the-bash-promptcommand-before-ps1.html).
+  If set, the value is interpreted as a command to execute before the printing of each primary prompt ($PS1).
+* [Eid-Al-Adha 1442 --- Lebaran Haji 2021](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/eid-al-adha-1442-lebaran-haji-2021.html).
+  Beginilah lebaran haji 2021 (1442H).
+* [AWAS: Penawaran First Media Sport Pack?!](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/awas-penawaran-first-media-sport-pack.html).
+  Terlampir email penawaran "SEBAGAI KOMITMEN First Media" yaitu "First Sport Pack".
+* [Statuta Universitas Indonesia (PP75/2021)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/statuta-universitas-indonesia-pp752021.html).
+  Ditengah kehebohan Peraturan Pemerintah (PP) no 75 / 2021 tentang Statuta Universitas Indonesia;
+  ternyata berkasnya sendiri menghilang dari peredaran!
+* [Sariamin Ismail](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/sariamin-ismail.html).
+  Siapakah Sariamin Ismail, tokoh yang ditampilkan oleh Google Doodles pada tanggal 31 Juli ini?
+* [GitHub Page From Scratch](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/github-page-from-scratch.html).
+  Sepanjang akhir pekan lalu, saya mengerjakan "GitHub Page From Scratch".
+* [LaTeX Examples (MWE) with TARBALLS and PDFs](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/latex-examples.html).
+  A LaTeX MWE GitHub Page at GitHub.
+* [My English, My Mistakes](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/my-english-my-mistakes.html).
+  Grammarly just informed me of my mistakes in English. Some of the tones that were detected in my writings.
+* [Dispenser Odol](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/dispenser-odol.html).
+  Dispenser odol seperti ini banyak tersedia secara online. Murah, meriah, dan lumayan praktis.
+* [Debian 11 has been released](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/debian-11-has-been-released.html).
+  Debian 11 has been released.
+  This morning --- while watching YouTube --- 
+  I tried to install Debian 11 on VirtualBox.
+  See also Operating Systems Programming For DISS.
+* [Dr. RAK Samik-Ibrahim (1928 -- 2006)](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/dr-rak-samik-ibrahim-1929-2006.html).
+  Tidak banyak yang tahu singkatan RAK serta mengapa ada "strip" (hyphen) antar "Samik" dan "Ibrahim".
+  Tulisan ini mencoba menjelaskan asal-usul dari nama tersebut.
+* [What are pliers doing on this working desk?!](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/what-are-pliers-doing-on-this-working.html).
+  Aha!
+* [So, what is LuaLaTeX anyway?](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/so-what-is-lualatex-anyway.html).
+  Have you ever tried to run LaTeX on an IBM PC/XT 5160?  I have!
+* [Acara Peluncuran Buku Biografi Samik Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/acara-peluncuran-buku-biografi-samik.html).
+  Pada dasarnya -- mengecewakan -- jika pada sebuah acara,
+  protokol kesehatan kurang mendapatkan perhatian!
+  Apalagi, jika acara diselenggarakan oleh sebuah lembaga pendidikan tinggi.
+* [Lomba Pintu Kamar Mandi](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/lomba-pintu-kamar-mandi.html).
+  Berikut kontestan lomba pintu kamar mandi.
+  Ada baiknya, juga membandingkan dengan kondisi pintu kamar mandi masing masing, ya!
+  Dipilih... dipilih...
+* [Sunday is the BACKUP day!](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/sunday-is-backup-day.html).
+  ackup hardware comes and goes. My current oldest backup disk is a Seagate 250 GB Portable External Drive.
 
 <br><br><br><br><br>
