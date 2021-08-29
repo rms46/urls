@@ -13,15 +13,35 @@ layout: "urls"
 
 * [jigdo-lite (script)](https://rahmatm.samik-ibrahim.vlsm.org/2004/12/jigdo-lite.html)
 
+
+<br>
+## 2005
+
+* [Penanggalan Islam](https://rahmatm.samik-ibrahim.vlsm.org/2005/01/penanggalan-islam.html).
+  Beberapa issue yang perlu dipecahkan secara musyawarah dan mufakat.
+
+<br>
+## 2006
+
+<br>
+## 2007
+
+* [Kepemimpinan Amburadul](https://rahmatm.samik-ibrahim.vlsm.org/2007/10/kepemimpinan-amburadul.html).
+  Seorang pemimpin yang benar, akan memilih pasangan wakil pemimpin yang benar pula.
+  Seorang wakil pemimpin yang benar harus setia kepada pemimpinnya.
+  Suatu hari kelak, sang wakil pemimpin akan melanjutkan kepemimpinan tersebut.
+
 <br>
 ## 2008
 
+* [Urband Legend](https://rahmatm.samik-ibrahim.vlsm.org/2008/01/urband-legend.html).
+  Masih banyak orang yang berpendidikan (+gaji) tinggi, tapi berlogika rendah banget.
+  Apa nggak ada kerjaan lain daripada memforward isi dari satu milis (sampah) ke milis lainnya?
+  Mesti bagaimana, jika menerima email dengan ciri berikut.
 * [Partisi Server Miror](https://rahmatm.samik-ibrahim.vlsm.org/2008/01/partisi-server-miror.html).
   Berikut merupakan usulan pembakuan pembuatan partisi disk untuk keperluan server mirror (umpama si Komo).
   Untuk meningkatkan kehandalan sistem, sebaiknya disk selalu dibagi menjadi empat (4) partisi.
   Pada tulisan ini akan digunakan contoh disk /dev/sdd.
-* [Unboxing Minang Kakao 100% Dark Chocolate (32gram)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/unboxing-minang-kakao-100-dark.html).
-  Berikut laporan unboxing coklat Minang Kakao 100% Dark Chocolate (32gram).
 * [Office Sweet Office](https://rahmatm.samik-ibrahim.vlsm.org/2008/03/office-sweet-office.html).
   Ini pojok ruang kerjaku --- office sweet office --- ruang 3207 pada tahun 2008 lalu.
   Paling kiri ada sangam.vlsm.org (server intranet) yang sudah lama off, lalu TV (sudah off), 
@@ -31,19 +51,34 @@ layout: "urls"
 * [T04 1979?](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/t04-1979.html).
   Apakah ada yang punya daftar anggota T04 MIPA ITB 1979?
   Saya hanya punya daftar pengumuman Proyek Perintis Satu (tanpa perintis dua) neh!
+* [Awas Tikus!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/awas-tikus.html).
+  Akhir pekan lalu, menjelang tengah malam -- ketika akan pulang -- 
+  saya ''berpapasan'' di tangga dengan seekor tikus (betulan).
+  Hebatnya, tikus tersebut tenang-tenang saja, tidak lari,
+  seakan yakin bahwa tidak ada yang perduli akan kehadirannya.
+* [Heil Hitler!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/heil-hitler.html).
+  Pemimpin negara yang paling bertanggung-jawab atas malapetaka Perang Dunia II (PDII) adalah Dul Hitler.
+  Jika kurang kenal siapa dia, silakan mengkaji sendiri kelakuannya. So what?
+  Pelajaran sejarah apa yang kita dapatkan?
 
 <br>
 ## 2009
 
-* [Lulusan Perguruan Tinggi](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/tamatan-perguruan-tinggi.html).
-  Apa yang kita dapat harapkan dari para lulusan perguruan tinggi? 
-  Berikut beberapa cuplikan dari situs-situs perguruan tinggi pada awal Desember 2009 ini.
+* [Apa KABAR?](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/apa-kabar.html).
+  Kabar adalah sesuatu yang disampaikan secara lisan, tertulis, mau pun elektronis.
+  Pada awalnya, nenek moyang kita menyampaikan kabar secara lisan. 
 * [1978: Promosi Hotel Sahid (Jadul Banget)](https://rahmatm.samik-ibrahim.vlsm.org/2009/02/1978-jadul-banget.html).
   Tarif Hotel Sahid USD 30 per malam (50% off) dengan fasilitas: 
   Central AC, Lemari Es, Tilpon, Televisi, Sistem Video (Bajakan?), Travel Biro, Kantor Penerbangan, 
   Apotik, Minishop, Restaurant, Bar, Newsstand, Telex, Tenis Court, dan Kolam Renang.
   Yang tidak ada: WiFi, Faksimili, YouTube, FaceBook, CNN, atau BBC.
-  
+* [Lulusan Perguruan Tinggi](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/tamatan-perguruan-tinggi.html).
+  Apa yang kita dapat harapkan dari para lulusan perguruan tinggi? 
+  Berikut beberapa cuplikan dari situs-situs perguruan tinggi pada awal Desember 2009 ini.
+* [Jalanan di Jakarta](https://rahmatm.samik-ibrahim.vlsm.org/2009/10/joki-jakarta.html).
+  Ripley's Believe Me or Not!
+  Car Jockeys in Jakarta, Indonesia, 
+  get paid to ride as passengers so commuters can use the express carpool lanes!
 
 <br>
 ## 2010
@@ -64,6 +99,9 @@ layout: "urls"
 <br>
 ## 2011
 
+* [Dirjen Gayus](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/dirjen-gayus.html).
+  Heran... Hare Gene masih menggunakan kertas dengan ukuran Folio!
+  Apakah dirjen Gayus belum pernah mendengar bahwa kebanyakan rakyat menggunakan kertas ukuran A4?
 * [Mari Bermain Android](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/mari-bermain-android.html).
   Saya biasanya membeli kamera yang ada "HP"-nya.
   Dewasa ini, Sony Ericsson Elm: lumayan murah meriah dengan resolusi 5M pixel.
@@ -99,6 +137,15 @@ layout: "urls"
   Namun di dalam bank tidak ditemukan adanya nasabah.
   Jadi, kendaraan siapa yang parkir di sana? Mengapa nasabah 
   -- apa lagi yang tanpa supir -- yang harus parkir di tempat yang jauh?
+* [Kesetaraan (Equal)](https://rahmatm.samik-ibrahim.vlsm.org/2012/10/kesetaraan-equal.html).
+  Apakah di wilayah "Timur" ini, terdapat  pemahaman tentang konsep "kesetaraan" (equal)?
+  Kelihatannya, konsep yang paling dekat yang ada ialah "adil" dan "beradab". 
+
+<br>
+## 2013
+
+* [Ferrari-ku (478 Italia)](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/ferrari-ku.html).
+  Akhirnya, kesampaian juga membeli Ferrari 458 Italia.
 
 <br>
 ## 2014
@@ -112,8 +159,10 @@ layout: "urls"
   BTW, tracking dihentikan mulai Juli 2017.
 * [Partisi Disk 2TB](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/partisi-disk-2tb.html).
   Agar baku pada setiap PC, setiap disk (2TB) dipartisi sebagai berikut.
-* [Rahmat's Blogs](https://rahmatm.samik-ibrahim.vlsm.org/2014/09/rms-blog-links.html).
-  Rahmat M. Samik-Ibrahim.
+* [Markas 3207](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/markas-3207.html).
+  Ini merupakan salah satu sudut dari markas 3207.
+  Di sebelah kanan, terlihat ujung sebuah sofa yang sering digunakan untuk istirahat.
+  Lalu ada sistem galon air minum.
 * [CARA MEMBACA CEPAT](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-membaca-cepat.html).
   
 
@@ -131,6 +180,20 @@ layout: "urls"
   saya tidak merasakan perbedaan nyata antara Windows 8.1 dan Windows 10.
 
 <br>
+## 2016
+
+* [Jawaban Standar: Mea Culpa](https://rahmatm.samik-ibrahim.vlsm.org/2016/04/mea-culpa.html).
+  Pagi ini, pertanyaan serupa ditujukan kepada dua Janitor/Cleaning Service
+  yang terkait dengan WC tersebut.
+* [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
+
+<br>
+## 2017
+
+* [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html).
+  URLs.
+
+<br>
 ## 2018
 
 * [WSL: Fine Tuning](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/wsl-fine-tuning.html)
@@ -139,6 +202,14 @@ layout: "urls"
 <br>
 ## 2019
 
+* [ITB -- 9 Februari 1978 -- menjelang Sidang Umum MPR](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/itb-1980.html).
+  Tahun 1978 merupakan tahun Sidang Umum MPR.
+  Sejak akhir 1977, mahasiswa mulai ramai melakukan demonstrasi menentang kepemimpinan Nasional yang ada.
+  Suasana memanas, sehingga tanggal 9 Februari 1978, pemerintah memutuskan untuk menduduki 
+  kampus Institut Teknologi Bandung (ITB).
+  Proses belajar-mengajar terganggu, karena pelajar dan mahasiswa melakukan pemogokan belajar.
+* [Albert Einstein: E=mc2](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/albert-einstein.html).
+  Albert Einstein pernah sekolah di Kedaung, Ciputat, Tangerang Selatan.
 * [Rahmat's Blog 1997](https://rahmatm.samik-ibrahim.vlsm.org/2019/03/rahmats-blog-1997.html)
 
 <br>
@@ -146,6 +217,11 @@ layout: "urls"
 
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
+* [Pemeliharaan Bookmarks](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/pemeliharaan-bookmarks.html).
+  Terdapat 1001 cara untuk memelihara bookmarks.
+  Silakan memelihara bookmarks sesuai dengan kepercayaan dan keyakinan masing-masing.
+  Berikut, merupakan tiga cara yang pernah saya coba.
+  Tentunya, masih ada 998 cara lain yang tidak akan dijelaskan di sini!
 
 <br>
 ## 2021
@@ -153,6 +229,8 @@ layout: "urls"
 * [Mesin Ketik (Typewriter)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/mesin-ketik-typewriter.html).
   Topik hari ini ialah mesin ketik, sebuah mesin cetak yang biasanya tidak menggunakan listrik.
   Bagaimanakah cara menggunakan mesin tik?
+* [Unboxing Minang Kakao 100% Dark Chocolate (32gram)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/unboxing-minang-kakao-100-dark.html).
+  Berikut laporan unboxing coklat Minang Kakao 100% Dark Chocolate (32gram).
 * [UBUNTU: How can I test my hard drive health?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/ubuntu-how-can-i-test-my-hard-drive.html).
   The smartmontools package contains two utility programs (smartctl and smartd) to control and monitor 
   storage systems using the Self-Monitoring, Analysis and Reporting Technology System (SMART) 
