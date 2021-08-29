@@ -186,6 +186,8 @@ layout: "urls"
   Pagi ini, pertanyaan serupa ditujukan kepada dua Janitor/Cleaning Service
   yang terkait dengan WC tersebut.
 * [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
+* [Panggil saya "Rahmat"](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/panggil-saya-rahmat.html).
+  Nama saya... Rahmat...; Rahmat... nama saya...; Kalau bukan Rahmat...; Bukan nama saya...
 
 <br>
 ## 2017
