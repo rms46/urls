@@ -115,6 +115,9 @@ layout: "urls"
 * [Ubuntu 11.04: Install](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/ubuntu-1104-install.html).
   Mari kita "bermaen" nginstall-nginstallan Ubuntu 11.04 :)! 
   Kita mulai dengan memboot komputer menggunakan CD Ubuntu 11.04 desktop.
+* [Ibu Ke Pasar Membeli Ayam](https://rahmatm.samik-ibrahim.vlsm.org/2011/08/ibu-ke-pasar-membeli-ayam.html).
+  Ibu membawa uang sebesar Rp. 100.000. Harga seekor ayam ialah Rp. 25.000. 
+  Pertanyaan: Berapa ekor ayam yang dapat dibeli ibu?
 
 <br>
 ## 2012
@@ -143,7 +146,9 @@ layout: "urls"
 
 <br>
 ## 2013
-
+ 
+* [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
+  --- dari tahun ke tahun.
 * [Ferrari-ku (478 Italia)](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/ferrari-ku.html).
   Akhirnya, kesampaian juga membeli Ferrari 458 Italia.
 
