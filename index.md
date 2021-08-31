@@ -6,7 +6,7 @@ layout: "urls"
 | [SCELE: OS](https://scele.cs.ui.ac.id/course/view.php?id=3268) | [SCELE: Pre OS](https://scele.cs.ui.ac.id/course/view.php?id=3194) | [OS](https://os.vlsm.org/) | [OS: Pages](https://os.vlsm.org/GitHubPages/) | 
 | [HOME](https://home.vlsm.org) | [Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/) | [Rahmat](https://rahmat.vlsm.org/) | [FASILKOM UI](https://www.cs.ui.ac.id/) |
 | [Type of Nouns](https://youtu.be/a0PS8emW6Qo) | [LanguageTool](https://languagetoolplus.com/) | [Grammarly](https://grammarly.com/) | [SI Asisten](https://siasisten.cs.ui.ac.id/) |
-| [OSP4DISS](https://osp4diss.vlsm.org/) | [OSP4DISS: GitHub](https://github.com/OSP4DISS/) | [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [Password Generator](https://passwordsgenerator.net/) |
+| [OSP4DISS](https://osp4diss.vlsm.org/) | [OSP4DISS: GitHub](https://github.com/OSP4DISS/) | [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [Password Generator](https://passwordsgenerator.net/plus/) |
 | [Bandwidth Place](https://www.bandwidthplace.com/) | [DSL Reports](http://www.dslreports.com/speedtest) | [SpeedTest](https://www.comparitech.com/internet-providers/speed-test/) | Phantom [Trial](http://www.phantomtrail.com/daily-comic-strips/Phantom) [Comics Kingdom](https://www.comicskingdom.com/phantom) |
 | [YSense](https://www.ysense.com/) | [GNUPG](https://gnupg.org/) |
 
