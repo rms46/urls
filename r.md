@@ -5,6 +5,7 @@ layout: "urls"
 ||
 | RMS |
 | [RMS: Rahmat M Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/) | [RMS: Rahmat](https://rahmat.vlsm.org/) | [RMS: Panggil saya Rahmat](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/panggil-saya-rahmat.html) | [RMS: 2019](https://rahmatm.samik-ibrahim.vlsm.org/2019/02/bookmark-2019.html) |
+| [RMS: How to bookmark](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/pemeliharaan-bookmarks.html) | [RMS: Bookmark 1.0 (2000s)](https://rms46.vlsm.org/etc-welcome.html) | [RMS: Bookmark 2.0 (2010s)](https://home.vlsm.org/) | [RMS: Bookmark 3.0 (2020s)](https://urls.vlsm.org/) |
 | [RMS: Rahmat's Blogs](https://rahmatm.samik-ibrahim.vlsm.org/2014/09/rms-blog-links.html) | [RMS: Rahmat's BookMarks](https://rahmatm.samik-ibrahim.vlsm.org/p/rmss-url-list.html) | [RMS: More Bookmarks](https://rahmatm.samik-ibrahim.vlsm.org/p/rmss-url-list.html) | [RMS: Copas Kilat](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/copas-kilat.html) |
 | [RMS: GitHub Pages, Ubuntu, and Jekyll](https://jekyll.vlsm.org/) | [RMS: Operating Systems](https://os.vlsm.org/) | [RMS: System Programming](https://sysprog.vlsm.org/) | [RMS: TAR](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html) |
 | [RMS: Archive](https://rms46.vlsm.org/) |
