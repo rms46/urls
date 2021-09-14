@@ -2,6 +2,10 @@
 layout: "urls"
 ---
 
+||
+| GNUPG |
+| [GNUPG](https://gnupg.org/) | [GPG: CheatSheet](https://devhints.io/gnupg/) | [GPG: Tutorial](https://futureboy.us/pgp.html) | [GPG: Signing Party Howto](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
+| [GPG: Can and Cannot Prove](https://www.qubes-os.org/security/verifying-signatures/) | [GPG: Ownertrust Levels](https://gpgtools.tenderapp.com/kb/faq/what-is-ownertrust-trust-levels-explained) | [GPG: Y: Web of Trust](https://www.youtube.com/watch?v=ktxv53HYrZA) | [GPG: Colon Details](https://github.com/CSNW/gnupg/blob/master/doc/DETAILS) |
 | Google |
 | [Y: Google Tools](https://www.youtube.com/playlist?list=PLhyAs-FPxmpzsxkxc66c11HpQhQa28vLG) | [Google Developers](https://developers.google.com/) | [Google Search Central](https://developers.google.com/search/) | [Google Search Console](https://search.google.com/search-console) |
 | [Google Search Console Insights](https://search.google.com/search-console/insights/) | [Google Analytics](https://analytics.google.com/) | [Google CSE](https://programmablesearchengine.google.com/cse/all) | [G: MyActivity](https://myactivity.google.com/) |
@@ -17,10 +21,6 @@ layout: "urls"
 | GHP |
 ||
 | [GHP: Hacker Theme](https://github.com/pages-themes/hacker) | [GHP: OSP4DISS](https://github.com/OSP4DISS) |
-||
-| GNUPG |
-| [GNUPG](https://gnupg.org/) | [GPG: CheatSheet](https://stuff.imeos.org/persistent/gpg-cheatsheet.pdf) | [GPG: Tutorial](https://futureboy.us/pgp.html) | [GPG: Signing Party Howto](https://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) |
-| [GPG: Can and Cannot Prove](https://www.qubes-os.org/security/verifying-signatures/) | [GPG: Ownertrust Levels](https://gpgtools.tenderapp.com/kb/faq/what-is-ownertrust-trust-levels-explained) | [GPG: Y: Web of Trust](https://www.youtube.com/watch?v=ktxv53HYrZA) | [GPG: Colon Details](https://github.com/CSNW/gnupg/blob/master/doc/DETAILS) |
 ||
 | Git and GitHub |
 | [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) | [Git Key Terms](https://video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) | [Y: Git For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) | [Pro Git](https://git-scm.com/docs/git-init) |
