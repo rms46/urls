@@ -285,5 +285,10 @@ layout: "urls"
   Dipilih... dipilih...
 * [Sunday is the BACKUP day!](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/sunday-is-backup-day.html).
   ackup hardware comes and goes. My current oldest backup disk is a Seagate 250 GB Portable External Drive.
+* [UBUNTU (Gnome): Where are the KDE Wallet files stored?](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/ubuntu-gnome-where-are-kde-wallet-files.html).
+  Somehow, there is a problem with evince, the Gnome PDF reader.
+  Therefore, I switched to okular, the kde PDF reader.
+  But alas, okular asks for KDE wallet!
+  So, where are the KDE wallet files stored?
 
 <br><br><br><br><br>
