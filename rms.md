@@ -290,5 +290,12 @@ layout: "urls"
   Therefore, I switched to okular, the kde PDF reader.
   But alas, okular asks for KDE wallet!
   So, where are the KDE wallet files stored?
+* [UBUNTU: Add a USER to another GROUP](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/ubuntu-add-user-to-another-group.html).
+  I always forget this command when I need it! E.g., adding group "group" to user "user."<br>
+  usermod -a -G group user
+
+<br>
+## 2022
+
 
 <br><br><br><br><br>
