@@ -127,6 +127,7 @@ layout: "urls"
   They were surprised to discover small pieces of copper. 
 * [Grounded Theory](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/grounded-theory-is.html)
   --- is a general method of comparative analysis.
+* [Default A4 untuk LibreOffice](https://rahmatm.samik-ibrahim.vlsm.org/2012/02/default-a4-untuk-libreoffice.html).
 * [Tiny Core Linux](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/tiny-core-linux.html)
   (TC) merupakan sistem Linux yang sangat ringkas dan cepat.
   TC masih dapat berfungsi pada perangkat keras dengan memori terbatas (< 100 MB!).
@@ -209,6 +210,9 @@ layout: "urls"
 <br>
 ## 2019
 
+* [Tandem Gadget](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/tandem-gadget.html).
+  Sistem Ponsel Tandem dapat menghindar kondisi LOW-BAT. Ponsel kiri (Redmi 6A) untuk sehari-hari (siang);
+  ponsel kanan (Redmi 5A) untuk cadangan.
 * [ITB -- 9 Februari 1978 -- menjelang Sidang Umum MPR](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/itb-1980.html).
   Tahun 1978 merupakan tahun Sidang Umum MPR.
   Sejak akhir 1977, mahasiswa mulai ramai melakukan demonstrasi menentang kepemimpinan Nasional yang ada.
@@ -218,6 +222,11 @@ layout: "urls"
 * [Albert Einstein: E=mc2](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/albert-einstein.html).
   Albert Einstein pernah sekolah di Kedaung, Ciputat, Tangerang Selatan.
 * [Rahmat's Blog 1997](https://rahmatm.samik-ibrahim.vlsm.org/2019/03/rahmats-blog-1997.html)
+* [Kereta Api Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2019/08/kereta-api-indonesia.html).
+  2019, masih tetap begitu!
+  Tiba di stasiun Bandung, sebagian penumpang diharapkan melompat dari gerbong Kereta Api!
+* [Kolam Renang FelFest Universitas Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2019/08/kolam-renang-felfest-universitas.html).
+  Masih baru, namun sudah banyak kerusakan.
 
 <br>
 ## 2020
@@ -233,6 +242,21 @@ layout: "urls"
 <br>
 ## 2021
 
+* [UBUNTU: Snap Permission Sh*t](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-snap-permission-sht.html).
+  Goodbye Ubuntu, Hello Debian?!
+  Gr.... semakin lama menggunakan Ubuntu, semakin ingin berpisah! Banyak "kejutan" muncul, setelah pindah dari 18.04 ke 20.04!
+* [GSGS: Git Sana Git Sini](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/gsgs-git-sana-git-sini.html). TBA.
+* [SHA256SUM Debian ISO/OVA untuk VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/sha256sum-debian-isoova-untuk-virtualbox.html).
+  Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
+  langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.
+  Mungkin saja, berkas tersebut mengalami perubahan saat download.
+* [Setelah Satu Tahun Dengan COVID-19](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/setelah-satu-tahun-dengan-covid-19.html).
+  Saya biasanya belanja satu tahun satu kali untuk beberapa keperluan sehari-hari.
+  Namun, setelah belanja tahunan bulan Maret 2020 lalu, musim COVID-19 dimulai!
+  Berikut merupakan laporan inventaris setelah satu tahun di rumah saja.
+* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
+  morons, and idiots; step by step tutorial 101".
 * [Mesin Ketik (Typewriter)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/mesin-ketik-typewriter.html).
   Topik hari ini ialah mesin ketik, sebuah mesin cetak yang biasanya tidak menggunakan listrik.
   Bagaimanakah cara menggunakan mesin tik?
@@ -293,6 +317,9 @@ layout: "urls"
 * [UBUNTU: Add a USER to another GROUP](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/ubuntu-add-user-to-another-group.html).
   I always forget this command when I need it! E.g., adding group "group" to user "user."<br>
   usermod -a -G group user
+* [ITB: Bioskop Kampus 9009](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/itb-bioskop-kampus-9009.html).
+  Pada zaman dahulu -- entah sekarang -- ruang 9009 ITB pada siang hari digunakan untuk kuliah Kimia Dasar.
+  Dosen Kimia Dasar diantaranya almarhum Drs. Hiskia Achmad (m. 2014) and almarhum Prof. Susanto Imam Rahayu (m. 2021).
 
 <br>
 ## 2022
