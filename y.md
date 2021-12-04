@@ -15,4 +15,4 @@ layout: "urls"
 | [Y: Finance](https://finance.yahoo.com/) |
 ||
 | [Y: Balonku Ada Lima](https://www.youtube.com/watch?v=K5czD_jB9Os) | [Y: Pak Kasur](https://www.youtube.com/watch?v=t2wndEioW9c) | [Y: Uwa and Friends](https://www.youtube.com/c/uwaandfriends/videos) | [Y: Rico](https://www.youtube.com/c/RikoTheSeries/videos) |
-
+| [Y: Ocean Shipping Is Broken](https://youtu.be/8d5d_HXGeMA) |
