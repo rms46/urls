@@ -2,7 +2,7 @@
 layout: "urls"
 ---
 
-|| [ShouldMeLoud: BlogSpot](https://www.shoutmeloud.com/category/blogspot-2/) |
+| [G: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [ShouldMeLoud: BlogSpot](https://www.shoutmeloud.com/category/blogspot-2/) |
 | [Blogger](https://www.blogger.com/) | [BlogSpot Source Code Formatter](http://codeformatter.blogspot.com/) | 
 | [BibMe](https://www.bibme.org/) | [Browser: What is my Browser?](https://www.whatismybrowser.com/) | [Browser: Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/) |
 ||
