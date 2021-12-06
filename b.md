@@ -2,8 +2,8 @@
 layout: "urls"
 ---
 
-| [G: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [ShouldMeLoud: BlogSpot](https://www.shoutmeloud.com/category/blogspot-2/) |
-| [Blogger](https://www.blogger.com/) | [BlogSpot Source Code Formatter](http://codeformatter.blogspot.com/) | 
+| [Blogger](https://www.blogger.com/) | [G: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [ShouldMeLoud: BlogSpot](https://www.shoutmeloud.com/category/blogspot-2/) | [Blogger Templates](https://btemplates.com/) |
+| [BlogSpot Source Code Formatter](http://codeformatter.blogspot.com/) | 
 | [BibMe](https://www.bibme.org/) | [Browser: What is my Browser?](https://www.whatismybrowser.com/) | [Browser: Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/) |
 ||
 | [BPJS Reservasi](https://reservasi.ehealth.co.id/) | [Bandwidth Place](https://www.bandwidthplace.com/) | [BKN: MySAPK](https://mysapk.bkn.go.id/) |
