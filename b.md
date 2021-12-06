@@ -2,8 +2,10 @@
 layout: "urls"
 ---
 
-| [Blogger](https://www.blogger.com/) | [G: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [ShouldMeLoud: BlogSpot](https://www.shoutmeloud.com/category/blogspot-2/) | [Blogger Templates](https://btemplates.com/) |
-| [BlogSpot Source Code Formatter](http://codeformatter.blogspot.com/) | 
+| [B: Blogger](https://www.blogger.com/) | [B: BTemplates](https://btemplates.com/) | [B: Papersheet](https://github.com/mynimi/Papersheet) | [B: API](https://developers.google.com/blogger/)|
+| [B: Layout Tags](https://support.google.com/blogger/answer/47270) | [B: Tags Reference](https://blogger2ools.mystady.com/) | [B: Theme Tags](https://geekthis.net/post/blogger-theme-data-tags-for-widgets/) | [B: Widget Tags](https://support.google.com/blogger/answer/46995) |
+| [B: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [B: Source Code Formatter](http://codeformatter.blogspot.com/) | 
+||
 | [BibMe](https://www.bibme.org/) | [Browser: What is my Browser?](https://www.whatismybrowser.com/) | [Browser: Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/) |
 ||
 | [BPJS Reservasi](https://reservasi.ehealth.co.id/) | [Bandwidth Place](https://www.bandwidthplace.com/) | [BKN: MySAPK](https://mysapk.bkn.go.id/) |
