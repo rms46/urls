@@ -10,4 +10,6 @@ layout: "urls"
 
 | [Kotlin Coroutine](https://www.youtube.com/watch?v=itQfBTZLOvM) |
 
+| [Kernel Linux](https://kernel.org/)
+
 
