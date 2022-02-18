@@ -6,5 +6,6 @@ layout: "urls"
 | [Prodia Lab](https://hasil.prodia.co.id/) | [PayPal](https://www.paypal.com/) | [PadiCloud](https://manage.padicloud.id/) | [PadiPanel](https://cpanel.vlsm.org/) |
 | [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) | [Peraturan](https://peraturan.go.id/) | [Peraturan BPK](https://peraturan.bpk.go.id/) | [Phabricator](https://secure.phabricator.com/) |
 | [Pajak Online](https://djponline.pajak.go.id/) | 
+| [Y: Philosophy of the Humanities](https://www.youtube.com/playlist?list=PLPeStI124dee1ByfcDzRvPxKDNb0GQjmo) |
 
 
