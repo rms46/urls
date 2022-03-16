@@ -2,6 +2,12 @@
 layout: "urls"
 ---
 
+||
+| [BPJS Reservasi](https://reservasi.ehealth.co.id/) | [BPJS: Panduan Layanan ](https://www.bpjs-kesehatan.go.id/bpjs/arsip/view/1477) | [Bandwidth Place](https://www.bandwidthplace.com/) | [BKN: MySAPK](https://mysapk.bkn.go.id/) |
+||
+| [Bank Of America](https://www.bankofamerica.com/) | [BNI](https://www.bni.co.id/) | [CIMB](https://www.octoclicks.co.id/) | [Permata](https://www.permatabank.com/) |
+| [Bank Mandiri](https://bankmandiri.co.id/) | [BRI](https://bri.co.id/) |
+||
 | [B: Blogger](https://www.blogger.com/) | [B: BTemplates](https://btemplates.com/) | [B: Papersheet](https://github.com/mynimi/Papersheet) |
 | [B: API](https://developers.google.com/blogger/)| [B: Start API](https://developers.google.com/blogger/docs/3.0/getting_started) | [B: Using API](https://developers.google.com/blogger/docs/3.0/using) | [B: API Performance](https://developers.google.com/blogger/docs/3.0/performance) |
 | [B: API Reference](https://developers.google.com/blogger/docs/3.0/reference) | [B: Template 1](https://www.compromath.com/2017/07/create-blogger-template.html) | [B: Template 2](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/) | [B: elCreateive](https://www.elcreativeacademy.com/search/label/Blogger) | 
@@ -9,11 +15,6 @@ layout: "urls"
 | [B: stackoverflow](https://stackoverflow.com/questions/tagged/blogger) | [B: googleblog](https://blogger.googleblog.com/) | [B: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [B: Source Code Formatter](http://codeformatter.blogspot.com/) | 
 ||
 | [BibMe](https://www.bibme.org/) | [Browser: What is my Browser?](https://www.whatismybrowser.com/) | [Browser: Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/) |
-||
-| [BPJS Reservasi](https://reservasi.ehealth.co.id/) | [Bandwidth Place](https://www.bandwidthplace.com/) | [BKN: MySAPK](https://mysapk.bkn.go.id/) |
-||
-| [Bank Of America](https://www.bankofamerica.com/) | [BNI](https://www.bni.co.id/) | [CIMB](https://www.octoclicks.co.id/) | [Permata](https://www.permatabank.com/) |
-| [Bank Mandiri](https://bankmandiri.co.id/) | [BRI](https://bri.co.id/) |
 ||
 | [Y: Bash Short Cuts](https://www.youtube.com/watch?v=C-AQAJXdoS8) | [DATE PROMPTS](https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts) | [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) | [Balonku ada 5](https://youtu.be/K5czD_jB9Os) |
 
