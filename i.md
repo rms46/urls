@@ -21,10 +21,8 @@ layout: "urls"
 | [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: FirstMedia](https://my.firstmedia.com/) |
 ||
 ||
-| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
+| [W: Portal:Islam](https://en.wikipedia.org/wiki/Portal:Islam) | [W: Quran History](https://en.wikipedia.org/wiki/History_of_the_Quran) | [W: Quran List](https://en.wikipedia.org/wiki/List_of_chapters_in_the_Quran) |
+| [Yaqeen Institute](https://yaqeeninstitute.org/) | [Hadith-Series](https://yaqeeninstitute.org/series/hadith-series) | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
 | [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) |
-| [Hadith-Series](https://yaqeeninstitute.org/series/hadith-series) | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
+| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
 | Historical criticism of Islam [[1](https://youtu.be/WHGii1Ah_3E)][[2](https://youtu.be/FjQaHoJNSX8)][[3](https://youtu.be/pWV5BxM9Y40)] |
-| [Yaqeen Institute](https://yaqeeninstitute.org/) |
-| [Hadith Series](https://yaqeeninstitute.org/series/hadith-series) |
-| [Abu Amina Elias](https://www.abuaminaelias.com/) |
