@@ -13,3 +13,4 @@ layout: "urls"
 | [2000-2010](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknologi-informasi-indonesia-2000-2010.html) | [2010-2020](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknologi-informasi-indonesia-2010-2020.html) |
 ||
 | [Telegram](https://web.telegram.org/) | [TangSel DisDukCaPil](https://disdukcapil.tangerangselatankota.go.id/) | [TEMPO: Koran](https://koran.tempo.co/) | [TEMPO: Majalah](https://majalah.tempo.co/)
+| [Y: Twit](https://www.youtube.com/c/twit) |

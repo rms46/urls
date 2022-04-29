@@ -18,11 +18,11 @@ layout: "urls"
 | [Index Saham](https://www.idx.co.id/data-pasar/data-saham/indeks-saham/) |
 ||
 ||
-| [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: FirstMedia](https://my.firstmedia.com/) |
+| [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: FirstMedia](https://my.firstmedia.com/) | [ISP: XL](https://www.xl.co.id/) |
 ||
 ||
 | [W: Portal:Islam](https://en.wikipedia.org/wiki/Portal:Islam) | [W: Quran History](https://en.wikipedia.org/wiki/History_of_the_Quran) | [W: Quran List](https://en.wikipedia.org/wiki/List_of_chapters_in_the_Quran) |
-| [Yaqeen Institute](https://yaqeeninstitute.org/) | [Hadith-Series](https://yaqeeninstitute.org/series/hadith-series) | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
-| [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) |
-| [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
+| [Yaqeen Institute](https://yaqeeninstitute.org/) | [Y: Yaqeen List](https://www.youtube.com/c/YaqeenInstituteforIslamicResearch/playlists) | [Yaqeen: Hadith-Series](https://yaqeeninstitute.org/series/hadith-series) |
+| [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) | [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
+| [Y: Seerah](https://www.youtube.com/playlist?list=PLAEA99D24CA2F9A8F) | [MJS: Ngaji Filsafat](https://www.youtube.com/playlist?list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18) | [MIC: Memphis](http://www.memphisislamiccenter.org/about-mic/about-mic/) | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
 | Historical criticism of Islam [[1](https://youtu.be/WHGii1Ah_3E)][[2](https://youtu.be/FjQaHoJNSX8)][[3](https://youtu.be/pWV5BxM9Y40)] |
