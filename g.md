@@ -25,6 +25,7 @@ layout: "urls"
 | [GHP: Hacker Theme](https://github.com/pages-themes/hacker) | [GHP: OSP4DISS](https://github.com/OSP4DISS) |
 ||
 | Git and GitHub |
+| [GitHub Page SEO](https://github.blog/2016-05-10-better-discoverability-for-github-pages-sites/) |
 | [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) | [Git Key Terms](https://video.udacity-data.com/topher/2017/June/59399479_ud123-git-keyterms/ud123-git-keyterms.pdf) | [Y: Git For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) | [Pro Git](https://git-scm.com/docs/git-init) |
 | [Git merge vs rebase](https://youtu.be/CRlGDDprdOQ) | [GitFlow CheatSheet](http://danielkummer.github.io/git-flow-cheatsheet/) | [GitHub Commit Email Address](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) | [Git Udacity](https://classroom.udacity.com/courses/ud123) |
 | [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk) | [GitHub](https://github.com/) | [GitLab](https://about.gitlab.com/) | [GitLab CSUI](https://gitlab.cs.ui.ac.id/) |
