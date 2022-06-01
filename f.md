@@ -10,7 +10,7 @@ layout: "urls"
 | [Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | [SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY) | [JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg) |
 ||
 | [Finance: Trend Line](https://en.wikipedia.org/wiki/Trend_line_(technical_analysis)) | [Finance: Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_retracement) | [Finance: Candlestrick](https://en.wikipedia.org/wiki/Candlestick_pattern) |
-| [freeDNS](https://freedns.afraid.org/) | [Free Code Camp](https://www.youtube.com/c/Freecodecamp) |
+| [freeDNS (afraid)](https://freedns.afraid.org/) | [Free Code Camp](https://www.youtube.com/c/Freecodecamp) |
 | [Favicon Converter](https://favicon.io/favicon-converter/) | [Fast](https://fast.com/) |
 | [FUSE Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/) |
 ||

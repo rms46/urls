@@ -18,7 +18,7 @@ layout: "urls"
 | [Index Saham](https://www.idx.co.id/data-pasar/data-saham/indeks-saham/) |
 ||
 ||
-| [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: FirstMedia](https://my.firstmedia.com/) | [ISP: XL](https://www.xl.co.id/) |
+| [ISP: MyRepublic](https://myrepublic.co.id/) | [ISP: XL](https://www.xl.co.id/) |
 ||
 ||
 | [W: Portal:Islam](https://en.wikipedia.org/wiki/Portal:Islam) | [W: Quran History](https://en.wikipedia.org/wiki/History_of_the_Quran) | [W: Quran List](https://en.wikipedia.org/wiki/List_of_chapters_in_the_Quran) |
