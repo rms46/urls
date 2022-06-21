@@ -3,7 +3,7 @@ layout: "urls"
 ---
 
 ||
-| [BPJS Reservasi](https://reservasi.ehealth.co.id/) | [BPJS: Panduan Layanan ](https://www.bpjs-kesehatan.go.id/bpjs/arsip/view/1477) | [Bandwidth Place](https://www.bandwidthplace.com/) | [BKN: MySAPK](https://mysapk.bkn.go.id/) |
+| [BPJS Reservasi](https://reservasi.ehealth.co.id/) | [BPJS: Panduan Layanan ](https://www.bpjs-kesehatan.go.id/bpjs/arsip/view/1477) | [BKN: MySAPK](https://mysapk.bkn.go.id/) | |
 ||
 | [Bank Of America](https://www.bankofamerica.com/) | [BNI](https://www.bni.co.id/) | [CIMB](https://www.octoclicks.co.id/) | [Permata](https://www.permatabank.com/) |
 | [Bank Mandiri](https://bankmandiri.co.id/) | [BRI](https://bri.co.id/) |
@@ -16,5 +16,5 @@ layout: "urls"
 ||
 | [BibMe](https://www.bibme.org/) | [Browser: What is my Browser?](https://www.whatismybrowser.com/) | [Browser: Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/) |
 ||
-| [Y: Bash Short Cuts](https://www.youtube.com/watch?v=C-AQAJXdoS8) | [DATE PROMPTS](https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts) | [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) | [Balonku ada 5](https://youtu.be/K5czD_jB9Os) |
+| [Y: Bash Short Cuts](https://www.youtube.com/watch?v=C-AQAJXdoS8) | [Bash: DATE PROMPTS](https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts) | [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html) | [Balonku ada 5](https://youtu.be/K5czD_jB9Os) |
 
