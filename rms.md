@@ -38,6 +38,8 @@ layout: "urls"
 
 * [Penanggalan Islam](https://rahmatm.samik-ibrahim.vlsm.org/2005/01/penanggalan-islam.html).
   Beberapa issue yang perlu dipecahkan secara musyawarah dan mufakat.
+* [Sialan!](https://rahmatm.samik-ibrahim.vlsm.org/2005/07/politikus-sialan.html)
+  Kalau tidak sanggup, mengapa tidak mundur saja?
 * [Negara Orang Tolol (berikut Birokratnya)?](https://rahmatm.samik-ibrahim.vlsm.org/2005/08/negara-orang-tolol-berikut-birokratnya.html).
   Dwi Keondoro melalui komik Panji Koming (Kompas Minggu), baru-baru ini menyindir bahwa kita ini TOLOL!
   Bukan hanya sekali, bahkan menyindirnya hingga DUA kali! 
@@ -45,9 +47,14 @@ layout: "urls"
 <br>
 ## 2006
 
+* [Semoga 2024 Lebih Baik? Duh!](https://rahmatm.samik-ibrahim.vlsm.org/2006/09/ciri-pemimpin-goblok.html).
+  Tetap saja, masih banyak ditemukan aturan-aturan "wajib" tanpa sanksi yang jelas. 
+
 <br>
 ## 2007
 
+* [Dosen: Sertifikasi vs. Ijazah](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/dosen-sertifikasi-vs-ijazah.html).
+  Mungkin ada yang dapat memberikan pencerahan seputar ''sertifikasi dosen'' vs. ''ijazah dosen''?
 * [Peserta Milis Tolol](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/peserta-milis-tolol.html).
   Setolol-tololnya peserta milis ialah yang tidak tahu cara berhenti langganan.
   Padahal, tidak jarang pada kaki (footer) setiap email ada petunjuk untuk berhenti langganan.
@@ -58,6 +65,8 @@ layout: "urls"
   Seorang pemimpin yang benar, akan memilih pasangan wakil pemimpin yang benar pula.
   Seorang wakil pemimpin yang benar harus setia kepada pemimpinnya.
   Suatu hari kelak, sang wakil pemimpin akan melanjutkan kepemimpinan tersebut.
+* [Wish List CAPRES 2009](https://rahmatm.samik-ibrahim.vlsm.org/2007/12/wish-list-capres-2009.html).
+  Berikut merupakan ''Wish List'' yang mudah-mudahan akan mendapat perhatian dari tim sukses CAPRES terkait.
 
 <br>
 ## 2008
@@ -90,6 +99,12 @@ layout: "urls"
   Pelajaran sejarah apa yang kita dapatkan?
 * [PC Murah: Hanya Seratus Rebu!](https://rahmatm.samik-ibrahim.vlsm.org/2008/09/pc-murah-hanya-seratus-rebu.html).
   PC murah! Multi-Core 5 GHz, FSB 10000, 1 TB RAM, WiFi, dst... Ayo, ayo! Hanya Rp. 100.000!
+* [Pesan Sumpah Pemuda dari Bang Onno](https://rahmatm.samik-ibrahim.vlsm.org/2008/10/pesan-sumpah-pemuda-dari-bang-onno.html).
+  Buku pelajaran TIK SMA.
+* [Seminar Santai (Ver 2.0)](https://rahmatm.samik-ibrahim.vlsm.org/2008/10/seminar-santai-ver-20.html).
+  Beginilah suasana kelas IKI40991: Seminar Bidang Sistem Informasi.
+  Para peserta bebas membawa notebook ke dalam kelas.
+  Pun para peserta bebas memilih alas kaki sesuai dengan kepercayaan masing-masing.
 
 <br>
 ## 2009
@@ -102,13 +117,20 @@ layout: "urls"
   Central AC, Lemari Es, Tilpon, Televisi, Sistem Video (Bajakan?), Travel Biro, Kantor Penerbangan, 
   Apotik, Minishop, Restaurant, Bar, Newsstand, Telex, Tenis Court, dan Kolam Renang.
   Yang tidak ada: WiFi, Faksimili, YouTube, FaceBook, CNN, atau BBC.
-* [Lulusan Perguruan Tinggi](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/tamatan-perguruan-tinggi.html).
-  Apa yang kita dapat harapkan dari para lulusan perguruan tinggi? 
-  Berikut beberapa cuplikan dari situs-situs perguruan tinggi pada awal Desember 2009 ini.
+* [Universitas Kalifornia](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/universitas-kalifornia.html).
+  Universitas Kalifornia menaikan uang sekolah dari US$ 7788 menjadi US$ 10000.
+* [Kubuntu 9.10: Karmic Ciamik Wow!](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/ubuntu-910-alpha4-karmic-ciamik-wow.html).
+  Kubuntu Versi 9.10 (Karmic Koala) ini kelihatannya kembali Ciamic! 
+  Setidaknya, ini merupakan kesan pertama mencoba menginstallnya. 
+* [Memulai Era Baru](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/memulai-era-baru.html).
+  Blog ini lebih merupakan tempat menuliskan catatan pribadi, walau pun publik dipersilakan untuk membacanya.
 * [Jalanan di Jakarta](https://rahmatm.samik-ibrahim.vlsm.org/2009/10/joki-jakarta.html).
   Ripley's Believe Me or Not!
   Car Jockeys in Jakarta, Indonesia, 
   get paid to ride as passengers so commuters can use the express carpool lanes!
+* [Lulusan Perguruan Tinggi](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/tamatan-perguruan-tinggi.html).
+  Apa yang kita dapat harapkan dari para lulusan perguruan tinggi? 
+  Berikut beberapa cuplikan dari situs-situs perguruan tinggi pada awal Desember 2009 ini.
 
 <br>
 ## 2010
@@ -153,6 +175,10 @@ layout: "urls"
 * [Ibu Ke Pasar Membeli Ayam](https://rahmatm.samik-ibrahim.vlsm.org/2011/08/ibu-ke-pasar-membeli-ayam.html).
   Ibu membawa uang sebesar Rp. 100.000. Harga seekor ayam ialah Rp. 25.000. 
   Pertanyaan: Berapa ekor ayam yang dapat dibeli ibu?
+* [Apa Gunanya Partai/Wakil Rakyat?](https://rahmatm.samik-ibrahim.vlsm.org/2011/12/apa-gunanya-partaiwakil-rakyat.html)
+  Tulisan ini TENTANG IDE bahwa TEKNOLOGI INFORMASI telah memungkinkan pemangkasan peranan dari para 
+  wakil rakyat dan partai.
+  Jadi, belum membahas mahasalah teknis termasuk berapa lama diperlukan untuk mempersiapkan sistem seperti ini.
 * [TEMPLATE](https://rahmatm.samik-ibrahim.vlsm.org/p/template.html)
 
 <br>
@@ -167,6 +193,16 @@ layout: "urls"
 * [Tiny Core Linux](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/tiny-core-linux.html)
   (TC) merupakan sistem Linux yang sangat ringkas dan cepat.
   TC masih dapat berfungsi pada perangkat keras dengan memori terbatas (< 100 MB!).
+* [Menambah Nomor Baris](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/menambah-nomor-baris.html).
+  Cara mudah menambahkan nomor baris ke sebuah berkas, umpamanya "program.c".
+* [Plastik Urinoir](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/untuk-pembesaran-silakan-klik-foto-di.html).
+  Bagaimana pendapat anda, perihal URINOIR yang dihalangi dengan plastik transparan? Mempermudah? Mempersulit? 
+* [Sehari Bebas Biaya Tol](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/sehari-bebas-biaya-tol.html).
+  Sekedar informasi, kemarin tanggal 7 Maret 2012, 
+  para pengguna eToll card tidak perlu membayar saat melewati pinto Tol.
+  Sayang, belum semua pintu Tol yang menerima eToll card...
+* [BusyBox: wget dan proxy](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/busyboxwget-dan-proxy.html).
+  Bagaimana caranya menggunakan "wget" dibelakang proxy?
 * [Kisah Sirene Ngaheong](https://rahmatm.samik-ibrahim.vlsm.org/2012/07/kisah-sirene-ngaheong.html).
   Alkisah sebuah bangunan Fabrik tua, yang telah berdiri sudah lama sekali.
   Kalau penduduk sekitar ditanyai perihal Fabrik tersebut, biasanya akan menjawab
@@ -203,6 +239,8 @@ layout: "urls"
 * [Haydn vs Beethoven](https://rahmatm.samik-ibrahim.vlsm.org/2014/02/haydn-vs-beethoven.html)
   Franz Joseph "Papa" Haydn (1732-1809) dan Ludwig van Beethoven (1770-1827)
   merupakan nama dua komposer papan atas yang tetap dikenal hingga kini.
+* [Ubuntu dan VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2014/06/ubuntu-1204-lts-dan-virtualbox.html).
+  Jika Ubuntu anda mengeluarkan pesan serupa: "No suitable module for running kernel found."
 * [Berenang Di CITOS](https://rahmatm.samik-ibrahim.vlsm.org/2014/07/berenang-di-citos.html).
   Mari berenang di CITOS (Cilandak Town Square)! 
   Kecuali hari Senin, kolam sudah buka jam 06:00 pagi.
@@ -224,12 +262,15 @@ layout: "urls"
   LinkedIn's mission is to connect the world's professionals to allow them to be more 
   productive and successful.
   Invitations should only be sent to people you know personally because this IS NOT a "silaturahmi" site.
+* [Hole Punch](https://rahmatm.samik-ibrahim.vlsm.org/2015/07/hole-punch.html).
+  Dengan ini -- secara resmi -- "Hole Punch" dinyatakan pensiun!
 * [Windows 10 Sudah Tiba!](https://rahmatm.samik-ibrahim.vlsm.org/2015/08/mana-windows10-neh.html)
   Setelah beberapa hari menunggu, akhirnya upgrade Windows 10 "mampir" juga!
   Mulai sekarang menggunakan Windows 10! Jujur saja;
   saya tidak merasakan perbedaan nyata antara Windows 8.1 dan Windows 10.
 * [Investigasi Tempo: Jejak Suap Resep Obat](https://rahmatm.samik-ibrahim.vlsm.org/2015/11/tempo-upeti-resep-obat.html).
   Majalah Tempo, 8 November 2015.
+* [Logo FASILKOM UI](https://rahmatm.samik-ibrahim.vlsm.org/2015/12/logo-fasilkom-ui.html).
 
 <br>
 ## 2016
@@ -237,6 +278,14 @@ layout: "urls"
 * [Jawaban Standar: Mea Culpa](https://rahmatm.samik-ibrahim.vlsm.org/2016/04/mea-culpa.html).
   Pagi ini, pertanyaan serupa ditujukan kepada dua Janitor/Cleaning Service
   yang terkait dengan WC tersebut.
+* [God Bless Achmad Albar](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/god-bless-achmad-albar.html).
+  AKA Ucok Harahap, Genesis Phil Collins.
+* [Ubuntu dan NTFS](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/ubuntu-dan-ntfs.html).
+  Terkadang, kita perlu "membereskan " sistem berkas "NTFS" melalui ubuntu. 
+  Caranya dengan menginstal paket "ntfs-3g" serta melink program "/bin/ntfsfix"  ke "/sbin/fsck.ntfs".
+* [Ubuntu has experienced an internal error](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/ubuntu-has-experienced-internal-error.html).
+  Terkadang -- saat login -- mengeluarkan pesan yang sangat menyebalkan, yaitu: 
+  "Sorry, Ubuntu 1X.XX has experienced an internal error".
 * [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
 * [Panggil saya "Rahmat"](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/panggil-saya-rahmat.html).
   Nama saya... Rahmat...; Rahmat... nama saya...; Kalau bukan Rahmat...; Bukan nama saya...
@@ -246,8 +295,16 @@ layout: "urls"
 <br>
 ## 2017
 
+* [Antara Tokyo dan Los Angeles](https://rahmatm.samik-ibrahim.vlsm.org/2017/05/antara-tokyo-dan-los-angeles.html).
+  Pak Haji berkunjung ke Los Angeles dari Tokyo. 
+  Pak Haji berangkat dari Tokyo setelah sholat Jumat. 
+  Pak Haji tiba di Los Angeles pada Jumat pagi.
 * [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html).
   URLs.
+* [Dari Kolonel menjadi Jenderal Sanders: Berkat Mi Ayam Bawang Asli!](https://rahmatm.samik-ibrahim.vlsm.org/2017/09/dari-kolonel-menjadi-jenderal-sanders.html).
+  Asli!
+* [Pertamax Naek Daihatsu Ayla XAT 1200 (Pinjaman!)](https://rahmatm.samik-ibrahim.vlsm.org/2017/11/pertamax-naek-daihatsu-ayla-xat-1200.html)
+  Pengemudi sejati menggunakan tiga pedal! 
 
 <br>
 ## 2018
@@ -283,6 +340,8 @@ layout: "urls"
 <br>
 ## 2020
 
+* [Ubuntu 18.04: More Tidbits...](https://rahmatm.samik-ibrahim.vlsm.org/2020/02/ubuntu-1804-more-tidbits.html).
+  No NetPrinter Display
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
 * [Pemeliharaan Bookmarks](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/pemeliharaan-bookmarks.html).
@@ -376,5 +435,7 @@ layout: "urls"
 <br>
 ## 2022
 
+* [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
+  export JEKYLL_GITHUB_TOKEN='XYZZYhollowPLUGH'.
 
 <br><br><br><br><br>
