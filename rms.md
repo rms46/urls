@@ -2,11 +2,30 @@
 layout: "urls"
 ---
 
+| [PRA2001](#2000) |
 | [2001](#2001) | [2002](#2002) | [2003](#2003) | [2004](#2004) | [2005](#2005) |
 | [2006](#2006) | [2007](#2007) | [2008](#2008) | [2009](#2009) | [2010](#2010) |
 | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) |
 | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) |
 | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025) |
+
+<br>
+## 2000
+
+* tba.
+
+<br>
+## 2001
+
+* [Percobaan Pertama](https://rahmatm.samik-ibrahim.vlsm.org/2001/02/percobaan-pertama.html).
+  PERTAMAX! Pada tanggal empatbelas, bulan dua, tahun dua ribu satu, 
+  telah berlangsung peristiwa bersejarah yaitu percobaan pertama bloging dari RMS46.
+
+<br>
+## 2003
+
+* [Percobaan Blog Kedua](https://rahmatm.samik-ibrahim.vlsm.org/2003/09/percobaan-kedua.html).
+  Dua setengah tahun kemudian, dicoba lagi, dan dilupakan.... Rupanya susah take-off neh! Duh!
 
 <br>
 ## 2004
@@ -19,6 +38,9 @@ layout: "urls"
 
 * [Penanggalan Islam](https://rahmatm.samik-ibrahim.vlsm.org/2005/01/penanggalan-islam.html).
   Beberapa issue yang perlu dipecahkan secara musyawarah dan mufakat.
+* [Negara Orang Tolol (berikut Birokratnya)?](https://rahmatm.samik-ibrahim.vlsm.org/2005/08/negara-orang-tolol-berikut-birokratnya.html).
+  Dwi Keondoro melalui komik Panji Koming (Kompas Minggu), baru-baru ini menyindir bahwa kita ini TOLOL!
+  Bukan hanya sekali, bahkan menyindirnya hingga DUA kali! 
 
 <br>
 ## 2006
@@ -26,6 +48,12 @@ layout: "urls"
 <br>
 ## 2007
 
+* [Peserta Milis Tolol](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/peserta-milis-tolol.html).
+  Setolol-tololnya peserta milis ialah yang tidak tahu cara berhenti langganan.
+  Padahal, tidak jarang pada kaki (footer) setiap email ada petunjuk untuk berhenti langganan.
+* [Tiga Hambatan Distribusi Bahan Bebas](https://rahmatm.samik-ibrahim.vlsm.org/2007/08/tiga-hambatan-distribusi-bahan-bebas.html).
+  Tiga jenis hambatan dalam pendistribusian: tidak mengaktifkan fasilitas "rsync" pada repositori,
+  lebih mengutamakan tampilan dinamis, menggunakan nota Hak Cipta yang berlebihan.
 * [Kepemimpinan Amburadul](https://rahmatm.samik-ibrahim.vlsm.org/2007/10/kepemimpinan-amburadul.html).
   Seorang pemimpin yang benar, akan memilih pasangan wakil pemimpin yang benar pula.
   Seorang wakil pemimpin yang benar harus setia kepada pemimpinnya.
@@ -60,6 +88,8 @@ layout: "urls"
   Pemimpin negara yang paling bertanggung-jawab atas malapetaka Perang Dunia II (PDII) adalah Dul Hitler.
   Jika kurang kenal siapa dia, silakan mengkaji sendiri kelakuannya. So what?
   Pelajaran sejarah apa yang kita dapatkan?
+* [PC Murah: Hanya Seratus Rebu!](https://rahmatm.samik-ibrahim.vlsm.org/2008/09/pc-murah-hanya-seratus-rebu.html).
+  PC murah! Multi-Core 5 GHz, FSB 10000, 1 TB RAM, WiFi, dst... Ayo, ayo! Hanya Rp. 100.000!
 
 <br>
 ## 2009
@@ -83,6 +113,8 @@ layout: "urls"
 <br>
 ## 2010
 
+* [Ke Bareskrim dan Poli Gigi RSCM](https://rahmatm.samik-ibrahim.vlsm.org/2010/05/ke-bareskrim-dan-poli-gigi-rscm.html).
+  Pagi ini berkunjung ke BARESKRIM, POLRI.
 * [Lifebouy Handwash: Salah Rancangan](https://rahmatm.samik-ibrahim.vlsm.org/2010/06/salah-rancangan.html).
   Lazimnya, sabun cuci tangan di tempat umum berbentuk cairan.
   Gambar atas memperlihatkan contoh dari dua produk sabun cair untuk cuci tangan.
@@ -115,9 +147,13 @@ layout: "urls"
 * [Ubuntu 11.04: Install](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/ubuntu-1104-install.html).
   Mari kita "bermaen" nginstall-nginstallan Ubuntu 11.04 :)! 
   Kita mulai dengan memboot komputer menggunakan CD Ubuntu 11.04 desktop.
+* [Cheese: Teman Webcam Anda!](https://rahmatm.samik-ibrahim.vlsm.org/2011/07/cheese-teman-webcam-anda.html).
+  Cheese merupakan sebuah perangkat lunak Gnome yang dapat merekam foto dan video dari webcam.
+  Paket ini juga tersedia untuk Beagle Board Angstrom.
 * [Ibu Ke Pasar Membeli Ayam](https://rahmatm.samik-ibrahim.vlsm.org/2011/08/ibu-ke-pasar-membeli-ayam.html).
   Ibu membawa uang sebesar Rp. 100.000. Harga seekor ayam ialah Rp. 25.000. 
   Pertanyaan: Berapa ekor ayam yang dapat dibeli ibu?
+* [TEMPLATE](https://rahmatm.samik-ibrahim.vlsm.org/p/template.html)
 
 <br>
 ## 2012
@@ -144,10 +180,18 @@ layout: "urls"
 * [Kesetaraan (Equal)](https://rahmatm.samik-ibrahim.vlsm.org/2012/10/kesetaraan-equal.html).
   Apakah di wilayah "Timur" ini, terdapat  pemahaman tentang konsep "kesetaraan" (equal)?
   Kelihatannya, konsep yang paling dekat yang ada ialah "adil" dan "beradab". 
+* [Sarapan](https://rahmatm.samik-ibrahim.vlsm.org/2012/11/sarapan.html).
+  Sarapan bersama Caviar, Crackers, Mentega... Hm... sedaap! Flashdisk? No...
 
 <br>
 ## 2013
  
+* [fatsort: sortir playlist mp3](https://rahmatm.samik-ibrahim.vlsm.org/2013/03/fatsort-sortir-playlist-mp3.html).
+  Kebanyakan sistem berkas modern tidak menyimpan berkas secara terurut.
+* [CONFIG untuk Kernel Linux 3.2.27 RPI](https://rahmatm.samik-ibrahim.vlsm.org/2013/01/config-untuk-kernel-linux-3227-rpi.html)
+  Ini merupakan laporan uji-coba hasil kompilasi kernel linux 3.2.27 RPI (Raspberry Pi) dari KA03 
+  (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
+  Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 * [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
   --- dari tahun ke tahun.
 * [Ferrari-ku (478 Italia)](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/ferrari-ku.html).
@@ -184,6 +228,8 @@ layout: "urls"
   Setelah beberapa hari menunggu, akhirnya upgrade Windows 10 "mampir" juga!
   Mulai sekarang menggunakan Windows 10! Jujur saja;
   saya tidak merasakan perbedaan nyata antara Windows 8.1 dan Windows 10.
+* [Investigasi Tempo: Jejak Suap Resep Obat](https://rahmatm.samik-ibrahim.vlsm.org/2015/11/tempo-upeti-resep-obat.html).
+  Majalah Tempo, 8 November 2015.
 
 <br>
 ## 2016
@@ -194,6 +240,8 @@ layout: "urls"
 * [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
 * [Panggil saya "Rahmat"](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/panggil-saya-rahmat.html).
   Nama saya... Rahmat...; Rahmat... nama saya...; Kalau bukan Rahmat...; Bukan nama saya...
+* [SETITAHA: Sepotong Tinj* Tanpa Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2016/09/setitaha-sepotong-tinj-tanpa-harapan.html).
+  Istilah apa untuk "Hopeless piece of sh*t"?
 
 <br>
 ## 2017
@@ -227,6 +275,10 @@ layout: "urls"
   Tiba di stasiun Bandung, sebagian penumpang diharapkan melompat dari gerbong Kereta Api!
 * [Kolam Renang FelFest Universitas Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2019/08/kolam-renang-felfest-universitas.html).
   Masih baru, namun sudah banyak kerusakan.
+* [Windows 10: Verbose Status](https://rahmatm.samik-ibrahim.vlsm.org/2019/10/windows-10-verbose-status.html).
+  Terkadang, Windows 10 dalam keadaan tidak keruan serta sangat membingungkan 
+  karena tidak ada info apa-apa selain hang.
+  Dengan REGEDIT, kita dapat menyalakan "VerboseStatus = 1", yaitu kita dapat mengintip apa yang terjadi.
 
 <br>
 ## 2020
