@@ -2,7 +2,7 @@
 layout: "urls"
 ---
 
-| [PRA2001](#2000) |
+| [PRA2001](#pra2001) |
 | [2001](#2001) | [2002](#2002) | [2003](#2003) | [2004](#2004) | [2005](#2005) |
 | [2006](#2006) | [2007](#2007) | [2008](#2008) | [2009](#2009) | [2010](#2010) |
 | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) |
@@ -10,9 +10,19 @@ layout: "urls"
 | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025) |
 
 <br>
-## 2000
+## PRA2001
 
-* tba.
+* [Rahmat's Blog 1995](https://rahmatm.samik-ibrahim.vlsm.org/1995/01/rahmats-blog-1995.html).
+  General.
+* [JIX: Jakarta Internet Exchange -- 1995](https://rahmatm.samik-ibrahim.vlsm.org/1995/04/jix-jakarta-internet-exchange-1995.html).
+  Secara fisik, JIX merupakan sebuah ruangan 'netral' (sekitar 9 meter persegi), 
+  dengan sekurangnya sebuah 'stackable' UTP Hub. 
+  Ruangan dan hub tersebut, seharusnya dikelola bersama oleh sebuah konsorsium dengan overhead yang sangat minim. 
+* [UUCP-MAP: U.IDN.1 dan U.IDN.2](https://rahmatm.samik-ibrahim.vlsm.org/1995/08/uucp-map-uidn1-dan-uidn2.html).
+  Mesin UUCP pertama di Universitas Indonesia ialah "indovax", sebuah mesin VAX11/750 dengan sistem operasi 
+  Mt. Xinu BSD 4.X. Lalu, digunakan "indogtw". 
+
+<!-- ZCZC NNNN -->
 
 <br>
 ## 2001
