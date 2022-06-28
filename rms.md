@@ -21,8 +21,9 @@ layout: "urls"
 * [UUCP-MAP: U.IDN.1 dan U.IDN.2](https://rahmatm.samik-ibrahim.vlsm.org/1995/08/uucp-map-uidn1-dan-uidn2.html).
   Mesin UUCP pertama di Universitas Indonesia ialah "indovax", sebuah mesin VAX11/750 dengan sistem operasi 
   Mt. Xinu BSD 4.X. Lalu, digunakan "indogtw". 
-
-<!-- ZCZC NNNN -->
+* [1996](https://rahmatm.samik-ibrahim.vlsm.org/1996/01/1996.html).
+  Saya mulai nge-web semenjak tahun 1994-an yang lalu. 
+  Namun, baru menggunakan web pribadi mulai dari tahun 1996 bersama almarhum geocities.com
 
 <br>
 ## 2001
@@ -40,8 +41,13 @@ layout: "urls"
 <br>
 ## 2004
 
+* [Kumpulan foto Rahmat M. Samik-Ibrahim sejak 1994](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/gambarku.html).
+  Foto terakhir 2022.
+* [YET ANOTHER LIGHT BULB JOKE](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/yet-another-light-bulb-joke.html).
+  Question: How many Faculties does it take to change a light bulb?
 * [jigdo-lite (script)](https://rahmatm.samik-ibrahim.vlsm.org/2004/12/jigdo-lite.html)
 
+<!-- ZCZC NNNN -->
 
 <br>
 ## 2005
