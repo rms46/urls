@@ -10,4 +10,6 @@ layout: "urls"
 ||
 | [MILIS: linux-aktivis](https://www.mail-archive.com/linux-aktivis@linux.or.id/) |
 | [Moodle](https://www.youtube.com/playlist?list=PLqYj2sOxDkVyQONBHOy1GgZYkv6uTS_SL) |
+||
+| [Y: MacBook: How To Reset](https://www.youtube.com/watch?v=4GwYmbLi9Ss) |
 
