@@ -45,20 +45,61 @@ layout: "urls"
   Foto terakhir 2022.
 * [YET ANOTHER LIGHT BULB JOKE](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/yet-another-light-bulb-joke.html).
   Question: How many Faculties does it take to change a light bulb?
+* [Light Bulb Joke II](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/light-bulb-joke-ii.html).
+  Kembali, ada lampu yang padam di gang gedung C.
+  Butuh berapa lama, hingga lampu diganti?
+  Senin... Selasa... Rabu... Kamis... Jumat...  kapan bola lampu diganti?
+* [Hm... Spageti...](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/hm-spageti.html).
+  BAHAN SAUS: 200 gr daging giling, 1 kaleng kecil campignon diiris tipis, 4 jagung manis disisir tipis,
+  irisan daun seledri atau oregano (kalau suka), 2 botol kecil saos tomat, 2 sendok makan margarin,
+  2 siung bawang putih, 1 siung bawang Mumbai, garam, merica.
+* [Kue Tape](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/kue-tape.html).
+  Puding Tape Singkong: 2 bungkus Agar-agar, 1/4 kg gula (hingga manis secukupnya), 1/2 kaleng susu kental manis,
+  400 gr tape singkong yang dihaluskan, 6 gelas air, 1/2 sendok teh garam, hiasan: cherry hijau atau merah.
+* [Lampu dan Air Gedung C Fasilkom](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/lampu-dan-air.html).
+  Apakah ada perubahan selama pandemi COVID-19?
+  Lampu Darurat di Gang sudah berbulan-bulan rusak.
+  Lampu di ruang 3207 juga sudah berbulan-bulan setengah rusak.
+* [Disable SPAMASSASIN di POSTFIX](https://rahmatm.samik-ibrahim.vlsm.org/2004/11/disable-spamassasin-di-postfix.html).
+  Cara ini menurut kang Maman.
 * [jigdo-lite (script)](https://rahmatm.samik-ibrahim.vlsm.org/2004/12/jigdo-lite.html)
-
-<!-- ZCZC NNNN -->
+* [The Newton-Giddens Law](https://rahmatm.samik-ibrahim.vlsm.org/2004/12/newton-giddens-law.html).
+  A structure has inertia. A structure will not change if nothing/no one changes it.
+  Only a net-force can change a structure.
 
 <br>
 ## 2005
 
 * [Penanggalan Islam](https://rahmatm.samik-ibrahim.vlsm.org/2005/01/penanggalan-islam.html).
   Beberapa issue yang perlu dipecahkan secara musyawarah dan mufakat.
+* [Wajib Tanpa Sanksi](https://rahmatm.samik-ibrahim.vlsm.org/2005/02/wajib-tanpa-sanksi.html).
+  "Kepada mahasiswa angkatan XXXX diwajibkan untuk mengikuti kegiatan YYYY."
+  Whoa! Kalau tidak mau ikut, bagaimana? Apa sanksinya?
+* [Gong Xi Fa Cai - Hong Bao Na Lai!](https://rahmatm.samik-ibrahim.vlsm.org/2005/02/gong-xi-fa-cai-hong-bao-na-lai.html).
+  "Gung Hei Faat Coi", "Keong Hee Huat Chye", "Kiong Hee Huat Tsai", "Kiong Hi Hoat Chai", "Kung Hei Fat Choi", 
+  "Kung Hii Fatt Choi"?
+* [GNOME is f*cked seven ways](https://rahmatm.samik-ibrahim.vlsm.org/2005/02/gnome-is-fcked-seven-ways.html).
+  What is it that makes GNOME special?
+* [J2SE: Java 2 Standard Edition (2005)](https://rahmatm.samik-ibrahim.vlsm.org/2005/03/j2se-java-2-standard-edition.html).
+  apt-get install java-package.
+* [ISOLINUX SPLASH (2005)](https://rahmatm.samik-ibrahim.vlsm.org/2005/03/isolinux-splash.html).
+  pngtopnm -o splash.ppm splash.png
+* [Debian/Ubuntu: "LOOP device > 8" (2005)](https://rahmatm.samik-ibrahim.vlsm.org/2005/03/debianubuntu-device-8.html).
+  Untuk Module/Non Module.
+* [Tanggung Jawab Pimpinan](https://rahmatm.samik-ibrahim.vlsm.org/2005/03/tanggung-jawab-pimpinan.html).
+  Problem trivial seperti ini seharusnya tidak terjadi, jika ada sebuah sistem prosedur penanggulangan hal tersebut.
+  Tentunya, sistem prosedur tersebut harus dijalankan secara konsisten.
+* [Ibu H.K.](https://rahmatm.samik-ibrahim.vlsm.org/2005/03/ibu-hk.html).
+  oleh Manfred AR.
+* [Apache2: NameWidth=*](https://rahmatm.samik-ibrahim.vlsm.org/2005/03/apache2-namewidth.html).
+  Agar daftar isi nggak dipotong, tambahkan pada conf.
+<!-- ZCZC NNNN -->
 * [Sialan!](https://rahmatm.samik-ibrahim.vlsm.org/2005/07/politikus-sialan.html)
   Kalau tidak sanggup, mengapa tidak mundur saja?
 * [Negara Orang Tolol (berikut Birokratnya)?](https://rahmatm.samik-ibrahim.vlsm.org/2005/08/negara-orang-tolol-berikut-birokratnya.html).
   Dwi Keondoro melalui komik Panji Koming (Kompas Minggu), baru-baru ini menyindir bahwa kita ini TOLOL!
   Bukan hanya sekali, bahkan menyindirnya hingga DUA kali! 
+
 
 <br>
 ## 2006
