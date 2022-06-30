@@ -12,8 +12,8 @@ layout: "urls"
 | [UILIB: Remote Lib](https://remote-lib.ui.ac.id/) | [UILIB: Layanan](https://docs.google.com/forms/d/1j-xOIgwzM3p6YebyTeyOAR2jZaWwcsVbGk-pT-3s_0M/viewform?edit_requested=true) | [UILIB: Uji Kemiripan](https://docs.google.com/forms/d/e/1FAIpQLSfKRMyQFzW9eF6N36_Anm32A8eDLF7-c11gKWhDBYo2gRv9Xg/viewform) | [UILIB](lib.ui.ac.id) |
 ||
 | UBUNTU |
-| [After installing Ubuntu 20.04](https://youtu.be/MNX7HgcWqHc) | [Ubuntu: Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [Ubuntu: Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/) | [Ubuntu: Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) |
-| [Ubuntu: USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [Ubuntu: Server Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) | [Ubuntu: OpenVPN Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
+| [U: Continuously Sleep](https://unix.stackexchange.com/questions/25133/ubuntu-server-continuously-goes-to-sleep/) | [U: USB Boot](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu) | [U: Server Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) | [U: OpenVPN Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04) |
+| [U: Shutdown Stuck](https://askubuntu.com/questions/1029068/ubuntu-18-04-stuck-at-shutdown) | [U: Slow Shutdown](https://medium.com/@sbyang/slow-shut-down-of-ubuntu-18-04-e5fcc31255e2) | [U: Qemu/KVM](https://www.how2shout.com/linux/how-to-install-qemu-kvm-and-virt-manager-gui-on-ubuntu-20-04-lts/) ||
 ||
 | ETC |
 | [Undang Undang NKRI](https://uu.vlsm.org/) | [IOU](https://iou.edu.gm/) | [Y: The Unix OS](https://www.youtube.com/watch?v=tc4ROCJYbm0) |
