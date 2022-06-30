@@ -100,12 +100,14 @@ layout: "urls"
   The first GNU/Linux distribution (Ubuntu 4.10 Warty Warthog) appeared in 2004. 
   We can even ask to be sent a CD (Compact Disk) at no cost, including shipping.
   However, because the shipment comes from abroad, it turns out to be subject to import duties!
-<!-- ZCZC NNNN -->
 * [Sialan!](https://rahmatm.samik-ibrahim.vlsm.org/2005/07/politikus-sialan.html)
   Kalau tidak sanggup, mengapa tidak mundur saja?
 * [Negara Orang Tolol (berikut Birokratnya)?](https://rahmatm.samik-ibrahim.vlsm.org/2005/08/negara-orang-tolol-berikut-birokratnya.html).
   Dwi Keondoro melalui komik Panji Koming (Kompas Minggu), baru-baru ini menyindir bahwa kita ini TOLOL!
   Bukan hanya sekali, bahkan menyindirnya hingga DUA kali! 
+* [Ubuntu 5.10 (Breezy Badger): Notebook Touch Pad Synaptics](https://rahmatm.samik-ibrahim.vlsm.org/2005/11/ubuntu-breezy-510-notebook-touch-pad.html).
+  Cara modifikasi /etc/X11/xorg.conf agar touchpad tidak sensitif; ubah MaxTapTime dan MaxTapMove menjadi 0.
+<!-- ZCZC NNNN -->
 
 
 <br>
