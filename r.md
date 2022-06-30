@@ -4,7 +4,7 @@ layout: "urls"
 
 ||
 | Ruby |
-| [Ruby For Beginners](https://ruby-for-beginners.rubymonstas.org/) | [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) | [Ruby the Hard Way](https://learnrubythehardway.org/book/) |
+| [Ruby For Beginners](https://ruby-for-beginners.rubymonstas.org/) ([GitHub](https://github.com/rubymonsters/ruby-for-beginners/)) | [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) | [Ruby the Hard Way](https://learnrubythehardway.org/book/) |
 ||
 | RS |
 | [RS Sari Asih](https://www.sariasih.com/) | [RS UI](https://rs.ui.ac.id/umum/) | [Klink Satelit Makara](https://www.instagram.com/kliniksatelitui/) |
