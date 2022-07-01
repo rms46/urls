@@ -107,8 +107,6 @@ layout: "urls"
   Bukan hanya sekali, bahkan menyindirnya hingga DUA kali! 
 * [Ubuntu 5.10 (Breezy Badger): Notebook Touch Pad Synaptics](https://rahmatm.samik-ibrahim.vlsm.org/2005/11/ubuntu-breezy-510-notebook-touch-pad.html).
   Cara modifikasi /etc/X11/xorg.conf agar touchpad tidak sensitif; ubah MaxTapTime dan MaxTapMove menjadi 0.
-<!-- ZCZC NNNN -->
-
 
 <br>
 ## 2006
@@ -119,6 +117,14 @@ layout: "urls"
 <br>
 ## 2007
 
+* [The Asshole Trilogy](https://rahmatm.samik-ibrahim.vlsm.org/2007/04/no-asshole-rule.html).
+  In the 2000s, Sutton is known for his Asshole Trilogy: The No Asshole Rule, The Asshole Survival Guide, 
+  and Good Boss, Bad Boss.
+* [Mr. R. Sholes](https://rahmatm.samik-ibrahim.vlsm.org/2007/05/r-sholes-arse-holes.html).
+  Apakah ada gunanya berurusan dengan Mr. R. Sholes (alias Ars* Holes / LBDB)? 
+* [SOP dan Manajer](https://rahmatm.samik-ibrahim.vlsm.org/2007/05/sop-dan-manajer.html).
+  Masih banyak Manajer yang belum faham hal-ihwal seputar SOP (Standard/Standing Operating Procedure).
+<!-- ZCZC NNNN -->
 * [Dosen: Sertifikasi vs. Ijazah](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/dosen-sertifikasi-vs-ijazah.html).
   Mungkin ada yang dapat memberikan pencerahan seputar ''sertifikasi dosen'' vs. ''ijazah dosen''?
 * [Peserta Milis Tolol](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/peserta-milis-tolol.html).
