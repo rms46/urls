@@ -124,12 +124,24 @@ layout: "urls"
   Apakah ada gunanya berurusan dengan Mr. R. Sholes (alias Ars* Holes / LBDB)? 
 * [SOP dan Manajer](https://rahmatm.samik-ibrahim.vlsm.org/2007/05/sop-dan-manajer.html).
   Masih banyak Manajer yang belum faham hal-ihwal seputar SOP (Standard/Standing Operating Procedure).
-<!-- ZCZC NNNN -->
+* [Falsafah Debian](https://rahmatm.samik-ibrahim.vlsm.org/2007/06/falsafah-debian.html).
+  Debian merupakan distro yang sangat konservatif.
+  Karena itu, jangan berharap akan berisi kernel terbaru dengan patch dari XYZZY.
+* [Robert Kubica, F1 Canada 2007, dan Media Beradab](https://rahmatm.samik-ibrahim.vlsm.org/2007/06/kubica-media-beradab.html).
+  Dalam F1 Canada Grand Prix 2007, Robert Kubica mengalami kecelakaan yang dashyat. 
+  Pada saat tim penyelamat tiba, tidak ada yang tahu, seberapa tingkat keparahan yang dialami Kubica.
+* [P5: Pokok-Pokok Pikiran Pengembangan Perkuliahan](https://rahmatm.samik-ibrahim.vlsm.org/2007/06/p5-pokok-pokok-pikiran-pengembangan.html).
+  Bersediakah untuk mengundurkan diri, jika ada tenaga akamik biasa-biasa saja yang hengkang,
+  4 tahun kemudian mendapat hadiah Nobel?
+* [HBO: Path To War](https://rahmatm.samik-ibrahim.vlsm.org/2007/06/path-to-war.html).
+  Film HBO, ''Path To War", perihal LBJ yang sekarang dikenang sebagai presiden PERANG akibat 
+  ulah pembantu-pembantunya. 
 * [Dosen: Sertifikasi vs. Ijazah](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/dosen-sertifikasi-vs-ijazah.html).
   Mungkin ada yang dapat memberikan pencerahan seputar ''sertifikasi dosen'' vs. ''ijazah dosen''?
 * [Peserta Milis Tolol](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/peserta-milis-tolol.html).
   Setolol-tololnya peserta milis ialah yang tidak tahu cara berhenti langganan.
   Padahal, tidak jarang pada kaki (footer) setiap email ada petunjuk untuk berhenti langganan.
+<!-- ZCZC NNNN -->
 * [Tiga Hambatan Distribusi Bahan Bebas](https://rahmatm.samik-ibrahim.vlsm.org/2007/08/tiga-hambatan-distribusi-bahan-bebas.html).
   Tiga jenis hambatan dalam pendistribusian: tidak mengaktifkan fasilitas "rsync" pada repositori,
   lebih mengutamakan tampilan dinamis, menggunakan nota Hak Cipta yang berlebihan.
