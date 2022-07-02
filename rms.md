@@ -141,7 +141,6 @@ layout: "urls"
 * [Peserta Milis Tolol](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/peserta-milis-tolol.html).
   Setolol-tololnya peserta milis ialah yang tidak tahu cara berhenti langganan.
   Padahal, tidak jarang pada kaki (footer) setiap email ada petunjuk untuk berhenti langganan.
-<!-- ZCZC NNNN -->
 * [Tiga Hambatan Distribusi Bahan Bebas](https://rahmatm.samik-ibrahim.vlsm.org/2007/08/tiga-hambatan-distribusi-bahan-bebas.html).
   Tiga jenis hambatan dalam pendistribusian: tidak mengaktifkan fasilitas "rsync" pada repositori,
   lebih mengutamakan tampilan dinamis, menggunakan nota Hak Cipta yang berlebihan.
@@ -163,15 +162,37 @@ layout: "urls"
   Berikut merupakan usulan pembakuan pembuatan partisi disk untuk keperluan server mirror (umpama si Komo).
   Untuk meningkatkan kehandalan sistem, sebaiknya disk selalu dibagi menjadi empat (4) partisi.
   Pada tulisan ini akan digunakan contoh disk /dev/sdd.
+* [UI DOT EDU](https://rahmatm.samik-ibrahim.vlsm.org/2008/01/ui-dot-edu.html).
+  Baik ''ui.edu'' maupun ''ui.ac.id'' telah digunakan secara paralel semenjak pertengahan 
+  1990-an/awal penggunaan JUITA (Jaringan Universitas Indonesia Terpadu).
+* [Cara ber-Email Ria Yang Baik](https://rahmatm.samik-ibrahim.vlsm.org/2008/01/cara-ber-email-ria-yang-baik.html).
+  Jika mengirim email, harap memperhatikan beberapa hal berikut.
 * [Office Sweet Office](https://rahmatm.samik-ibrahim.vlsm.org/2008/03/office-sweet-office.html).
   Ini pojok ruang kerjaku --- office sweet office --- ruang 3207 pada tahun 2008 lalu.
   Paling kiri ada sangam.vlsm.org (server intranet) yang sudah lama off, lalu TV (sudah off), 
   kulkas, dispenser Aqua, wastafel, dan sofa. Latar depan ialah meja kerja. Cukup nyaman, kan?
+* [Syarat dan Ketentuan Blog Ini](https://rahmatm.samik-ibrahim.vlsm.org/2008/03/couch-potato.html).
+  Memo blog ini terutama ditulis untuk KEPERLUAN SENDIRI.
+* [Ah Sink Sink So... Ah Sink Sink So...](https://rahmatm.samik-ibrahim.vlsm.org/2008/03/ah-sink-sink-so-ah-sink-sink-so.html).
+  Di ujung jauh ruang 3207 terdapat sebuah 'wastafel' atawa 'sink'.
 * [Blok-M Pee](https://rahmatm.samik-ibrahim.vlsm.org/2008/03/blok-m-pee.html).
   Orang pipis ditengah jalan, seperti Simpang Prapanca, Simpang Melawai, Lenteng Agung, dan UI.
+* [Ikhlas... Ikhlas...](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/ikhlas-ikhlas.html).
+  Ikhlas... ikhlas...  Dua kali sehari...
+* [Fasilitas Penghapusan Sanksi Pajak Penghasilan (2008)](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/fasilitas-penghapusan-sanksi-pph.html).
 * [T04 1979?](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/t04-1979.html).
   Apakah ada yang punya daftar anggota T04 MIPA ITB 1979?
   Saya hanya punya daftar pengumuman Proyek Perintis Satu (tanpa perintis dua) neh!
+* [Pesan Barack untuk Semua!](https://rahmatm.samik-ibrahim.vlsm.org/2008/06/pesan-barack-untuk-semua.html)
+  Di negara ini terdapat dua ''kegiatan besar luar biasa berbasis tunai''.
+* [Promosi Juragan Kambing](https://rahmatm.samik-ibrahim.vlsm.org/2008/07/promosi-juragan-kambing.html).
+  Maap, kami (RMS, JP, Adin) lagi mempromosikan Juragan Kambing, neh!
+* [Korek Api Jumbo Si Buyung](https://rahmatm.samik-ibrahim.vlsm.org/2008/07/korek-api-jumbo-si-buyung.html).
+  Di lampu merah persimpangan Salemba-Matraman-Pramuka-Proklamasi; 
+  pak Buyung menghampiri untuk menawarkan korek api jumbo seharga IDR 2000.
+* [Uh-oh! Yahoo Email](https://rahmatm.samik-ibrahim.vlsm.org/2008/07/uh-oh-pagi-pagi-sudah-mau-dikadalin.html).
+  Pagi ini menerima email dari ''Yahoo!" dengan url http://yahoo-email.com/ yang kemudian dialihkan ke login Yahoo!?
+<!-- ZCZC NNNN -->
 * [Awas Tikus!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/awas-tikus.html).
   Akhir pekan lalu, menjelang tengah malam -- ketika akan pulang -- 
   saya ''berpapasan'' di tangga dengan seekor tikus (betulan).
