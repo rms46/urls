@@ -109,6 +109,12 @@ layout: "urls"
 
 * [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
   export JEKYLL_GITHUB_TOKEN='XYZZYhollowPLUGH'.
+* [MSDT: CVE-2022-30190 Vulnerability (Follina)](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/msdt-cve-2022-30190-vulnerability.html).
+  This is a quick and dirty patch of MSDT: CVE-2022-30190  Microsoft Support Diagnostic Tool Vulnerability. 
+* [Ubuntu LibreOffice Warning](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/ubuntu-libreoffice-warning-failed-to.html).
+  Failed to launch javaldx - java may not function correctly.
+* [Windows 10: When Lenovo Yoga 300 is very slow](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/windows-10-when-lenovo-yoga-300-is-very.html).
+  Sometimes a Lenovo Yoga 300 is very slow when running Windows 10. Here are some tips to try. 
 
 <br>
 ## 2023
