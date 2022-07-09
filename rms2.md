@@ -115,6 +115,9 @@ layout: "urls"
   Failed to launch javaldx - java may not function correctly.
 * [Windows 10: When Lenovo Yoga 300 is very slow](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/windows-10-when-lenovo-yoga-300-is-very.html).
   Sometimes a Lenovo Yoga 300 is very slow when running Windows 10. Here are some tips to try. 
+* [Koran Kertas Kompas di Pamulang](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/koran-kertas-kompas-di-pamulang.html).
+  Pada suatu JJPP (Jalan-Jalan Pagi Pandemi) 2022, 
+  ternyata menemukan bahwa masih ada yang berlangganan koran kertas di Pamulang!
 
 <br>
 ## 2023
