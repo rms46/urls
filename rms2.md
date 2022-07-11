@@ -37,6 +37,8 @@ layout: "urls"
   Saya biasanya belanja satu tahun satu kali untuk beberapa keperluan sehari-hari.
   Namun, setelah belanja tahunan bulan Maret 2020 lalu, musim COVID-19 dimulai!
   Berikut merupakan laporan inventaris setelah satu tahun di rumah saja.
+* [What defines an Operating System?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html)
+  An Operating System is just a piece of software, a whole piece of software, and nothing but software!
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
   morons, and idiots; step by step tutorial 101".
