@@ -115,6 +115,7 @@ layout: "urls"
   This is a quick and dirty patch of MSDT: CVE-2022-30190  Microsoft Support Diagnostic Tool Vulnerability. 
 * [Ubuntu LibreOffice Warning](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/ubuntu-libreoffice-warning-failed-to.html).
   Failed to launch javaldx - java may not function correctly.
+<!-- ZCZC NNNN -->
 * [YouTube Start End Time Embed Code](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/youtube-start-end-time-embed-code.html).
   The following is a short how-to add START/END on a YouTube link.
   Take Note: just because it works today, it will work tomorrow! You all know how Susan W's YouTube works.
