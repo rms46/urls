@@ -115,6 +115,11 @@ layout: "urls"
   This is a quick and dirty patch of MSDT: CVE-2022-30190  Microsoft Support Diagnostic Tool Vulnerability. 
 * [Ubuntu LibreOffice Warning](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/ubuntu-libreoffice-warning-failed-to.html).
   Failed to launch javaldx - java may not function correctly.
+* [YouTube Start End Time Embed Code](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/youtube-start-end-time-embed-code.html).
+  The following is a short how-to add START/END on a YouTube link.
+  Take Note: just because it works today, it will work tomorrow! You all know how Susan W's YouTube works.
+* [Your Hardware Enablement Stack (HWE)](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/your-hardware-enablement-stack-hwe.html),
+  is supported until April 2025.
 * [Windows 10: When Lenovo Yoga 300 is very slow](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/windows-10-when-lenovo-yoga-300-is-very.html).
   Sometimes a Lenovo Yoga 300 is very slow when running Windows 10. Here are some tips to try. 
 * [Koran Kertas Kompas di Pamulang](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/koran-kertas-kompas-di-pamulang.html).
