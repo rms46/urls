@@ -111,11 +111,25 @@ layout: "urls"
 
 * [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
   export JEKYLL_GITHUB_TOKEN='XYZZYhollowPLUGH'.
+<!-- ZCZC NNNN -->
+* [BAB III: PNPS NOMOR 11/1963 PEMBERANTASAN KEGIATAN SUBVERSI?](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/bab-iii-pnps-nomor-111963-pemberantasan.html)
+  Setelah GSGS (Google Sini, Google Sana) akhirnya menemukan salinan dari PNPS (Penetapan Presiden) no 11 tahun
+  1963 perihal "Pemberantasan Kegiatan Subversi". 
+  Hanya saja salinan ini tanpa pasal 7, 8, 9 (BAB III?). Entah mengapa?
+* [Google says Hello, but I say Good Bye!](https://rahmatm.samik-ibrahim.vlsm.org/2022/05/google-says-hello-but-i-say-good-bye.html)
+  Google says "Hello", and I say "Good Bye!" Hello, hello, I don't know why Google says "Hello", I say Good Bye!
+  It is time to move on!
+* [Linux Kernel 5.18 Released](https://rahmatm.samik-ibrahim.vlsm.org/2022/05/linux-kernel-518-released.html).
 * [MSDT: CVE-2022-30190 Vulnerability (Follina)](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/msdt-cve-2022-30190-vulnerability.html).
   This is a quick and dirty patch of MSDT: CVE-2022-30190  Microsoft Support Diagnostic Tool Vulnerability. 
 * [Ubuntu LibreOffice Warning](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/ubuntu-libreoffice-warning-failed-to.html).
   Failed to launch javaldx - java may not function correctly.
-<!-- ZCZC NNNN -->
+* [Ubuntu Gnome:](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/ubuntu-gnome-stop-screen-dimming.html)
+  Stop Screen Dimming.
+* [Default system shell (/bin/sh): from dash to bash](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/default-system-shell-binsh-from-dash-to.html).
+  To replace "dash" to "bash" as /bin/sh, for debian/ubuntu.
+* [Inserting Source Code into a Blog Page](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/inserting-source-code-into-blog-page.html).
+  To list "source code" on a blog page, insert the following HTML codes.
 * [YouTube Start End Time Embed Code](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/youtube-start-end-time-embed-code.html).
   The following is a short how-to add START/END on a YouTube link.
   Take Note: just because it works today, it will work tomorrow! You all know how Susan W's YouTube works.
