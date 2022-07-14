@@ -140,6 +140,9 @@ layout: "urls"
 * [Koran Kertas Kompas di Pamulang](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/koran-kertas-kompas-di-pamulang.html).
   Pada suatu JJPP (Jalan-Jalan Pagi Pandemi) 2022, 
   ternyata menemukan bahwa masih ada yang berlangganan koran kertas di Pamulang!
+* [Promo TIKI SDS (Same Day Service): Rp. 14000](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/promo-tiki-sds-same-day-service-rp-14000.html).
+  Saya ketitipan mendistribusikan rendang hasil korban lebaran lalu. 
+  Dari pada mengantarkan sendiri, saya menggunakan jasa TIKI.
 
 <br>
 ## 2023
