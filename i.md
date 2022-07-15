@@ -3,8 +3,8 @@ layout: "urls"
 ---
 
 ||
-| [Y: The Prophet's Prayer](https://www.youtube.com/watch?v=vx1rz-28HNk) | [W: Ask A Question (15:00 UDT)](https://www.assimalhakeem.net/ask-a-question/) |
-| [W: Portal:Islam](https://en.wikipedia.org/wiki/Portal:Islam) | [W: Quran History](https://en.wikipedia.org/wiki/History_of_the_Quran) | [W: Quran List](https://en.wikipedia.org/wiki/List_of_chapters_in_the_Quran) |
+| [Y: The Prophet's Prayer](https://www.youtube.com/watch?v=vx1rz-28HNk) | [Philosophy In The Islamic World](https://historyofphilosophy.net/intro-islamic-world) |
+| [W: Ask A Question (15:00 UDT)](https://www.assimalhakeem.net/ask-a-question/) | [W: Portal:Islam](https://en.wikipedia.org/wiki/Portal:Islam) | [W: Quran History](https://en.wikipedia.org/wiki/History_of_the_Quran) | [W: Quran List](https://en.wikipedia.org/wiki/List_of_chapters_in_the_Quran) |
 | [Yaqeen Institute](https://yaqeeninstitute.org/) | [Y: Yaqeen List](https://www.youtube.com/c/YaqeenInstituteforIslamicResearch/playlists) | [Yaqeen: Hadith-Series](https://yaqeeninstitute.org/series/hadith-series) |
 | [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) | [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
 | [Semak Hadis](https://semakhadis.com/) | [Y: Advice Before Becoming Muslim](https://www.youtube.com/watch?v=UqczbY3w7aw) | [The Global Islamic Seminary](https://academy.seekersguidance.org/) |
