@@ -112,6 +112,8 @@ layout: "urls"
 * [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
   export JEKYLL_GITHUB_TOKEN='XYZZYhollowPLUGH'.
 <!-- ZCZC NNNN -->
+* [Debian/Ubuntu: Vacuum/Reduce your Log files](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/debianubuntu-vacuumreduce-you-log-files.html).
+  Vacuum Your Log Files, MAX: 1000 MB/ 365 DAYS (ROOT).
 * [Linux Digital XCLOCK](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/linux-digital-xclock.html).
   The standard X11 clock for GNU/Linux is "xclock". On Ubuntu or Debian, the deb package name is "x11-apps."
 * [BAB III: PNPS NOMOR 11/1963 PEMBERANTASAN KEGIATAN SUBVERSI?](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/bab-iii-pnps-nomor-111963-pemberantasan.html)
