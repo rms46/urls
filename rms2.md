@@ -112,6 +112,12 @@ layout: "urls"
 * [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
   export JEKYLL_GITHUB_TOKEN='XYZZYhollowPLUGH'.
 <!-- ZCZC NNNN -->
+* [Surat Pemberitahuan Tahunan (SPT) Pajak 2021](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/surat-pemberitahuan-tahunan-spt-pajak.html).
+  Mengisi SPT (Surat Pemberitahuan Tahunan) Pajak tahun ini sedikit lebih mudah --- 
+  asalkan kita ingat/mencatat apa yang kita lakukan pada tahun sebelumnya.
+  Hanya saja, kita biasanya sudah lupa yang dilakukan pada tahun sebelumnya.
+* [Lenovo YogaSaurus 300 and Linux 5.17.3](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/lenovo-yogasaurus-300-and-linux-5173.html).
+  To compile Linux 5.17.3 kernel on Lenovo Yoga Saurus 300 (4 GB RAM, Window 10, VirtualBox): real 5062m4.962s
 * [Debian/Ubuntu: Vacuum/Reduce your Log files](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/debianubuntu-vacuumreduce-you-log-files.html).
   Vacuum Your Log Files, MAX: 1000 MB/ 365 DAYS (ROOT).
 * [Linux Digital XCLOCK](https://rahmatm.samik-ibrahim.vlsm.org/2022/04/linux-digital-xclock.html).
