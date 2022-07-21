@@ -94,6 +94,7 @@ layout: "urls"
   Dipilih... dipilih...
 * [Sunday is the BACKUP day!](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/sunday-is-backup-day.html).
   ackup hardware comes and goes. My current oldest backup disk is a Seagate 250 GB Portable External Drive.
+<!-- ZCZC NNNN -->
 * [UBUNTU (Gnome): Where are the KDE Wallet files stored?](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/ubuntu-gnome-where-are-kde-wallet-files.html).
   Somehow, there is a problem with evince, the Gnome PDF reader.
   Therefore, I switched to okular, the kde PDF reader.
@@ -102,16 +103,32 @@ layout: "urls"
 * [UBUNTU: Add a USER to another GROUP](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/ubuntu-add-user-to-another-group.html).
   I always forget this command when I need it! E.g., adding group "group" to user "user."<br>
   usermod -a -G group user
+* [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html).
+  If you are running an antiquated computer that has been a family heirloom since a long time ago, 
+  you might have trouble with your VirtualBox.
+  First, you should make sure about what the source of the problem is.
 * [ITB: Bioskop Kampus 9009](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/itb-bioskop-kampus-9009.html).
   Pada zaman dahulu -- entah sekarang -- ruang 9009 ITB pada siang hari digunakan untuk kuliah Kimia Dasar.
   Dosen Kimia Dasar diantaranya almarhum Drs. Hiskia Achmad (m. 2014) and almarhum Prof. Susanto Imam Rahayu (m. 2021).
+* [VirtualBox (Windows): Call to NEMR0InitVMPart2 failed](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/virtualbox-windows-call-to.html).
+  After having both updated Windows 10 21H1 and VirtualBox, the Virtual Guests would not boot. 
+  The error message was: Call to NEMR0InitVMPart2 failed:
+  VERR_NEM_INIT_FAILED (VERR_NEM_VM_CREATE_FAILED).
+* [GitHub.com: SH*T HAPPENS!](https://rahmatm.samik-ibrahim.vlsm.org/2021/11/githubcom-shit-happens.html).
+  It even happens to GitHub.com. On Sunday, 28-Nov-2021 03:43 UTC+7, 
+  GitHub.com has started investigating reports of degraded performance for GitHub Actions.
 
 <br>
 ## 2022
 
 * [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
   export JEKYLL_GITHUB_TOKEN='XYZZYhollowPLUGH'.
-<!-- ZCZC NNNN -->
+* [SSD V-GEN 2.5" 1 TB vs Harddisk WD MyPassport 2.5" 4 TB](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/ssd-v-gen-25-1-tb-vs-harddisk-wd.html).
+  Both disks with the same USB cable.
+* [A Collect Call Alternative to call the US from Abroad](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/a-collect-call-alternative-to-call-us.html).
+  Do not expect easily to collect calls to the US in case of emergency. 
+  Therefore, prepare for an emergency plan before you leave the US. 
+  Be aware that the waiting time to call -- for example -- a customer service line will be about 30-60 minutes. 
 * [Surat Pemberitahuan Tahunan (SPT) Pajak 2021](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/surat-pemberitahuan-tahunan-spt-pajak.html).
   Mengisi SPT (Surat Pemberitahuan Tahunan) Pajak tahun ini sedikit lebih mudah --- 
   asalkan kita ingat/mencatat apa yang kita lakukan pada tahun sebelumnya.
