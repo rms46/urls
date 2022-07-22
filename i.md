@@ -9,6 +9,7 @@ layout: "urls"
 | [YRORA: Sejarah Pengumpulan Al Quran](https://youtu.be/n3yGW_-P8GU) | [YRORA: Tafsir Al-Azhar Jz. 30](https://www.youtube.com/playlist?list=PLv_xoi4FGsu9zYyZxie6QJamXti12k5-G) | [YRORA: Ummahat Al - Mukminin](https://www.youtube.com/watch?v=pj46rE7Lxpw&list=PLv_xoi4FGsu_dQsEtZlr7k2ncLgPMLeJH) | [YRORA: Hadis](https://youtu.be/WSqOCBPFb88) |
 | [Semak Hadis](https://semakhadis.com/) | [Y: Advice Before Becoming Muslim](https://www.youtube.com/watch?v=UqczbY3w7aw) | [The Global Islamic Seminary](https://academy.seekersguidance.org/) |
 | [Y: Seerah](https://www.youtube.com/playlist?list=PLAEA99D24CA2F9A8F) | [MJS: Ngaji Filsafat](https://www.youtube.com/playlist?list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18) | [MIC: Memphis](http://www.memphisislamiccenter.org/about-mic/about-mic/) | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
+| [Islamic-Awareness](https://www.islamic-awareness.org/) | [Qur'anic Manuscripts](https://www.islamic-awareness.org/quran/text/mss/) |
 | Historical criticism of Islam [[1](https://youtu.be/WHGii1Ah_3E)][[2](https://youtu.be/FjQaHoJNSX8)][[3](https://youtu.be/pWV5BxM9Y40)] |
 ||
 | [IndoGlobal](https://indoglobal.com/) |
