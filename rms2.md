@@ -33,18 +33,36 @@ layout: "urls"
   Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
   langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.
   Mungkin saja, berkas tersebut mengalami perubahan saat download.
+* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
+  morons, and idiots; step by step tutorial 101".
+<!-- ZCZC NNNN -->
+* [Hello Nokia, Goodbye Redmi!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-nokia-goodbye-redmi.html)
+  Masalah "bloatware" ini menyebabkan saya merencanakan untuk tidak lagi menjadi pengguna ponsel Redmi.
+* [Hello Telegram, Goodbye WhatsApp!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-telegram-goodbye-whatsapp.html)
+  Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama.
+  Pemilik WhatsApp yang baru dengan sombongnya mengatakan: "Take It" or "Leave It". 
+  OK, I will leave it! Sialan betul kau, SuckerBug!
+Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan dengan sombongnya mengatakan:"Take It" or "Leave It". OK, I will leave it!
+* [FaceBook is Watching You!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/facebook-is-watching-you.html)
+  Komplotan FaceBook melacak keberadaan anda walau pun TANPA mengunjungi situs tersebut?!
+  Pada dasarnya, setiap situs yang mencantumkan logo "F" (lihat panah kiri bawah) 
+  akan melapor ke FaceBook keberadaan anda!
 * [Setelah Satu Tahun Dengan COVID-19](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/setelah-satu-tahun-dengan-covid-19.html).
   Saya biasanya belanja satu tahun satu kali untuk beberapa keperluan sehari-hari.
   Namun, setelah belanja tahunan bulan Maret 2020 lalu, musim COVID-19 dimulai!
   Berikut merupakan laporan inventaris setelah satu tahun di rumah saja.
+* [Dari Millennial, Untuk BabyBoomers](https://rahmatm.samik-ibrahim.vlsm.org/2021/05/dari-millenial-untuk-babyboomers.html).
+  Aduh, bahasanya!
+* [Koleksi Populer: TAP MPR no II/1978](https://rahmatm.samik-ibrahim.vlsm.org/2021/05/penataran-p4-cakar-jaya-catur-karsa.html).
+  Berkas yang paling populer pada koleksi ialah: 
+  TAP MPR no II/1978 perihal P4 (Pedoman Penghayatan dan Pengamalan Pancasila).
+* [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html).
+  System File Checker (sfc) and Deployment Image Servicing and Management (DISM).
+* [How much RAM does the Nokia 5.3 have?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/how-much-ram-does-nokia-53-have.html).
+  For an unknown reason, Nokia is deliberately trying to hide the RAM size of Nokia 5.3!
 * [What defines an Operating System?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html)
   An Operating System is just a piece of software, a whole piece of software, and nothing but software!
-* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
-  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
-  morons, and idiots; step by step tutorial 101".
-* [Mesin Ketik (Typewriter)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/mesin-ketik-typewriter.html).
-  Topik hari ini ialah mesin ketik, sebuah mesin cetak yang biasanya tidak menggunakan listrik.
-  Bagaimanakah cara menggunakan mesin tik?
 * [Unboxing Minang Kakao 100% Dark Chocolate (32gram)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/unboxing-minang-kakao-100-dark.html).
   Berikut laporan unboxing coklat Minang Kakao 100% Dark Chocolate (32gram).
 * [UBUNTU: How can I test my hard drive health?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/ubuntu-how-can-i-test-my-hard-drive.html).
@@ -55,6 +73,9 @@ layout: "urls"
   Just Google it! It may change from time to time. This is what I am currently following.
 * [The Bash PROMPT_COMMAND before PS1](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/the-bash-promptcommand-before-ps1.html).
   If set, the value is interpreted as a command to execute before the printing of each primary prompt ($PS1).
+* [Mesin Ketik (Typewriter)](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/mesin-ketik-typewriter.html).
+  Topik hari ini ialah mesin ketik, sebuah mesin cetak yang biasanya tidak menggunakan listrik.
+  Bagaimanakah cara menggunakan mesin tik?
 * [Eid-Al-Adha 1442 --- Lebaran Haji 2021](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/eid-al-adha-1442-lebaran-haji-2021.html).
   Beginilah lebaran haji 2021 (1442H).
 * [AWAS: Penawaran First Media Sport Pack?!](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/awas-penawaran-first-media-sport-pack.html).
@@ -70,6 +91,8 @@ layout: "urls"
   A LaTeX MWE GitHub Page at GitHub.
 * [My English, My Mistakes](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/my-english-my-mistakes.html).
   Grammarly just informed me of my mistakes in English. Some of the tones that were detected in my writings.
+* [Contoh Soal (Sial) SMA](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/contoh-soal-sial-sma.html).
+  Bagaimana negara ini bisa maju, jika contoh soal di SMA seperti ini?!
 * [Dispenser Odol](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/dispenser-odol.html).
   Dispenser odol seperti ini banyak tersedia secara online. Murah, meriah, dan lumayan praktis.
 * [Debian 11 has been released](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/debian-11-has-been-released.html).
@@ -92,9 +115,13 @@ layout: "urls"
   Berikut kontestan lomba pintu kamar mandi.
   Ada baiknya, juga membandingkan dengan kondisi pintu kamar mandi masing masing, ya!
   Dipilih... dipilih...
-* [Sunday is the BACKUP day!](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/sunday-is-backup-day.html).
-  ackup hardware comes and goes. My current oldest backup disk is a Seagate 250 GB Portable External Drive.
-<!-- ZCZC NNNN -->
+* [Lomba Pintu Kamar Mandi](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/lomba-pintu-kamar-mandi.html).
+  Berikut kontestan lomba pintu kamar mandi. 
+* [Sunday is the BACKUP day](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/sunday-is-backup-day.html).
+  Backup hardware comes and goes. My current oldest backup disk is a Seagate 250 GB Portable External Drive.
+* [Facebook](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/facebook-how-to-permanently-delete-your.html):
+  How to permanently delete your Facebook Account.
+* [Linux From Scratch with Lenovo ThinkPad Edge E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/linux-from-scratch-with-lenovo-thinkpad.html)
 * [UBUNTU (Gnome): Where are the KDE Wallet files stored?](https://rahmatm.samik-ibrahim.vlsm.org/2021/09/ubuntu-gnome-where-are-kde-wallet-files.html).
   Somehow, there is a problem with evince, the Gnome PDF reader.
   Therefore, I switched to okular, the kde PDF reader.
