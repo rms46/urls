@@ -29,14 +29,20 @@ layout: "urls"
   Goodbye Ubuntu, Hello Debian?!
   Gr.... semakin lama menggunakan Ubuntu, semakin ingin berpisah! Banyak "kejutan" muncul, setelah pindah dari 18.04 ke 20.04!
 * [GSGS: Git Sana Git Sini](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/gsgs-git-sana-git-sini.html). TBA.
-* [SHA256SUM Debian ISO/OVA untuk VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/sha256sum-debian-isoova-untuk-virtualbox.html).
-  Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
-  langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.
-  Mungkin saja, berkas tersebut mengalami perubahan saat download.
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
   morons, and idiots; step by step tutorial 101".
 <!-- ZCZC NNNN -->
+* [SHA256SUM Debian ISO/OVA untuk VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/sha256sum-debian-isoova-untuk-virtualbox.html).
+  Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
+  langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.
+  Mungkin saja, berkas tersebut mengalami perubahan saat download.
+* [Ubuntu: Failed to load module "canberra-gtk-module"](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/ubuntu-failed-to-load-module-canberra.html).
+  Bertemu: Failed to load module "canberra-gtk-module"?
+* [Jon Postel at INET 1995](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/jon-postel-at-inet-1995.html).
+  INET 1995, Honolulu, Hawaii.
+* [Ubuntu: Blank Activity Icon](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/ubuntu-blank-activity-icon.html).
+  Somehow, my VirtualBox Activity icon is always BLANK!
 * [Hello Nokia, Goodbye Redmi!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-nokia-goodbye-redmi.html)
   Masalah "bloatware" ini menyebabkan saya merencanakan untuk tidak lagi menjadi pengguna ponsel Redmi.
 * [Hello Telegram, Goodbye WhatsApp!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-telegram-goodbye-whatsapp.html)

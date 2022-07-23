@@ -4,6 +4,14 @@ layout: "urls"
 
 <br>
 ## XYZZY
+* [SHA256SUM Debian ISO/OVA untuk VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/sha256sum-debian-isoova-untuk-virtualbox.html).
+  Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
+  langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.
+  Mungkin saja, berkas tersebut mengalami perubahan saat download.
+* [Ubuntu: Failed to load module "canberra-gtk-module"](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/ubuntu-failed-to-load-module-canberra.html).
+  Bertemu: Failed to load module "canberra-gtk-module"?
+* [Ubuntu: Blank Activity Icon](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/ubuntu-blank-activity-icon.html).
+  Somehow, my VirtualBox Activity icon is always BLANK!
 * [Hello Telegram, Goodbye WhatsApp!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-telegram-goodbye-whatsapp.html)
   Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama.
   Pemilik WhatsApp yang baru dengan sombongnya mengatakan: "Take It" or "Leave It". 
