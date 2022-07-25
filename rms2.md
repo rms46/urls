@@ -25,10 +25,16 @@ layout: "urls"
 <br>
 ## 2021
 
-* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
-  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
-  morons, and idiots; step by step tutorial 101".
 <!-- ZCZC NNNN -->
+* [How to contact Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/how-to-contact-rahmat-m-samik-ibrahim.html).
+* [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
+  Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
+  SETELAH sistem operasi terinstall.
+* [UBUNTU: Menambah Nama Hari Pada Desktop](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-menambah-nama-hari-pada-desktop.html).
+  Setting ulang/modifikasi hal-hal yang spesifik agar ada nama hari pada bar tanggalan.
+* [UBUNTU: Hack Dependencies Package DEB](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-hack-dependencies-package-deb.html).
+  Terkadang, ada masalah dependencies pada paket installasi. 
+  Umpama masih tergantung pada paket "libcurl3" yang seharusnya "libcurl4".
 * [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
   Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen. 
   Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
@@ -81,6 +87,9 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Koleksi Populer: TAP MPR no II/1978](https://rahmatm.samik-ibrahim.vlsm.org/2021/05/penataran-p4-cakar-jaya-catur-karsa.html).
   Berkas yang paling populer pada koleksi ialah: 
   TAP MPR no II/1978 perihal P4 (Pedoman Penghayatan dan Pengamalan Pancasila).
+* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
+  morons, and idiots; step by step tutorial 101".
 * [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html).
   System File Checker (sfc) and Deployment Image Servicing and Management (DISM).
 * [How much RAM does the Nokia 5.3 have?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/how-much-ram-does-nokia-53-have.html).
