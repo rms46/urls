@@ -4,6 +4,18 @@ layout: "urls"
 
 <br>
 ## XYZZY
+* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
+  Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen.
+  Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
+* [GIMP: menolak CROP TO SELECTION](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/gimp-menolak-crop-to-selection.html).
+  Karena satu dan lain hal, jika gimp tiba-tiba menolak untuk "Crop to Selection".
+* [UBUNTU: Slow Shutdown](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-slow-shutdown.html).
+  Dua hal yang dapat dilakukan jika Ubuntu sulit / lambat shutdown.
+* [Jika Kuota Google (15 GB) Mau Habis](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/jika-kuota-google-15-gb-mau-habis.html).
+  Ukuran kuota bebas penyimpanan Google cukup besar yaitu 15 GB. 
+  Cepat atau lambat, mungkin anda akan mencapai batas kuota tersebut.  
+  Penyimpanan yang biasanya tumbuh ialah Gmail (dan nantinya Google Photos). 
+  Fokus tulisan ini ialah Gmail.
 * [SHA256SUM Debian ISO/OVA untuk VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/sha256sum-debian-isoova-untuk-virtualbox.html).
   Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
   langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.

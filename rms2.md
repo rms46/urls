@@ -25,14 +25,32 @@ layout: "urls"
 <br>
 ## 2021
 
-* [UBUNTU: Snap Permission Sh*t](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-snap-permission-sht.html).
-  Goodbye Ubuntu, Hello Debian?!
-  Gr.... semakin lama menggunakan Ubuntu, semakin ingin berpisah! Banyak "kejutan" muncul, setelah pindah dari 18.04 ke 20.04!
-* [GSGS: Git Sana Git Sini](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/gsgs-git-sana-git-sini.html). TBA.
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
   morons, and idiots; step by step tutorial 101".
 <!-- ZCZC NNNN -->
+* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
+  Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen. 
+  Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
+* [GIMP: menolak CROP TO SELECTION](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/gimp-menolak-crop-to-selection.html).
+  Karena satu dan lain hal, jika gimp tiba-tiba menolak untuk "Crop to Selection".
+* [UBUNTU: Slow Shutdown](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-slow-shutdown.html).
+  Dua hal yang dapat dilakukan jika Ubuntu sulit / lambat shutdown.
+* [UBUNTU: Snap Permission Sh*t](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-snap-permission-sht.html).
+  Goodbye Ubuntu, Hello Debian?!
+  Gr.... semakin lama menggunakan Ubuntu, semakin ingin berpisah! Banyak "kejutan" muncul, setelah pindah dari 18.04 ke 20.04!
+* [Dukung Independensi Tempo?!](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/dukung-independensi-tempo.html)
+  Internet itu sudah penuh dengan CLICK BAIT seperti itu, tanpa harus membayar. 
+  Saya juga SANGAT TIDAK SENANG jika BACAAN YANG SAYA BAYAR, BERPIHAK!
+* [Tempo Group: Koran, Majalah, dst...](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/tempo-group-koran-majalah-dst.html).
+  Hari ini, 30 April 2021, saya memutuskan untuk TIDAK akan memperpanjang berlangganan Tempo.
+  Pemicunya ialah "Iklan Install Android App" pada tampilan app Tempo. 
+  Keterlaluan sekali, SAYA SUDAH BAYAR MASIH JUGA DIPAKSA UNTUK melihat tawaran App Android. 
+* [Jika Kuota Google (15 GB) Mau Habis](https://rahmatm.samik-ibrahim.vlsm.org/2021/02/jika-kuota-google-15-gb-mau-habis.html).
+  Ukuran kuota bebas penyimpanan Google cukup besar yaitu 15 GB. 
+  Cepat atau lambat, mungkin anda akan mencapai batas kuota tersebut.  
+  Penyimpanan yang biasanya tumbuh ialah Gmail (dan nantinya Google Photos). 
+  Fokus tulisan ini ialah Gmail. 
 * [SHA256SUM Debian ISO/OVA untuk VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/sha256sum-debian-isoova-untuk-virtualbox.html).
   Jika mengalami masalah saat install Debian (ISO) atau import Debian (OVA) pada VirtualBox,
   langkah pertama ialah memeriksa apakah berkas ISO atau OVA yang digunakan sama dengan yang aslinya.
