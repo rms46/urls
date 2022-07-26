@@ -2,8 +2,8 @@
 layout: "urls"
 ---
 
-<br>
-## XYZZY
+<br id="idx00">
+## UBUNTU
 * [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
   Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
   SETELAH sistem operasi terinstall.
@@ -66,4 +66,34 @@ layout: "urls"
   Contekan untuk tahun depan.
 * [Inserting Source Code into a Blog Page](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/inserting-source-code-into-blog-page.html).
   To list "source code" on a blog page, insert the following HTML codes.
-<br><br><br><br><br>
+
+<br id="idx01">
+## Teknologi Informasi Indonesia
+* [Teknologi Informasi Indonesia Sebelum 1970](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-sebelum.html).
+  Teknologi Informasi Indonesia Sebelum 1970 Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia Sebelum 1970. 
+  Langkah awalnya, posting judulnya saja. Entah kapan, posting ini akan diisi.
+  Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 1970-1980](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-1970-1980.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 1970-1980. 
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 1980-1990](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-1980-1990.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 1980-1990.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 1990-2000](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-1990-2000.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 1990-2000.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 2000-2010](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknologi-informasi-indonesia-2000-2010.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2000-2010.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 2010-2020](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknologi-informasi-indonesia-2010-2020.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2010-2020. Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 2020-2030](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/teknologi-informasi-indonesia-2020-2030.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2020-2030.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+

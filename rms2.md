@@ -21,11 +21,34 @@ layout: "urls"
   Silakan memelihara bookmarks sesuai dengan kepercayaan dan keyakinan masing-masing.
   Berikut, merupakan tiga cara yang pernah saya coba.
   Tentunya, masih ada 998 cara lain yang tidak akan dijelaskan di sini!
+<!-- ZCZC NNNN -->
+* [Teknologi Informasi Indonesia Sebelum 1970](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-sebelum.html).
+  Teknologi Informasi Indonesia Sebelum 1970 Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia Sebelum 1970. 
+  Langkah awalnya, posting judulnya saja. Entah kapan, posting ini akan diisi. 
+  Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 1970-1980](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-1970-1980.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 1970-1980. 
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 1980-1990](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-1980-1990.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 1980-1990. 
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 1990-2000](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-1990-2000.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 1990-2000.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 2000-2010](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknologi-informasi-indonesia-2000-2010.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2000-2010.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Teknologi Informasi Indonesia 2010-2020](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknologi-informasi-indonesia-2010-2020.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2010-2020. Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
 
 <br>
 ## 2021
 
-<!-- ZCZC NNNN -->
 * [How to contact Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/how-to-contact-rahmat-m-samik-ibrahim.html).
 * [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
   Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
@@ -230,6 +253,10 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Promo TIKI SDS (Same Day Service): Rp. 14000](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/promo-tiki-sds-same-day-service-rp-14000.html).
   Saya ketitipan mendistribusikan rendang hasil korban lebaran lalu. 
   Dari pada mengantarkan sendiri, saya menggunakan jasa TIKI.
+* [Teknologi Informasi Indonesia 2020-2030](https://rahmatm.samik-ibrahim.vlsm.org/2022/07/teknologi-informasi-indonesia-2020-2030.html).
+  Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2020-2030.
+  Langkah awalnya, posting judulnya saja.
+  Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
 
 <br>
 ## 2023
