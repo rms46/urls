@@ -16,12 +16,31 @@ layout: "urls"
   No NetPrinter Display
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
+<!-- ZCZC NNNN -->
+* [Exam From Home (8 Juni - 7 Juli 2020) -- Pertama Kali](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html).
+  Berikut (akan) merupakan pengalaman pelaksanaan "Exam From Home". 
+  Ujian Akhir Semester "Sistem Operasi" diselenggarakan dalam lima (5) tahapan.
+* [Priority Mail International: San Francisco (Oct 2019) - Depok (July 2020)](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/priority-mail-international-san.html).
+  Berapa lama diperlukan untuk mengirim "Priority Mail" dari San Francisco ke Depok?
+  Tanggal Kirim: Oktober 2019. Tanggal Terima: July 2020. Duh!
+* [BlackBerry Fields Forever](https://rahmatm.samik-ibrahim.vlsm.org/2020/08/blackberry-fields-forever.html).
+  Let me take you down, 'cause I'm going to #BlackBerry Fields. Nothing is real, and nothing to get hung about.
+  #BlackBerry Fields forever.
+* [Jalan Kaki Dari Bandung Ke Bogor (1976)](https://rahmatm.samik-ibrahim.vlsm.org/2020/08/jalan-kaki-dari-bandung-ke-bogor-1976.html).
+  Foto ini diambil di tengah malam di atas jembatan Rajamandala (lama).
+  Mutu kamera seadanya, serta pencahayaannya kurang.
+  Pada zaman tersebut (1976) belum ada kamera ponsel. 
+* [Tongkat Kayu dan Batu Jadi Tanaman](https://rahmatm.samik-ibrahim.vlsm.org/2020/08/tongkat-kayu-dan-batu-jadi-tanaman.html).
+  Apa betul tongkat kayu (singkong) bisa jadi tanaman?
+  Berikut merupakan percobaan untuk membuktikan teori Koes Plus tersebut.
+* [Sistem Operasi: Kisah IBM](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/sistem-operasi-kisah-ibm.html).
+  Dahulu, OS ialah perangkat lunak yang mengendalikan perangkat komputer IBM.
+  Sekarang, OS  merupakan perangkat lunak yang mengendalikan ponsel. 
 * [Pemeliharaan Bookmarks](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/pemeliharaan-bookmarks.html).
   Terdapat 1001 cara untuk memelihara bookmarks.
   Silakan memelihara bookmarks sesuai dengan kepercayaan dan keyakinan masing-masing.
   Berikut, merupakan tiga cara yang pernah saya coba.
   Tentunya, masih ada 998 cara lain yang tidak akan dijelaskan di sini!
-<!-- ZCZC NNNN -->
 * [Teknologi Informasi Indonesia Sebelum 1970](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-sebelum.html).
   Teknologi Informasi Indonesia Sebelum 1970 Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia Sebelum 1970. 
   Langkah awalnya, posting judulnya saja. Entah kapan, posting ini akan diisi. 

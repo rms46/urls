@@ -3,6 +3,14 @@ layout: "urls"
 ---
 
 <br id="idx00">
+## Operating Systems
+* [Sistem Operasi: Kisah IBM](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/sistem-operasi-kisah-ibm.html).
+  Dahulu, OS ialah perangkat lunak yang mengendalikan perangkat komputer IBM.
+  Sekarang, OS  merupakan perangkat lunak yang mengendalikan ponsel.
+* [What defines an Operating System?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html)
+  An Operating System is just a piece of software, a whole piece of software, and nothing but software!
+
+<br id="idx01">
 ## UBUNTU
 * [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
   Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
@@ -67,7 +75,7 @@ layout: "urls"
 * [Inserting Source Code into a Blog Page](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/inserting-source-code-into-blog-page.html).
   To list "source code" on a blog page, insert the following HTML codes.
 
-<br id="idx01">
+<br id="idx02">
 ## Teknologi Informasi Indonesia
 * [Teknologi Informasi Indonesia Sebelum 1970](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-sebelum.html).
   Teknologi Informasi Indonesia Sebelum 1970 Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia Sebelum 1970. 
@@ -96,4 +104,22 @@ layout: "urls"
   Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2020-2030.
   Langkah awalnya, posting judulnya saja.
   Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+
+<br id="idx03">
+## ETC
+* [Exam From Home (8 Juni - 7 Juli 2020) -- Pertama Kali](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html).
+  Berikut (akan) merupakan pengalaman pelaksanaan "Exam From Home". 
+  Ujian Akhir Semester "Sistem Operasi" diselenggarakan dalam lima (5) tahapan.
+* [Priority Mail International: San Francisco (Oct 2019) - Depok (July 2020)](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/priority-mail-international-san.html).
+  Berapa lama diperlukan untuk mengirim "Priority Mail" dari San Francisco ke Depok?
+  Tanggal Kirim: Oktober 2019. Tanggal Terima: July 2020. Duh!
+* [Jalan Kaki Dari Bandung Ke Bogor (1976)](https://rahmatm.samik-ibrahim.vlsm.org/2020/08/jalan-kaki-dari-bandung-ke-bogor-1976.html).
+  Foto ini diambil di tengah malam di atas jembatan Rajamandala (lama).
+  Mutu kamera seadanya, serta pencahayaannya kurang.
+  Pada zaman tersebut (1976) belum ada kamera ponsel.
+* [Tongkat Kayu dan Batu Jadi Tanaman](https://rahmatm.samik-ibrahim.vlsm.org/2020/08/tongkat-kayu-dan-batu-jadi-tanaman.html).
+  Apa betul tongkat kayu (singkong) bisa jadi tanaman?
+
+<br><br><br>
+
 
