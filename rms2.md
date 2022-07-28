@@ -17,6 +17,10 @@ layout: "urls"
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
 <!-- ZCZC NNNN -->
+* [Git/GitHub: Kondisi Balapan Saat COMMIT](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/gitgithub-kondisi-balapan-saat-commit.html).
+  Kondisi balapan (race-condition) pada git/github dapat terjadi jika ada lebih dari satu pihak yang mengubah berkas yang sama.
+* [Pamulang: IndiHome - FirstMedia - MyRepublic - SmartFren - Halo TelkomSel](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/pamulang-indihome-firstmedia-myrepublic.html).
+  Di Pamulang (Tangerang Selatan), saya berlangganan tiga penyedia jasa Internet plus dua operator ponsel.
 * [Exam From Home (8 Juni - 7 Juli 2020) -- Pertama Kali](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html).
   Berikut (akan) merupakan pengalaman pelaksanaan "Exam From Home". 
   Ujian Akhir Semester "Sistem Operasi" diselenggarakan dalam lima (5) tahapan.

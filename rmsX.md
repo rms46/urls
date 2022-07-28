@@ -4,6 +4,8 @@ layout: "urls"
 
 <br id="idx00">
 ## Operating Systems
+* [Git/GitHub: Kondisi Balapan Saat COMMIT](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/gitgithub-kondisi-balapan-saat-commit.html).
+  Kondisi balapan (race-condition) pada git/github dapat terjadi jika ada lebih dari satu pihak yang mengubah berkas yang sama.
 * [Sistem Operasi: Kisah IBM](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/sistem-operasi-kisah-ibm.html).
   Dahulu, OS ialah perangkat lunak yang mengendalikan perangkat komputer IBM.
   Sekarang, OS  merupakan perangkat lunak yang mengendalikan ponsel.
