@@ -2,8 +2,22 @@
 layout: "urls"
 ---
 
+
+
 <br id="idx00">
 ## Operating Systems
+
+* [fatsort: sortir playlist mp3](https://rahmatm.samik-ibrahim.vlsm.org/2013/03/fatsort-sortir-playlist-mp3.html).
+  Kebanyakan sistem berkas modern tidak menyimpan berkas secara terurut.
+* [CONFIG untuk Kernel Linux 3.2.27 RPI](https://rahmatm.samik-ibrahim.vlsm.org/2013/01/config-untuk-kernel-linux-3227-rpi.html)
+  Ini merupakan laporan uji-coba hasil kompilasi kernel linux 3.2.27 RPI (Raspberry Pi) dari KA03
+  (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
+  Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
+* [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
+  --- dari tahun ke tahun.
+* [Puss In Boots](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/puss-in-boots.html).
+  Puss in Boots has been repeatedly filmed for over 100 years, 
+  including a 2011 American film produced by DreamWorks Animation
 * [Git/GitHub: Kondisi Balapan Saat COMMIT](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/gitgithub-kondisi-balapan-saat-commit.html).
   Kondisi balapan (race-condition) pada git/github dapat terjadi jika ada lebih dari satu pihak yang mengubah berkas yang sama.
 * [Sistem Operasi: Kisah IBM](https://rahmatm.samik-ibrahim.vlsm.org/2020/09/sistem-operasi-kisah-ibm.html).
