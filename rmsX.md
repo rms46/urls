@@ -2,11 +2,20 @@
 layout: "urls"
 ---
 
-
-
 <br id="idx00">
-## Operating Systems
-
+## XXX1
+* [New File Bug in Nautilus](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/new-file-bug-in-nautilus.html).
+  Ada satu bug yang cukup mengganggu saat menggunakan Nautilus.
+  File Manager tersebut tidak mampu membuat berkas baru!
+  Masalah ini dapat ditangani dengan menambahkan berkas "dummy.txt" di dalam folder "~/Templates/".
+* [Sarana Latihan Git Lokal tanpa GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
+  Script berikut ini berguna, jika ingin coba-coba menggunakan git tanpa GitHub.
+  Pengganti GitHub ialah "remoteDir/", sedangkan untuk latihan di "workingDir/".
+* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
+  step by step tutorial 101"
+* [Cara Membuat dan Menanda-tangani Berkas SHA1SUM (detached)](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/cara-membuat-dan-menanda-tangani-berkas.html).
+  Umpamanya ada tiga berkas: 0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc.
 * [fatsort: sortir playlist mp3](https://rahmatm.samik-ibrahim.vlsm.org/2013/03/fatsort-sortir-playlist-mp3.html).
   Kebanyakan sistem berkas modern tidak menyimpan berkas secara terurut.
 * [CONFIG untuk Kernel Linux 3.2.27 RPI](https://rahmatm.samik-ibrahim.vlsm.org/2013/01/config-untuk-kernel-linux-3227-rpi.html)
@@ -27,7 +36,7 @@ layout: "urls"
   An Operating System is just a piece of software, a whole piece of software, and nothing but software!
 
 <br id="idx01">
-## UBUNTU
+## XXX2
 * [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
   Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
   SETELAH sistem operasi terinstall.
@@ -122,7 +131,7 @@ layout: "urls"
   Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
 
 <br id="idx03">
-## ETC
+## XXX3
 * [Exam From Home (8 Juni - 7 Juli 2020) -- Pertama Kali](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html).
   Berikut (akan) merupakan pengalaman pelaksanaan "Exam From Home". 
   Ujian Akhir Semester "Sistem Operasi" diselenggarakan dalam lima (5) tahapan.
@@ -137,5 +146,4 @@ layout: "urls"
   Apa betul tongkat kayu (singkong) bisa jadi tanaman?
 
 <br><br><br>
-
 

@@ -17,6 +17,29 @@ layout: "urls"
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
 <!-- ZCZC NNNN -->
+* [Lego Bekas](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/lego-bekas.html).
+  Barusan membeli satu kilogram Lego bekas. 
+  Pesanan tiba keesokan harinya, walau pun hanya menggunakan kurir "Ekonomi" (= paling murah).
+  Langkah pertama, sanitasi dengan detergent campur karbol.
+* [The H310MHC BIOSTAR setting](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/h310mhc-biostar-with-intel-i3-8100-360.html).
+  The H310MHC BIOSTAR setting.
+* [Something in Abbey Road (1969-2020)](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/something-in-abbey-road.html).
+  You're asking me, will COVID grow? I don't know... I don't know...
+  (Something, George Harrison).
+* [New File Bug in Nautilus](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/new-file-bug-in-nautilus.html).
+  Ada satu bug yang cukup mengganggu saat menggunakan Nautilus.
+  File Manager tersebut tidak mampu membuat berkas baru!
+  Masalah ini dapat ditangani dengan menambahkan berkas "dummy.txt" di dalam folder "~/Templates/". 
+* [Perbandingan Luas Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/perbandingan-luas-indonesia.html).
+  Berapa luas Indonesia? Mari kita bandingkan dengan beberapa wilayah lain di dunia!
+* [Sarana Latihan Git Lokal tanpa GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
+  Script berikut ini berguna, jika ingin coba-coba menggunakan git tanpa GitHub.
+  Pengganti GitHub ialah "remoteDir/", sedangkan untuk latihan di "workingDir/".
+* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
+  step by step tutorial 101"
+* [Cara Membuat dan Menanda-tangani Berkas SHA1SUM (detached)](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/cara-membuat-dan-menanda-tangani-berkas.html).
+  Umpamanya ada tiga berkas: 0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc.
 * [Git/GitHub: Kondisi Balapan Saat COMMIT](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/gitgithub-kondisi-balapan-saat-commit.html).
   Kondisi balapan (race-condition) pada git/github dapat terjadi jika ada lebih dari satu pihak yang mengubah berkas yang sama.
 * [Pamulang: IndiHome - FirstMedia - MyRepublic - SmartFren - Halo TelkomSel](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/pamulang-indihome-firstmedia-myrepublic.html).
