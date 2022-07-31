@@ -303,6 +303,9 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2020-2030.
   Langkah awalnya, posting judulnya saja.
   Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
+* [Ada Apa dengan Kambing?!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ada-apa-dengan-kambing.html)
+  Ada apa dengan kambing? Mengapa tidak terawat? 
+  Ini pertanyaan menarik, namun saya juga tidak tahu kepada siapa mesti bertanya!?
 
 <br>
 ## 2023
