@@ -9,7 +9,6 @@ layout: "urls"
 | [2016](rms1.md#2016) | [2017](rms1.md#2017) | [2018](rms1.md#2018) | [2019](rms1.md#2019) | [2020](rms2.md#2020) |
 | [2021](rms2.md#2021) | [2022](rms2.md#2022) | [2023](rms2.md#2023) | [2024](rms2.md#2024) | [2025](rms2.md#2025) |
 
-<!-- ZCZC NNNN -->
 <br>
 ## 2010
 
@@ -217,5 +216,9 @@ layout: "urls"
   Terkadang, Windows 10 dalam keadaan tidak keruan serta sangat membingungkan 
   karena tidak ada info apa-apa selain hang.
   Dengan REGEDIT, kita dapat menyalakan "VerboseStatus = 1", yaitu kita dapat mengintip apa yang terjadi.
+<!-- ZCZC NNNN -->
+* [Laksamana Raja Di Laut](https://rahmatm.samik-ibrahim.vlsm.org/2019/11/laksamana-raja-di-laut.html).
+  Seputar Laksmana Raja di Laut.  Siapa tahu, 
+  10 atau 20 atau 30 tahun dari sekarang ada pihak yang berminat meneliti hal ini, saat sumber aslinya sudah hilang.
 
 <br><br><br><br><br>

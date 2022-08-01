@@ -4,6 +4,16 @@ layout: "urls"
 
 <br id="idx00">
 ## XXX1
+* [Ubuntu 18.04: More Tidbits...](https://rahmatm.samik-ibrahim.vlsm.org/2020/02/ubuntu-1804-more-tidbits.html).
+  No NetPrinter Display
+* [Ubuntu (GNOME) Delete Keyrings (SEAHORSE)](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/delete-ubuntu-keyring.html).
+  Kadang-kadang password keyring muncul mendadak. 
+  Seharusnya bukan begini, namun cara ini lebih cepat (dan salah!).
+* [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
+  Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
+* [Ada Apa dengan Kambing?!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ada-apa-dengan-kambing.html)
+  Ada apa dengan kambing? Mengapa tidak terawat?
+  Ini pertanyaan menarik, namun saya juga tidak tahu kepada siapa mesti bertanya!?
 * [New File Bug in Nautilus](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/new-file-bug-in-nautilus.html).
   Ada satu bug yang cukup mengganggu saat menggunakan Nautilus.
   File Manager tersebut tidak mampu membuat berkas baru!

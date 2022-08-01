@@ -12,11 +12,24 @@ layout: "urls"
 <br>
 ## 2020
 
+* [Permasalahan Kemasan Obat Blister Dan Strip](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/permasalahan-kemasan-obat-blister-dan.html).
+  Tulisan ini seputar pemasalahan kemasan Blister dan Strip, 
+  serta mempertanyakan mengapa permasalahan ini tidak ditangani dengan sungguh-sungguh.
+* [Ganti Batere Setiap Awal Tahun](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/ganti-batere-setiap-awal-tahun.html).
+  Awal tahun telah tiba. Sudah saatnya mengganti batere secara serentak untuk semua remote, 
+  jam dinding, keyboard, mouse, dst.
+* [Ubuntu (GNOME) Delete Keyrings (SEAHORSE)](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/delete-ubuntu-keyring.html).
+  Kadang-kadang password keyring muncul mendadak. 
+  Seharusnya bukan begini, namun cara ini lebih cepat (dan salah!).
 * [Ubuntu 18.04: More Tidbits...](https://rahmatm.samik-ibrahim.vlsm.org/2020/02/ubuntu-1804-more-tidbits.html).
   No NetPrinter Display
+* [Seputar COVID-19](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/laman-covid-19.html).
+  Info untuk peserta kuliah Sistem Operasi: tips Belajar (Kerja) Efektif di Rumah serta tips Bersih-Bersih.
+* [Koran / Majalah Tempo: Link Mati 404](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/koran-majalah-tempo-link-mati-404.html).
+  Bukan hanya sekali, tetap berulang kali, dalam web Tempo ada link mati (404). Mari kita pantau...
+  Ini merupakan tulisan pertama dari "trilogi Tempo."
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
-<!-- ZCZC NNNN -->
 * [Lego Bekas](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/lego-bekas.html).
   Barusan membeli satu kilogram Lego bekas. 
   Pesanan tiba keesokan harinya, walau pun hanya menggunakan kurir "Ekonomi" (= paling murah).
