@@ -7,6 +7,12 @@ layout: "urls"
 * [To Practice Git without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
   The following script is useful if you want to practice Git without GitHub.
   Here, GitHub's replacement will be folder "remoteDir/," while the working folder will be "workingDir/."
+* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
+  step by step tutorial 101"
+* [Ada Apa dengan Kambing?!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ada-apa-dengan-kambing.html)
+  Ada apa dengan kambing? Mengapa tidak terawat?
+  Ini pertanyaan menarik, namun saya juga tidak tahu kepada siapa mesti bertanya!?
 * [Ubuntu 18.04: More Tidbits...](https://rahmatm.samik-ibrahim.vlsm.org/2020/02/ubuntu-1804-more-tidbits.html).
   No NetPrinter Display
 * [Ubuntu (GNOME) Delete Keyrings (SEAHORSE)](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/delete-ubuntu-keyring.html).
@@ -14,16 +20,10 @@ layout: "urls"
   Seharusnya bukan begini, namun cara ini lebih cepat (dan salah!).
 * [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
   Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
-* [Ada Apa dengan Kambing?!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ada-apa-dengan-kambing.html)
-  Ada apa dengan kambing? Mengapa tidak terawat?
-  Ini pertanyaan menarik, namun saya juga tidak tahu kepada siapa mesti bertanya!?
 * [New File Bug in Nautilus](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/new-file-bug-in-nautilus.html).
   Ada satu bug yang cukup mengganggu saat menggunakan Nautilus.
   File Manager tersebut tidak mampu membuat berkas baru!
   Masalah ini dapat ditangani dengan menambahkan berkas "dummy.txt" di dalam folder "~/Templates/".
-* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
-  Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
-  step by step tutorial 101"
 * [Cara Membuat dan Menanda-tangani Berkas SHA1SUM (detached)](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/cara-membuat-dan-menanda-tangani-berkas.html).
   Umpamanya ada tiga berkas: 0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc.
 * [fatsort: sortir playlist mp3](https://rahmatm.samik-ibrahim.vlsm.org/2013/03/fatsort-sortir-playlist-mp3.html).
