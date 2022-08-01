@@ -7,7 +7,7 @@ layout: "urls"
 * [To Practice Git without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
   The following script is useful if you want to practice Git without GitHub.
   Here, GitHub's replacement will be folder "remoteDir/," while the working folder will be "workingDir/."
-* [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
+* [tar (tape archive) for dummies; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
   step by step tutorial 101"
 * [Ada Apa dengan Kambing?!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ada-apa-dengan-kambing.html)
