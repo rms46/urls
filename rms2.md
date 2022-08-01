@@ -45,9 +45,9 @@ layout: "urls"
   Masalah ini dapat ditangani dengan menambahkan berkas "dummy.txt" di dalam folder "~/Templates/". 
 * [Perbandingan Luas Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/perbandingan-luas-indonesia.html).
   Berapa luas Indonesia? Mari kita bandingkan dengan beberapa wilayah lain di dunia!
-* [Sarana Latihan Git Lokal tanpa GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
-  Script berikut ini berguna, jika ingin coba-coba menggunakan git tanpa GitHub.
-  Pengganti GitHub ialah "remoteDir/", sedangkan untuk latihan di "workingDir/".
+* [To Practice Git without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
+  The following script is useful if you want to practice Git without GitHub.
+  Here, GitHub's replacement will be folder "remoteDir/," while the working folder will be "workingDir/." 
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
   step by step tutorial 101"

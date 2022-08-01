@@ -4,6 +4,9 @@ layout: "urls"
 
 <br id="idx00">
 ## XXX1
+* [To Practice Git without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
+  The following script is useful if you want to practice Git without GitHub.
+  Here, GitHub's replacement will be folder "remoteDir/," while the working folder will be "workingDir/."
 * [Ubuntu 18.04: More Tidbits...](https://rahmatm.samik-ibrahim.vlsm.org/2020/02/ubuntu-1804-more-tidbits.html).
   No NetPrinter Display
 * [Ubuntu (GNOME) Delete Keyrings (SEAHORSE)](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/delete-ubuntu-keyring.html).
@@ -18,9 +21,6 @@ layout: "urls"
   Ada satu bug yang cukup mengganggu saat menggunakan Nautilus.
   File Manager tersebut tidak mampu membuat berkas baru!
   Masalah ini dapat ditangani dengan menambahkan berkas "dummy.txt" di dalam folder "~/Templates/".
-* [Sarana Latihan Git Lokal tanpa GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
-  Script berikut ini berguna, jika ingin coba-coba menggunakan git tanpa GitHub.
-  Pengganti GitHub ialah "remoteDir/", sedangkan untuk latihan di "workingDir/".
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies, morons, and idiots; 
   step by step tutorial 101"
