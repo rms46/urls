@@ -207,6 +207,15 @@ layout: "urls"
 * [Albert Einstein: E=mc2](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/albert-einstein.html).
   Albert Einstein pernah sekolah di Kedaung, Ciputat, Tangerang Selatan.
 * [Rahmat's Blog 1997](https://rahmatm.samik-ibrahim.vlsm.org/2019/03/rahmats-blog-1997.html)
+<!-- ZCZC NNNN -->
+* [Merayakan Ulang Tahun di Tempat Kerja](https://rahmatm.samik-ibrahim.vlsm.org/2019/04/merayakan-ulang-tahun-di-tempat-kerja.html).
+  Beberapa hal yang mudah-mudahan mendapatkan perhatian,
+  pada saat merencanakan untuk merayakan ulang tahun di tempat kerja.
+* [Kernighan and Ritchie: The C Programming Language](https://rahmatm.samik-ibrahim.vlsm.org/2019/04/kernighan-and-ritchie-c-programming.html).
+  Berikut buku legendaris "The C Programming Language" edisi pertama dan kedua, 
+  karangan Brian W. Kernighan dan Dennis M. Ritchie.
+* [Redmi Bersaudara](https://rahmatm.samik-ibrahim.vlsm.org/2019/04/redmi-bersaudara.html)
+  Redmi 5, 6, 7, 8, 8A, difoto bersama.
 * [Kereta Api Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2019/08/kereta-api-indonesia.html).
   2019, masih tetap begitu!
   Tiba di stasiun Bandung, sebagian penumpang diharapkan melompat dari gerbong Kereta Api!
@@ -216,7 +225,6 @@ layout: "urls"
   Terkadang, Windows 10 dalam keadaan tidak keruan serta sangat membingungkan 
   karena tidak ada info apa-apa selain hang.
   Dengan REGEDIT, kita dapat menyalakan "VerboseStatus = 1", yaitu kita dapat mengintip apa yang terjadi.
-<!-- ZCZC NNNN -->
 * [Laksamana Raja Di Laut](https://rahmatm.samik-ibrahim.vlsm.org/2019/11/laksamana-raja-di-laut.html).
   Seputar Laksmana Raja di Laut.  Siapa tahu, 
   10 atau 20 atau 30 tahun dari sekarang ada pihak yang berminat meneliti hal ini, saat sumber aslinya sudah hilang.

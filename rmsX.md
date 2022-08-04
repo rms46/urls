@@ -2,8 +2,8 @@
 layout: "urls"
 ---
 
-<br id="idx00">
-## XXX1
+<br id="idx10">
+## XXX
 * [To Practice Git without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
   The following script is useful if you want to practice Git without GitHub.
   Here, GitHub's replacement will be folder "remoteDir/," while the working folder will be "workingDir/."
@@ -45,7 +45,25 @@ layout: "urls"
 * [What defines an Operating System?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html)
   An Operating System is just a piece of software, a whole piece of software, and nothing but software!
 
-<br id="idx01">
+<br id="idx20">
+## XXX
+* [Windows 10: Verbose Status](https://rahmatm.samik-ibrahim.vlsm.org/2019/10/windows-10-verbose-status.html).
+  Terkadang, Windows 10 dalam keadaan tidak keruan serta sangat membingungkan
+  karena tidak ada info apa-apa selain hang.
+  Dengan REGEDIT, kita dapat menyalakan "VerboseStatus = 1", yaitu kita dapat mengintip apa yang terjadi.
+* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
+  Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen.
+  Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
+* [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html).
+  System File Checker (sfc) and Deployment Image Servicing and Management (DISM).
+* [Tips to improve PC performance in Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/tips-to-improve-pc-performance-in.html).
+  Tips to improve PC performance in Windows 10? Just Google it! It may change from time to time.
+* [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html).
+  If you are running an antiquated computer that has been a family heirloom since a long time ago,
+  you might have trouble with your VirtualBox.
+  First, you should make sure about what the source of the problem is.
+
+<br id="idx30">
 ## XXX2
 * [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
   Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
@@ -55,9 +73,6 @@ layout: "urls"
 * [UBUNTU: Hack Dependencies Package DEB](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-hack-dependencies-package-deb.html).
   Terkadang, ada masalah dependencies pada paket installasi.
   Umpama masih tergantung pada paket "libcurl3" yang seharusnya "libcurl4".
-* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
-  Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen.
-  Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
 * [GIMP: menolak CROP TO SELECTION](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/gimp-menolak-crop-to-selection.html).
   Karena satu dan lain hal, jika gimp tiba-tiba menolak untuk "Crop to Selection".
 * [UBUNTU: Slow Shutdown](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-slow-shutdown.html).
@@ -84,8 +99,6 @@ layout: "urls"
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
   Mari kita GSGS (Google Sana Google Sini) seputar "tar (tape archive) for dummies,
   morons, and idiots; step by step tutorial 101".
-* [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html).
-  System File Checker (sfc) and Deployment Image Servicing and Management (DISM).
 * [What defines an Operating System?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html)
   An Operating System is just a piece of software, a whole piece of software, and nothing but software!
 * [UBUNTU: How can I test my hard drive health?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/ubuntu-how-can-i-test-my-hard-drive.html)
@@ -93,24 +106,18 @@ layout: "urls"
   to control and monitor storage systems using the Self-Monitoring, 
   Analysis and Reporting Technology System (SMART) built into most modern ATA/SATA, 
   SCSI/SAS and NVMe disks.
-* [Tips to improve PC performance in Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/tips-to-improve-pc-performance-in.html).
-  Tips to improve PC performance in Windows 10? Just Google it! It may change from time to time.
 * [The Bash PROMPT_COMMAND before PS1](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/the-bash-promptcommand-before-ps1.html)
   If set, the value is interpreted as a command to execute before the printing of each primary prompt ($PS1).
 * [LaTeX Examples (MWE) with TARBALLS and PDFs](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/latex-examples.html).
   A LaTeX MWE GitHub Page at GitHub.
 * [So, what is LuaLaTeX anyway](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/so-what-is-lualatex-anyway.html)?
   Have you ever tried to run LaTeX on an IBM PC/XT 5160? I have!
-* [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html).
-  If you are running an antiquated computer that has been a family heirloom since a long time ago,
-  you might have trouble with your VirtualBox.
-  First, you should make sure about what the source of the problem is.
 * [Surat Pemberitahuan Tahunan (SPT) Pajak 2021](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/surat-pemberitahuan-tahunan-spt-pajak.html).
   Contekan untuk tahun depan.
 * [Inserting Source Code into a Blog Page](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/inserting-source-code-into-blog-page.html).
   To list "source code" on a blog page, insert the following HTML codes.
 
-<br id="idx02">
+<br id="idx40">
 ## Teknologi Informasi Indonesia
 * [Teknologi Informasi Indonesia Sebelum 1970](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-sebelum.html).
   Teknologi Informasi Indonesia Sebelum 1970 Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia Sebelum 1970. 
@@ -140,7 +147,7 @@ layout: "urls"
   Langkah awalnya, posting judulnya saja.
   Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
 
-<br id="idx03">
+<br id="idx50">
 ## XXX3
 * [Exam From Home (8 Juni - 7 Juli 2020) -- Pertama Kali](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html).
   Berikut (akan) merupakan pengalaman pelaksanaan "Exam From Home". 
