@@ -208,6 +208,17 @@ layout: "urls"
   Albert Einstein pernah sekolah di Kedaung, Ciputat, Tangerang Selatan.
 * [Rahmat's Blog 1997](https://rahmatm.samik-ibrahim.vlsm.org/2019/03/rahmats-blog-1997.html)
 <!-- ZCZC NNNN -->
+* [Kawasan Tanpa Rokok](https://rahmatm.samik-ibrahim.vlsm.org/2019/02/kawasan-tanpa-rokok.html).
+  Menarik kabel serat optik 10 GBps dalam kawasan Tanpa Rokok -- SK Rektor UI No 1805/SK/R/UI/2011 -- 
+  UU Kesehatan No 36/2009.
+* [Proklamasi Tanpa Facebook dan WhatsApp](https://rahmatm.samik-ibrahim.vlsm.org/2019/02/proklamasi-tanpa-facebook-dan-whatsapp.html).
+  Kami dengan ini menjatakan tidak akan lagi menggoenakan Facebook dan WhatsApp.
+  Hal-hal jang mengenai pemindahan AKOEN.DLL, diselenggarakan dengan tjara saksama 
+  dan dalam tempoh jang sesingkat-singkatnja.
+* [Ubuntu: Taskbar Date Format](https://rahmatm.samik-ibrahim.vlsm.org/2019/02/ubuntu-taskbar-date-format.html).
+  <br>apt-get install gnome-tweaks gnome-tweak-tool
+* [Reuters TV Closed Captioning (CC)](https://rahmatm.samik-ibrahim.vlsm.org/2019/04/reuters-tv-closed-captioning-cc.html).
+  ROFLMAO: CC (Closed Captioning) otomatis Reuters TV terkadang membuat tertawa (13 April 2019).
 * [Merayakan Ulang Tahun di Tempat Kerja](https://rahmatm.samik-ibrahim.vlsm.org/2019/04/merayakan-ulang-tahun-di-tempat-kerja.html).
   Beberapa hal yang mudah-mudahan mendapatkan perhatian,
   pada saat merencanakan untuk merayakan ulang tahun di tempat kerja.
