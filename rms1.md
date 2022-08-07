@@ -191,14 +191,24 @@ layout: "urls"
 
 * [WSL: Fine Tuning](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/wsl-fine-tuning.html)
   Berikut beberapa "fine tuning" untuk WSL (Windows SubSystem of LaTex or Linux).
+* [Kiat Hemat WhatsApp Group](https://rahmatm.samik-ibrahim.vlsm.org/2018/10/kiat-hemat-whatsapp-group.html).
+  Ada dua masalah yang timbul. 
+  Pertama, terpaksa harus berlangganan paket DATA yang besar (lebih mahal). 
+  Kedua, memori ponsel cepat penuh. Berikut sebuah usaha untuk menanggulangi kedua masalah tersebut. 
+  Ya, namanya juga usaha... belum tentu sukses.
 
 <br>
 ## 2019
 
+<!-- ZCZC NNNN -->
+* [Kali Linux](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/kali-linux.html).
+  Big Brother is watching you: menggunakan Kali Linux dengan adapter WiFi (Alfa AC1200 Wireless Adapter).
+* [Kuliah Sistem Operasi](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/kuliah-sistem-operasi.html).
+  Menurut sumber yang TIDAK dapat dipercaya, 
+  bahkan kambing diikat satu semester di kelas Sistem Operasi, akan mendapat nilai "C"!
 * [Tandem Gadget](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/tandem-gadget.html).
   Sistem Ponsel Tandem dapat menghindar kondisi LOW-BAT. Ponsel kiri (Redmi 6A) untuk sehari-hari (siang);
   ponsel kanan (Redmi 5A) untuk cadangan.
-<!-- ZCZC NNNN -->
 * [Tol Pendek (2000) Jasa Warga](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/tol-pendek.html).
   Tol Pendek "JASA WARGA" merupakan jalan pintas menuju Universitas Indonesia Depok berada di Srengseng Sawah, LA.
   Hanya sekitar 20 m dengan tarif Rp. 2000.00.
