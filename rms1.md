@@ -198,16 +198,23 @@ layout: "urls"
 * [Tandem Gadget](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/tandem-gadget.html).
   Sistem Ponsel Tandem dapat menghindar kondisi LOW-BAT. Ponsel kiri (Redmi 6A) untuk sehari-hari (siang);
   ponsel kanan (Redmi 5A) untuk cadangan.
+<!-- ZCZC NNNN -->
+* [Tol Pendek (2000) Jasa Warga](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/tol-pendek.html).
+  Tol Pendek "JASA WARGA" merupakan jalan pintas menuju Universitas Indonesia Depok berada di Srengseng Sawah, LA.
+  Hanya sekitar 20 m dengan tarif Rp. 2000.00.
+* [Albert Einstein: E=mc2](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/albert-einstein.html).
+  Albert Einstein pernah sekolah di Kedaung, Ciputat, Tangerang Selatan.
+* [Toilet Paling Gratis Sedunia!](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/toilet-paling-gratis-sedunia.html)
+  ROFLMAO: Ini dia, toilet yang paling gratis sedunia; 
+  lengkap dengan petugas "kotak suka-rela" di Rest Area Km 43 Tol Jakarta Merak.
+* [Nelayan Menjala Ikan](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/nelayan-menjala-ikan.html).
+  Nelayan menjala ikan di sebuah danau "pedalaman" pada abad lalu. Eh ini di Depok, deng!
 * [ITB -- 9 Februari 1978 -- menjelang Sidang Umum MPR](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/itb-1980.html).
   Tahun 1978 merupakan tahun Sidang Umum MPR.
   Sejak akhir 1977, mahasiswa mulai ramai melakukan demonstrasi menentang kepemimpinan Nasional yang ada.
   Suasana memanas, sehingga tanggal 9 Februari 1978, pemerintah memutuskan untuk menduduki 
   kampus Institut Teknologi Bandung (ITB).
   Proses belajar-mengajar terganggu, karena pelajar dan mahasiswa melakukan pemogokan belajar.
-* [Albert Einstein: E=mc2](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/albert-einstein.html).
-  Albert Einstein pernah sekolah di Kedaung, Ciputat, Tangerang Selatan.
-* [Rahmat's Blog 1997](https://rahmatm.samik-ibrahim.vlsm.org/2019/03/rahmats-blog-1997.html)
-<!-- ZCZC NNNN -->
 * [Kawasan Tanpa Rokok](https://rahmatm.samik-ibrahim.vlsm.org/2019/02/kawasan-tanpa-rokok.html).
   Menarik kabel serat optik 10 GBps dalam kawasan Tanpa Rokok -- SK Rektor UI No 1805/SK/R/UI/2011 -- 
   UU Kesehatan No 36/2009.
