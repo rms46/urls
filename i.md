@@ -10,7 +10,7 @@ layout: "urls"
 | [Semak Hadis](https://semakhadis.com/) | [Y: Advice Before Becoming Muslim](https://www.youtube.com/watch?v=UqczbY3w7aw) | [The Global Islamic Seminary](https://academy.seekersguidance.org/) |
 | [Y: Seerah](https://www.youtube.com/playlist?list=PLAEA99D24CA2F9A8F) | [MJS: Ngaji Filsafat](https://www.youtube.com/playlist?list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18) | [MIC: Memphis](http://www.memphisislamiccenter.org/about-mic/about-mic/) | [TRUTHLAND OF TRUUTHZ](https://sites.google.com/site/truuthz/) |
 | [Islamic-Awareness](https://www.islamic-awareness.org/) |
-| Historical criticism of Islam [[1](https://youtu.be/WHGii1Ah_3E)][[2](https://youtu.be/FjQaHoJNSX8)][[3](https://youtu.be/pWV5BxM9Y40)] |
+| Historical criticism of Islam [[1](https://youtu.be/WHGii1Ah_3E)][[2](https://youtu.be/FjQaHoJNSX8)][[3](https://youtu.be/pWV5BxM9Y40)] | [MALM](https://www.youtube.com/c/MuftiAbuLayth/videos) | [MALM: BukhariGate](https://youtu.be/FUEMzKt2Vqo) |
 ||
 | [IndoGlobal](https://indoglobal.com/) |
 | [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) |
