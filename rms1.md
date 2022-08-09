@@ -191,6 +191,13 @@ layout: "urls"
 
 * [WSL: Fine Tuning](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/wsl-fine-tuning.html)
   Berikut beberapa "fine tuning" untuk WSL (Windows SubSystem of LaTex or Linux).
+<!-- ZCZC NNNN -->
+* [Everything Wrong With Cast Away](https://rahmatm.samik-ibrahim.vlsm.org/2018/08/everything-wrong-with-cast-away.html).
+  Dalam pembahasan film (Tom Hanks), "Everything Wrong With Cast Away" dipermasalahkan sebuah surat cerai 
+  yang dialamatkan ke Jl. Keramat Raya 70, Jakarta.
+* [GITHUB: config HTTPS to SSH to HTTPS](https://rahmatm.samik-ibrahim.vlsm.org/2018/09/github-config-https-to-ssh-to-https.html).
+  Dengan github, terkadang kita memanfaatkan "HTTPS", dan terkadang "SSH". 
+  Cara paling cepat untuk beralih ialah dengan mengedit ".git/config".
 * [Kiat Hemat WhatsApp Group](https://rahmatm.samik-ibrahim.vlsm.org/2018/10/kiat-hemat-whatsapp-group.html).
   Ada dua masalah yang timbul. 
   Pertama, terpaksa harus berlangganan paket DATA yang besar (lebih mahal). 
@@ -200,7 +207,6 @@ layout: "urls"
 <br>
 ## 2019
 
-<!-- ZCZC NNNN -->
 * [Kali Linux](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/kali-linux.html).
   Big Brother is watching you: menggunakan Kali Linux dengan adapter WiFi (Alfa AC1200 Wireless Adapter).
 * [Kuliah Sistem Operasi](https://rahmatm.samik-ibrahim.vlsm.org/2019/01/kuliah-sistem-operasi.html).

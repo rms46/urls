@@ -9,7 +9,7 @@ layout: "urls"
 | [BNI](https://www.bni.co.id/) | [CIMB](https://www.octoclicks.co.id/) | [GitHub](https://github.com/) | [GNUPG](https://gnupg.org/) |
 | [IndoGlobal](https://indoglobal.com/) | [IDGX Atria](https://control.atria.idgx.net/user/) | [IDGX Castor](https://control.castor.idgx.net/user/) | [PadiPanel](https://cpanel.vlsm.org/) |
 | [Type of Nouns](https://youtu.be/a0PS8emW6Qo) | [LanguageTool](https://languagetoolplus.com/) | [Grammarly](https://grammarly.com/) | [CloudKilat](https://portal.cloudkilat.com/) |
-| [Password Generator](https://www.lastpass.com/features/password-generator) | [YSense](https://www.ysense.com/) || [Jadwal Shalat](http://m.jadwalsholat.org/) |
+| [Jadwal Shalat](http://m.jadwalsholat.org/) | | [YSense](https://www.ysense.com/) | [Password Generator](https://www.lastpass.com/features/password-generator) | 
 | [Bandwidth Place](https://www.speedtest.net/) | [DSL Reports](http://www.dslreports.com/speedtest) | [SpeedTest](https://www.comparitech.com/internet-providers/speed-test/) | Phantom [Trial](http://www.phantomtrail.com/daily-comic-strips/Phantom) [Comics Kingdom](https://www.comicskingdom.com/phantom) |
 ||
 | [HOME](https://home.vlsm.org) | [Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/) | [Rahmat](https://rahmat.vlsm.org/) | [FASILKOM UI](https://www.cs.ui.ac.id/) |
