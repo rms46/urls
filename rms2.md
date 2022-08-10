@@ -319,6 +319,13 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Ada Apa dengan Kambing?!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ada-apa-dengan-kambing.html)
   Ada apa dengan kambing? Mengapa tidak terawat? 
   Ini pertanyaan menarik, namun saya juga tidak tahu kepada siapa mesti bertanya!?
+* [Ibnu Rushd (Averroes)](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/ibnu-rushd-averroes.html).
+  Ibn Rushd, Averroes, or Abu-l-Walid Muhammad Ibn Ahmad Ibn Rushd (1126 – 1198) 
+  wrote more than 100 books and treatises.
+  He was known in the western world as "The Commentator" because of his numerous commentaries on Aristotle.
+* [King Offa's (Mercia) Fake Dinar](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/king-offas-mercia-fake-dinar.html).
+  An original Gold Dinar from the Abbasid Caliphate during Caliph Al-Mansur's reign (8th century).
+  A fake/imitation Gold Dinar from the kingdom of Mercia (Anglo-Saxon England) during King Offa's reign (8th century).
 
 <br>
 ## 2023
