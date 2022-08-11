@@ -4,6 +4,19 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX
+* [Windows 10: HIBERNATE OFF](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/windows-10-hibernate-off.html).
+  Cara mematikan hibernasi pada Windows 10 dengan menjalankan "PowerShell" sebagai administrator.
+* [Moch. Ichsan: Hikayat Link Radio di LAPAN](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/moch-ichsan-hikayat-link-radio-di-lapan.html).
+  Sedikit sekali ditemukan arsip pemanfaatan Teknologi Informasi (TI) di Indonesia pada masa lalu.
+  Berikut cuplikan ungkapan  Moch. Ichsan dari sebuah WhatsApp group.
+  Moch. Ichsan yang pernah bekerja di LAPAN (Lembaga Penerbangan dan Antariksa Nasional).
+* [Menghapus Berkas Tua dari GMAIL](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/menghapus-berkas-tua-dari-gmail.html).
+  Sarana penyimpanan Google saat ini dibatasi 15 GB yang seharusnya lebih dari cukup.
+  Terdapat beberapa pilihan,  jika sudah mendekati batas 15 GB tersebut.
+  Berikut ialah pilihan menghapus berkas attachment gmail yang tua dengan ukuran tertentu.
+* [Teknologi Informasi Tempo Doeloe](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/teknologi-informasi-tempo-doeloe.html).
+  Sangat lazim pada zaman sekarang, seseorang menggenggam "komputer" dengan beberapa CPU (core), 
+  memori beberapa GB, serta dengan kecepatan DATA 4G LTE.  Namun, tidak demikian pada "TEMPO DOELOE"...
 * [To Practice Git without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html).
   The following script is useful if you want to practice Git without GitHub.
   Here, GitHub's replacement will be folder "remoteDir/," while the working folder will be "workingDir/."
