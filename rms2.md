@@ -326,6 +326,10 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [King Offa's (Mercia) Fake Dinar](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/king-offas-mercia-fake-dinar.html).
   An original Gold Dinar from the Abbasid Caliphate during Caliph Al-Mansur's reign (8th century).
   A fake/imitation Gold Dinar from the kingdom of Mercia (Anglo-Saxon England) during King Offa's reign (8th century).
+* [M.H. Thamrin, Djakarta Lloyd](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/mh-thamrin-djakarta-lloyd.html).
+  IMO: 5215674, Name: M.H.THAMRIN, Owner: P.N. Djakarta Lloyd, 
+  Year Built: 1961 by Hitachi Shipbuilding Mukaishima - Onomichi, Japan, Vessel Type: General Cargo,
+  Gross Tonnage: 7338, Summer DWT: 11317 ton, Length x Breadth: 152.46 x 19.49 m, Year Scrapped: 1983.
 
 <br>
 ## 2023
