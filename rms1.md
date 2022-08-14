@@ -185,11 +185,36 @@ layout: "urls"
   Asli!
 * [Pertamax Naek Daihatsu Ayla XAT 1200 (Pinjaman!)](https://rahmatm.samik-ibrahim.vlsm.org/2017/11/pertamax-naek-daihatsu-ayla-xat-1200.html)
   Pengemudi sejati menggunakan tiga pedal! 
+<!-- ZCZC NNNN -->
 
 <br>
 ## 2018
 
-<!-- ZCZC NNNN -->
+* [Dampak Vaksinasi Difteri](https://rahmatm.samik-ibrahim.vlsm.org/2018/01/dampak-vaksinasi-difteri.html).
+  Berikut merupakan pengalaman pribadi divaksinasi Difteri. 
+  Vaksinasi dilaksanakan secara kolektif untuk sivitas Universitas Indonesia pada pagi hari Jumat, 29 Desember 2017.
+* [World Class University Fields](https://rahmatm.samik-ibrahim.vlsm.org/2018/01/world-class-university-fields.html).
+  The University of Melbourne, The University of Edinburgh, The UC Berkeley, Massachusetts Institute of Technology.
+* [Bagaimana Cara Menjawab Pertanyaan Internet](https://rahmatm.samik-ibrahim.vlsm.org/2018/02/bagaimana-cara-menjawab-pertanyaan.html).
+  Bagaimana gambaran teknologi Internet di Indonesia saat kali pertama hadir?
+  Seperti apa infrastuktur internet di Indonesia kala itu?
+  Siapa saja yang menggunakan internet di Indonesia kala itu?
+* [LAN Pertama di PUSILKOM Universitas Indonesia, Salemba (1983)](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/lan-pertama-di-pusilkom-universitas.html).
+  LAN pertama Universitas Indonesia berbasis Interlan NTS10-Terminal Server, di gedung PUSILKOM, Jl. Salemba Raya 4 (1983).
+* [Sistem Unix Pertama di PUSILKOM Universitas Indonesia, Salemba (1983)](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/sistem-unix-pertama-di-pusilkom.html).
+  System ini lebih dikenal dengan nama "indogtw.csc.ui.ac.id".
+* [Porsche P111 Diesel](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/porsche-p111-diesel.html).
+  Tadinya saya kira ini humor/hoax; ternyata Porsche memang pernah membuat traktor diesel mini (900cc) 
+  di tahun 1950-an.
+* [Pintu Tajam Mersigra Benz 120D](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/pintu-tajam-mersigra-benz-120d.html).
+  Awas Pintu Tajam Daihatsu Sigra! Perlu sedikit hati-hati saat membuka pintu depan.
+  Ujung dari bagian bawah pintu agak tajam serta cenderung mengarah ke betis pembuka pintu! 
+* [Unboxing Nasi Uduk McD](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/unboxing-nasi-uduk-mcd.html).
+  Nasi Uduk... Kepada beta...  Tak terhingga sepanjang masa...  Hanya membeli, tak harap kembali,
+  Bagai sang surya, menyinari dunia.
+* [8 Mei 1992: Paguyuban Network Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2018/04/8-mei-1992-paguyuban-jaringan-indonesia.html).
+  Seputar OTB (Organisasi Tanpa Bentuk) Paguyuban Network Indonesia (Paguyuban) asal-usul, 
+  mengapa namanya demikian, serta apa saja yang pernah terjadi.
 * [WSL: Fine Tuning](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/wsl-fine-tuning.html)
   Berikut beberapa "fine tuning" untuk WSL (Windows SubSystem of LaTex or Linux).
 * [REUNI X](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/reuni-x.html).

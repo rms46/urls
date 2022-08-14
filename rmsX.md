@@ -4,6 +4,17 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX
+* [Bagaimana Cara Menjawab Pertanyaan Internet](https://rahmatm.samik-ibrahim.vlsm.org/2018/02/bagaimana-cara-menjawab-pertanyaan.html).
+  Bagaimana gambaran teknologi Internet di Indonesia saat kali pertama hadir?
+  Seperti apa infrastuktur internet di Indonesia kala itu?
+  Siapa saja yang menggunakan internet di Indonesia kala itu?
+* [LAN Pertama di PUSILKOM Universitas Indonesia, Salemba (1983)](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/lan-pertama-di-pusilkom-universitas.html).
+  LAN pertama Universitas Indonesia berbasis Interlan NTS10-Terminal Server, di gedung PUSILKOM, Jl. Salemba Raya 4 (1983).
+* [Sistem Unix Pertama di PUSILKOM Universitas Indonesia, Salemba (1983)](https://rahmatm.samik-ibrahim.vlsm.org/2018/03/sistem-unix-pertama-di-pusilkom.html).
+  System ini lebih dikenal dengan nama "indogtw.csc.ui.ac.id".
+* [8 Mei 1992: Paguyuban Network Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2018/04/8-mei-1992-paguyuban-jaringan-indonesia.html).
+  Seputar OTB (Organisasi Tanpa Bentuk) Paguyuban Network Indonesia (Paguyuban) asal-usul, 
+  mengapa namanya demikian, serta apa saja yang pernah terjadi.
 * [Windows 10: HIBERNATE OFF](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/windows-10-hibernate-off.html).
   Cara mematikan hibernasi pada Windows 10 dengan menjalankan "PowerShell" sebagai administrator.
 * [Moch. Ichsan: Hikayat Link Radio di LAPAN](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/moch-ichsan-hikayat-link-radio-di-lapan.html).
