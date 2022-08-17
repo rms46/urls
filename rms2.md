@@ -330,6 +330,9 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   IMO: 5215674, Name: M.H.THAMRIN, Owner: P.N. Djakarta Lloyd, 
   Year Built: 1961 by Hitachi Shipbuilding Mukaishima - Onomichi, Japan, Vessel Type: General Cargo,
   Gross Tonnage: 7338, Summer DWT: 11317 ton, Length x Breadth: 152.46 x 19.49 m, Year Scrapped: 1983.
+* [Nasi Uduk Ibu Alus Di Simpang Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/nasi-uduk-ibu-alus-di-simpang-harapan.html).
+  Setiap pagi, ibu Alus berjualan Nasi Uduk di ujung simpang jalan Harapan, 
+  sekitar 300m dari stasiun Lenteng Agung – sebelah kanan jika mengarah ke Depok.
 
 <br>
 ## 2023
