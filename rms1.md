@@ -181,11 +181,20 @@ layout: "urls"
   Pak Haji tiba di Los Angeles pada Jumat pagi.
 * [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html).
   URLs.
+<!-- ZCZC NNNN -->
+* [ATM Abal-Abal](https://rahmatm.samik-ibrahim.vlsm.org/2017/09/atm-abal-abal.html).
+  Sekedar informasi, bulan Juli 2016 yang lalu, sejumlah ATM Wincor Nixdorf kena "hack".
+  Para pembobol ATM tersebut berasal dari Rusia, Latvia, dan Rumania.
+  Bulan berikutnya, Wincor Nixdorf bubar, dengan bergabung dengan Diebold membentuk Diebold Nixdorf.
 * [Dari Kolonel menjadi Jenderal Sanders: Berkat Mi Ayam Bawang Asli!](https://rahmatm.samik-ibrahim.vlsm.org/2017/09/dari-kolonel-menjadi-jenderal-sanders.html).
   Asli!
 * [Pertamax Naek Daihatsu Ayla XAT 1200 (Pinjaman!)](https://rahmatm.samik-ibrahim.vlsm.org/2017/11/pertamax-naek-daihatsu-ayla-xat-1200.html)
   Pengemudi sejati menggunakan tiga pedal! 
-<!-- ZCZC NNNN -->
+* [Berselingkuh dengan Acer Travelmate 6292](https://rahmatm.samik-ibrahim.vlsm.org/2017/12/berselingkuh-dengan-acer-travelmate-6292.html).
+  Kisah nyata berhadapan dengan Acer Travelmate 6292 yang pernah populer dasawarsa yang lalu.
+  Pemilik Notebook ini tidak dapat menjelaskan mengapa instalasi Windows XP (asli) telah berubah 
+  (diubah) menjadi Windows 7 (tidak asli).
+  Mungkin karena sebelum saya, banyak pihak yang pernah mencoba menangani Notebook tersebut?!
 
 <br>
 ## 2018
