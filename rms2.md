@@ -333,6 +333,11 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Nasi Uduk Ibu Alus Di Simpang Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/nasi-uduk-ibu-alus-di-simpang-harapan.html).
   Setiap pagi, ibu Alus berjualan Nasi Uduk di ujung simpang jalan Harapan, 
   sekitar 300m dari stasiun Lenteng Agung – sebelah kanan jika mengarah ke Depok.
+* [Pelajaran dari Pengembangan Boeing 787 Dreamliner](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/pelajaran-dari-pengembangan-boeing-787.html).
+  Menjelang akhir abad 20 lalu, perusahaan McDonnell Douglas yang hampir bangkrut bergabung dengan Boeing.
+  Gabungan ini menghasilkan sebuah perusahaan baru yang namanya tetap "Boeing" 
+  namun mengadaptasi budaya ketamakan McDonnell Douglas.
+  Sejak itu, Boeing menjalankan prinsip "POKOKNYA UNTUNG MAXIMUM dengan MODAL MINIMUM."
 
 <br>
 ## 2023
