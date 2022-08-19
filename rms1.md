@@ -179,9 +179,21 @@ layout: "urls"
   Pak Haji berkunjung ke Los Angeles dari Tokyo. 
   Pak Haji berangkat dari Tokyo setelah sholat Jumat. 
   Pak Haji tiba di Los Angeles pada Jumat pagi.
-* [Bahasa Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/bahasa-indonesia.html).
-  URLs.
 <!-- ZCZC NNNN -->
+* [Android Studio di Ubuntu Linux](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/android-studio-di-ubuntu-linux.html).
+  Ada tiga masalah dengan Android Studio. 
+  Pertama, masih belum semudah/sevisual "studio" yang "laen".
+  Kedua, sangat boros, baik sumber daya perangkat keras maupun bandwidth jaringan. 
+  Ketiga, belum (tidak?) mendukung pengembangan aplikasi untuk IOS.
+* [Copas Kilat](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/copas-kilat.html).
+  Beberapa copas (copy/paste) yang sering digunakan.
+* [Sirkulasi Surat Kabar Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/sirkulasi-surat-kabar-indonesia.html).
+  Berapakah sirkulasi total surat kabar di Indonesia?
+  Informasi yang beredar agak simpang siur.
+  Yang jelas semakin menyusut.
+  Kalau 20 tahun yang lalu kita akan menemukan sekurangnya satu penjaja surat kabar 
+  di setiap persimpangan utama jalanan.
+  Kini (2017), bahkan banyak persimpangan yang sudah tidak lagi ada penjaja surat-kabarnya!
 * [ATM Abal-Abal](https://rahmatm.samik-ibrahim.vlsm.org/2017/09/atm-abal-abal.html).
   Sekedar informasi, bulan Juli 2016 yang lalu, sejumlah ATM Wincor Nixdorf kena "hack".
   Para pembobol ATM tersebut berasal dari Rusia, Latvia, dan Rumania.
