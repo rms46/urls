@@ -180,6 +180,11 @@ layout: "urls"
   Pak Haji berangkat dari Tokyo setelah sholat Jumat. 
   Pak Haji tiba di Los Angeles pada Jumat pagi.
 <!-- ZCZC NNNN -->
+* [TAM: Akibat "memaksakan" sebuah teknologi](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/tam-akibat-memaksakan-sebuah-teknologi.html).
+  TAM biasanya diartikan sebagai "Total Available (atau Addressable) Market," 
+  suatu istilah dalam dunia bisnis seputar peluang keuntungan untuk sebuah produk atau layanan. 
+  Dalam dunia Sistem Informasi, TAM lebih dikenal dengan "Technology Acceptance Model," 
+  yaitu seputar faktor-faktor yang menyebabkan diterimanya sebuah technologi baru.
 * [Android Studio di Ubuntu Linux](https://rahmatm.samik-ibrahim.vlsm.org/2017/08/android-studio-di-ubuntu-linux.html).
   Ada tiga masalah dengan Android Studio. 
   Pertama, masih belum semudah/sevisual "studio" yang "laen".
