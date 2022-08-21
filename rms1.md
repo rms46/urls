@@ -180,6 +180,20 @@ layout: "urls"
   Pak Haji berangkat dari Tokyo setelah sholat Jumat. 
   Pak Haji tiba di Los Angeles pada Jumat pagi.
 <!-- ZCZC NNNN -->
+* [Take Away Charge](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/pungutan-kfc-take-away-charge.html).
+  Tahukah anda bahwa KFC, DIAM-DIAM memungut biaya "TAKE AWAY"? 
+  Pungutan extra tersebut disamarkan dalam bahasa Inggris dengan istilah "CHARGE TA".
+  Saya baru tahu, sebab jarang (hampir tidak pernah) membeli secara take away.
+* [Seputar Fasilkom UI](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/seputar-fasilkom-ui.html).
+  Serba serbi seputar Fakultas Ilmu Komputer Universitas Indonesia.
+* [Memanaskan Ayam dengan Open Microwave](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/memanaskan-ayam-dengan-open-microwave.html).
+  Lumuri permukaan ayam dengan saus tomat dan / atau sambal! Lalu, masukkan ke dalam wadah tertutup.
+  Jika wadah tidak memiliki celah ventilasi, buka sedikit tutupnya.
+* [Cara Menggunakan Open Mikro Samsung (Full Power)](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/cara-menggunakan-open-mikro-samsung.html).
+  Tidak semua memahami "tombol simbol" pada open mikro Samsung.
+  Berikut contoh cara mendidihkan air dengan "full power 800W".
+  Setiap watt akan menaikkan suhu satu derajat per detik.
+  Setelah dipotong efisiensi, diperlukan sekitar 6 menit untuk mendidihkan 1 liter air.
 * [TAM: Akibat "memaksakan" sebuah teknologi](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/tam-akibat-memaksakan-sebuah-teknologi.html).
   TAM biasanya diartikan sebagai "Total Available (atau Addressable) Market," 
   suatu istilah dalam dunia bisnis seputar peluang keuntungan untuk sebuah produk atau layanan. 
