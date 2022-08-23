@@ -175,11 +175,35 @@ layout: "urls"
 <br>
 ## 2017
 
+<!-- ZCZC NNNN -->
+* [GRUB/UBUNTU: Windows Tidak Boot](https://rahmatm.samik-ibrahim.vlsm.org/2017/02/grububuntu-windows-tidak-boot.html).
+  Tiba-tiba, Windows tidak mau boot walau pun tampil pada menu grub.
+  Sepertinya, sedang ada perubahan mayor pada program grub?
+  Bahkan, ketika mencoba calon Ubuntu 17.04, semua menu grub menghilang!
+* [Ujicoba Hotspot WIFI di Beji, Depok](https://rahmatm.samik-ibrahim.vlsm.org/2017/03/ujicoba-hotspot-wifi-di-beji-depok.html).
+  Berikut ujicoba beberapa perangkat hotspot WIFI di Beji, Depok.
+* [National Breakfast Day 2017](https://rahmatm.samik-ibrahim.vlsm.org/2017/03/national-breakfast-day-2013.html).
+  Saat penyelenggaraan "National Breakfast Day 2017," 
+  McD membagikan "LEBIH BANYAK" paket gratis daripada sekarang.
+  Sepertinya pembagian "gratis" ini menjadi tidak terkendali, sehingga perlu ditekan jumlahnya!
+* [Safety First](https://rahmatm.samik-ibrahim.vlsm.org/2017/03/safety-first.html).
+  Ketika saya (kita) masih muda, mungkin akan mentertawakan tanda seperti ini.
+  Setelah berumur, baru mulai memahami artinya...
+* [PERMINTAAN UNTUK BADAN POM](https://rahmatm.samik-ibrahim.vlsm.org/2017/03/permintaan-untuk-badan-pom.html).
+  Mohon dibuatkan aturan/edaran, agar pada SETIAP POTONGAN OBAT,
+  tercantum jelas identitas obat tersebut, agar tidak mudah tertukar.
+* [Somewhere Else Law (2017)](https://rahmatm.samik-ibrahim.vlsm.org/2017/05/somewhere-else-law-2017.html).
+  How about 2022? It seems that "outsource and contract" employees are the Nigers of the 2022.
 * [Antara Tokyo dan Los Angeles](https://rahmatm.samik-ibrahim.vlsm.org/2017/05/antara-tokyo-dan-los-angeles.html).
   Pak Haji berkunjung ke Los Angeles dari Tokyo. 
   Pak Haji berangkat dari Tokyo setelah sholat Jumat. 
   Pak Haji tiba di Los Angeles pada Jumat pagi.
-<!-- ZCZC NNNN -->
+* [Covfefe Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2017/06/covfefe-windows-10.html).
+  Aku pengguna GNU/Linux. Namun, setiap beberapa minggu melaksanakan... COVFEFE Win10!
+* [Servis/Cuci Mobil: Serba Rp 25 000](https://rahmatm.samik-ibrahim.vlsm.org/2017/06/serviscuci-mobil-serba-rp-25-000.html).
+  Cuci kendaraan yang dikerjakan oleh sebuah tim lengkap selama beberapa menit = Rp. 25 000.-
+  Jasa mengganti bola lampu kendaraan tersebut, 
+  di bengkel yang sama, yang hanya memakan waktu beberapa detik = Rp. 25 000.-
 * [Take Away Charge](https://rahmatm.samik-ibrahim.vlsm.org/2017/07/pungutan-kfc-take-away-charge.html).
   Tahukah anda bahwa KFC, DIAM-DIAM memungut biaya "TAKE AWAY"? 
   Pungutan extra tersebut disamarkan dalam bahasa Inggris dengan istilah "CHARGE TA".

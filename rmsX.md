@@ -2,8 +2,15 @@
 layout: "urls"
 ---
 
+<br>
+### [XXX10](#idx10) --- [XXX20](#idx20) --- [XXX30](#idx30) --- [WINDOWS](#idx40) --- [IT INDONESIA](#idx50) --- [ETC](#idx60)
+
 <br id="idx10">
-## XXX
+## XXX10
+* [GRUB/UBUNTU: Windows Tidak Boot](https://rahmatm.samik-ibrahim.vlsm.org/2017/02/grububuntu-windows-tidak-boot.html).
+  Tiba-tiba, Windows tidak mau boot walau pun tampil pada menu grub.
+  Sepertinya, sedang ada perubahan mayor pada program grub?
+  Bahkan, ketika mencoba calon Ubuntu 17.04, semua menu grub menghilang!
 * [Bagaimana Cara Menjawab Pertanyaan Internet](https://rahmatm.samik-ibrahim.vlsm.org/2018/02/bagaimana-cara-menjawab-pertanyaan.html).
   Bagaimana gambaran teknologi Internet di Indonesia saat kali pertama hadir?
   Seperti apa infrastuktur internet di Indonesia kala itu?
@@ -15,8 +22,6 @@ layout: "urls"
 * [8 Mei 1992: Paguyuban Network Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2018/04/8-mei-1992-paguyuban-jaringan-indonesia.html).
   Seputar OTB (Organisasi Tanpa Bentuk) Paguyuban Network Indonesia (Paguyuban) asal-usul, 
   mengapa namanya demikian, serta apa saja yang pernah terjadi.
-* [Windows 10: HIBERNATE OFF](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/windows-10-hibernate-off.html).
-  Cara mematikan hibernasi pada Windows 10 dengan menjalankan "PowerShell" sebagai administrator.
 * [Moch. Ichsan: Hikayat Link Radio di LAPAN](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/moch-ichsan-hikayat-link-radio-di-lapan.html).
   Sedikit sekali ditemukan arsip pemanfaatan Teknologi Informasi (TI) di Indonesia pada masa lalu.
   Berikut cuplikan ungkapan  Moch. Ichsan dari sebuah WhatsApp group.
@@ -42,8 +47,6 @@ layout: "urls"
 * [Ubuntu (GNOME) Delete Keyrings (SEAHORSE)](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/delete-ubuntu-keyring.html).
   Kadang-kadang password keyring muncul mendadak. 
   Seharusnya bukan begini, namun cara ini lebih cepat (dan salah!).
-* [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
-  Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
 * [New File Bug in Nautilus](https://rahmatm.samik-ibrahim.vlsm.org/2020/04/new-file-bug-in-nautilus.html).
   Ada satu bug yang cukup mengganggu saat menggunakan Nautilus.
   File Manager tersebut tidak mampu membuat berkas baru!
@@ -70,25 +73,10 @@ layout: "urls"
   An Operating System is just a piece of software, a whole piece of software, and nothing but software!
 
 <br id="idx20">
-## XXX
-* [Windows 10: Verbose Status](https://rahmatm.samik-ibrahim.vlsm.org/2019/10/windows-10-verbose-status.html).
-  Terkadang, Windows 10 dalam keadaan tidak keruan serta sangat membingungkan
-  karena tidak ada info apa-apa selain hang.
-  Dengan REGEDIT, kita dapat menyalakan "VerboseStatus = 1", yaitu kita dapat mengintip apa yang terjadi.
-* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
-  Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen.
-  Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
-* [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html).
-  System File Checker (sfc) and Deployment Image Servicing and Management (DISM).
-* [Tips to improve PC performance in Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/tips-to-improve-pc-performance-in.html).
-  Tips to improve PC performance in Windows 10? Just Google it! It may change from time to time.
-* [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html).
-  If you are running an antiquated computer that has been a family heirloom since a long time ago,
-  you might have trouble with your VirtualBox.
-  First, you should make sure about what the source of the problem is.
+## XXX20
 
 <br id="idx30">
-## XXX2
+## XXX30
 * [UBUNTU: Update BIOS Lenovo ThinkPad E135](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/ubuntu-update-bios-lenovo-thinkpad-e135.html).
   Driver WIFI Lenovo ThinkPad E135 dapat diupdate dengan paket Non-Free yang tersedia 
   SETELAH sistem operasi terinstall.
@@ -114,10 +102,6 @@ layout: "urls"
   Bertemu: Failed to load module "canberra-gtk-module"?
 * [Ubuntu: Blank Activity Icon](https://rahmatm.samik-ibrahim.vlsm.org/2021/03/ubuntu-blank-activity-icon.html).
   Somehow, my VirtualBox Activity icon is always BLANK!
-* [Hello Telegram, Goodbye WhatsApp!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-telegram-goodbye-whatsapp.html)
-  Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama.
-  Pemilik WhatsApp yang baru dengan sombongnya mengatakan: "Take It" or "Leave It". 
-  OK, I will leave it! Sialan betul kau, SuckerBug!
 * [Dari Millennial, Untuk BabyBoomers](https://rahmatm.samik-ibrahim.vlsm.org/2021/05/dari-millenial-untuk-babyboomers.html).
   Aduh, bahasanya!
 * [tar (tape archive) for dummies, morons, and idiots; step by step tutorial 101](https://rahmatm.samik-ibrahim.vlsm.org/2020/06/tar-tape-archive-for-dummies-morons-and.html).
@@ -136,12 +120,30 @@ layout: "urls"
   A LaTeX MWE GitHub Page at GitHub.
 * [So, what is LuaLaTeX anyway](https://rahmatm.samik-ibrahim.vlsm.org/2021/08/so-what-is-lualatex-anyway.html)?
   Have you ever tried to run LaTeX on an IBM PC/XT 5160? I have!
-* [Surat Pemberitahuan Tahunan (SPT) Pajak 2021](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/surat-pemberitahuan-tahunan-spt-pajak.html).
-  Contekan untuk tahun depan.
 * [Inserting Source Code into a Blog Page](https://rahmatm.samik-ibrahim.vlsm.org/2022/06/inserting-source-code-into-blog-page.html).
   To list "source code" on a blog page, insert the following HTML codes.
 
 <br id="idx40">
+## Windows
+* [Windows 10: Verbose Status](https://rahmatm.samik-ibrahim.vlsm.org/2019/10/windows-10-verbose-status.html).
+  Terkadang, Windows 10 dalam keadaan tidak keruan serta sangat membingungkan
+  karena tidak ada info apa-apa selain hang.
+  Dengan REGEDIT, kita dapat menyalakan "VerboseStatus = 1", yaitu kita dapat mengintip apa yang terjadi.
+* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html).
+  Terkadang keluaran VirtualBox tidak dapat ditangkap dengan tombol Print Screen.
+  Untuk itu, diperlukan sedikit perubahan pada VirtualBox.
+* [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html).
+  System File Checker (sfc) and Deployment Image Servicing and Management (DISM).
+* [Tips to improve PC performance in Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/tips-to-improve-pc-performance-in.html).
+  Tips to improve PC performance in Windows 10? Just Google it! It may change from time to time.
+* [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html).
+  If you are running an antiquated computer that has been a family heirloom since a long time ago,
+  you might have trouble with your VirtualBox.
+  First, you should make sure about what the source of the problem is.
+* [Windows 10: HIBERNATE OFF](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/windows-10-hibernate-off.html).
+  Cara mematikan hibernasi pada Windows 10 dengan menjalankan "PowerShell" sebagai administrator.
+
+<br id="idx50">
 ## Teknologi Informasi Indonesia
 * [Teknologi Informasi Indonesia Sebelum 1970](https://rahmatm.samik-ibrahim.vlsm.org/2020/10/teknolog-informasi-indonesia-sebelum.html).
   Teknologi Informasi Indonesia Sebelum 1970 Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia Sebelum 1970. 
@@ -171,8 +173,12 @@ layout: "urls"
   Langkah awalnya, posting judulnya saja.
   Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
 
-<br id="idx50">
-## XXX3
+<br id="idx60">
+## ETC
+* [Surat Pemberitahuan Tahunan (SPT) Pajak 2021](https://rahmatm.samik-ibrahim.vlsm.org/2022/03/surat-pemberitahuan-tahunan-spt-pajak.html).
+  Contekan untuk tahun depan.
+* [Melihat dan Keberadaan](https://rahmatm.samik-ibrahim.vlsm.org/2020/03/melihat-dan-menghitung.html).
+  Tanpa pengetahuan Fisika dan Filosofi pun, bahkan NENEK MOYANG kita sudah memahami permasalahan ini!
 * [Exam From Home (8 Juni - 7 Juli 2020) -- Pertama Kali](https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html).
   Berikut (akan) merupakan pengalaman pelaksanaan "Exam From Home". 
   Ujian Akhir Semester "Sistem Operasi" diselenggarakan dalam lima (5) tahapan.
@@ -185,6 +191,9 @@ layout: "urls"
   Pada zaman tersebut (1976) belum ada kamera ponsel.
 * [Tongkat Kayu dan Batu Jadi Tanaman](https://rahmatm.samik-ibrahim.vlsm.org/2020/08/tongkat-kayu-dan-batu-jadi-tanaman.html).
   Apa betul tongkat kayu (singkong) bisa jadi tanaman?
+* [Hello Telegram, Goodbye WhatsApp!](https://rahmatm.samik-ibrahim.vlsm.org/2021/04/hello-telegram-goodbye-whatsapp.html)
+  Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama.
+  Pemilik WhatsApp yang baru dengan sombongnya mengatakan: "Take It" or "Leave It". 
+  OK, I will leave it! Sialan betul kau, SuckerBug!
 
-<br><br><br>
-
+<br><br><br><br><br><br>
