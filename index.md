@@ -15,5 +15,6 @@ layout: "urls"
 | [HOME](https://home.vlsm.org) | [Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/) | [Rahmat](https://rahmat.vlsm.org/) | [FASILKOM UI](https://www.cs.ui.ac.id/) |
 | [OSP4DISS](https://osp4diss.vlsm.org/) | [OSP4DISS: GitHub](https://github.com/OSP4DISS/) | [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [CBK](https://github.com/cbkadal/) |
 | [OS](https://os.vlsm.org/) | [SP](https://sp.vlsm.org/) | [DOIT](https://doit.vlsm.org/) | [MEMOS](https://memos.vlsm.org) |
+| [Kumpulan Peraturan](https://uu.vlsm.org/) |
 ||
 
