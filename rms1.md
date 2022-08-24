@@ -176,6 +176,9 @@ layout: "urls"
 ## 2017
 
 <!-- ZCZC NNNN -->
+* [Agar sudo tahan lebih lama](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/agar-sudo-tahan-lebih-lama.html).
+  Perintah sudo tanpa password bisanya hanya bertahan sekitar 5 menit. 
+  Agar password tahan lama, tambah parameter dalam berkas "/etc/sudoers".
 * [GRUB/UBUNTU: Windows Tidak Boot](https://rahmatm.samik-ibrahim.vlsm.org/2017/02/grububuntu-windows-tidak-boot.html).
   Tiba-tiba, Windows tidak mau boot walau pun tampil pada menu grub.
   Sepertinya, sedang ada perubahan mayor pada program grub?
