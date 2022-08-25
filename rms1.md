@@ -172,6 +172,12 @@ layout: "urls"
 * [SETITAHA: Sepotong Tinj* Tanpa Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2016/09/setitaha-sepotong-tinj-tanpa-harapan.html).
   Istilah apa untuk "Hopeless piece of sh*t"?
 <!-- ZCZC NNNN -->
+* [Septik Tank: Kapan Kuras?](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/septik-tank-kapan-kuras.html).
+  Berapa sering kita harus menguras Septik Tank (ST)?
+  Berdasarkan penelusuran Google, hasilnya sangat bervariasi dari satu pendapat ke pendapat lainnya. 
+* [Layanan JORR](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/layanan-jorr.html).
+  Sebagai pengguna harian JORR, di manakah saluran untuk menyampaikan keluhan?
+  Hampir setiap hari kerja, melalui JORR dari CIPUTAT ke Lenteng Agung pulang-pergi.
 * [IT Tradisional Mulai Punah](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/it-tradisional-mulai-punah.html).
   Menjelang akhir wawancara dengan CMO Netscout, 
   ditanyakan perihal petunjuk lima tahun kedepan dalam karir Teknologi Informasi. 
