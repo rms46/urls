@@ -171,11 +171,26 @@ layout: "urls"
   Nama saya... Rahmat...; Rahmat... nama saya...; Kalau bukan Rahmat...; Bukan nama saya...
 * [SETITAHA: Sepotong Tinj* Tanpa Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2016/09/setitaha-sepotong-tinj-tanpa-harapan.html).
   Istilah apa untuk "Hopeless piece of sh*t"?
-
+<!-- ZCZC NNNN -->
+* [IT Tradisional Mulai Punah](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/it-tradisional-mulai-punah.html).
+  Menjelang akhir wawancara dengan CMO Netscout, 
+  ditanyakan perihal petunjuk lima tahun kedepan dalam karir Teknologi Informasi. 
+  Jawabannya -- sangat bervariasi -- namun tidak lagi pekerjaan tradisional selamat ini.
 <br>
 ## 2017
 
-<!-- ZCZC NNNN -->
+* [Kisah Sahih Bukhari dan Muslim](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/kisah-bukhari-dan-muslim.html).
+  Alkisah pada zaman dahulu kala, pernah hidup dua sarjana bernama Bukhari dan Muslim.
+* [Upgrade Ubuntu dari 14.04 ke 16.04](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/upgrade-ubuntu-dari-1404-ke-1604.html).
+  Read my lips: Ubuntu is a hopeless piece of sh*t!
+  Namun, suka atau tidak suka, saya adalah pengguna Ubuntu sejak Warty Warthog 4.10 (2004). 
+* [Problem ttf-mscorefonts-installer Ubuntu](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/problem-ttf-mscorefonts-installer.html).
+  Jika mengalami masalah dengan ttf-mscorefonts-installer, sebaiknya install yang punya Debian saja.
+* [Vaksinasi Demam Berdarah Rp. 1500000](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/vaksinasi-demam-berdarah-rp-1500000.html).
+  Pada banner di  sebuah rumah sakit swasta diperagakan informasi vaksinasi demam berdarah dengan tulisan:  
+  "Tanyakan kepada Dokter Anda tentang VAKSINASI DENGUE".
+* [Dongle TPLINK TL-WN725N untuk Ubuntu Linux](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/dongle-tplink-tl-wn725n-untuk-ubuntu.html).
+  Agar dongle bisa jalan di Ubuntu, perlu dilakukan beberapa langkah.
 * [Agar sudo tahan lebih lama](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/agar-sudo-tahan-lebih-lama.html).
   Perintah sudo tanpa password bisanya hanya bertahan sekitar 5 menit. 
   Agar password tahan lama, tambah parameter dalam berkas "/etc/sudoers".

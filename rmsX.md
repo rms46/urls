@@ -7,6 +7,12 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [IT Tradisional Mulai Punah](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/it-tradisional-mulai-punah.html).
+  Menjelang akhir wawancara dengan CMO Netscout, 
+  ditanyakan perihal petunjuk lima tahun kedepan dalam karir Teknologi Informasi. 
+  Jawabannya -- sangat bervariasi -- namun tidak lagi pekerjaan tradisional selamat ini.
+* [Problem ttf-mscorefonts-installer Ubuntu](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/problem-ttf-mscorefonts-installer.html).
+  Jika mengalami masalah dengan ttf-mscorefonts-installer, sebaiknya install yang punya Debian saja.
 * [Agar sudo tahan lebih lama](https://rahmatm.samik-ibrahim.vlsm.org/2017/01/agar-sudo-tahan-lebih-lama.html).
   Perintah sudo tanpa password bisanya hanya bertahan sekitar 5 menit. 
   Agar password tahan lama, tambah parameter dalam berkas "/etc/sudoers".
