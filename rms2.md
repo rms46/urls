@@ -338,6 +338,9 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   Gabungan ini menghasilkan sebuah perusahaan baru yang namanya tetap "Boeing" 
   namun mengadaptasi budaya ketamakan McDonnell Douglas.
   Sejak itu, Boeing menjalankan prinsip "POKOKNYA UNTUNG MAXIMUM dengan MODAL MINIMUM."
+* [What time is it? It's COVID time!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/what-time-is-it-its-covid-time.html).
+  Let's join the COVID bandwagon! First the test.Next, choose a doctor. Let us try this one by one. 
+  The first "AIDO health" didn't work. The second, "ALODOKTER," did not work. Next, "getwell" still didn't work! 
 
 <br>
 ## 2023
