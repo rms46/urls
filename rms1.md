@@ -172,6 +172,15 @@ layout: "urls"
 * [SETITAHA: Sepotong Tinj* Tanpa Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2016/09/setitaha-sepotong-tinj-tanpa-harapan.html).
   Istilah apa untuk "Hopeless piece of sh*t"?
 <!-- ZCZC NNNN -->
+* [Demi Kinerja Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/demi-kinerja-windows-10.html).
+  Walau pun bukan penggemar, 
+  saya menggunakan Windows untuk beberapa hal yang tidak dapat dilakukan pada GNU/Linux.
+  Berikut beberapa tips demi kinerja yang dicomot dari sana sini.
+* [Lupa Password Github?](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/lupa-password-github.html)
+  "Terlambat" mengumpulkan tugas karena "ceritanya lupa" password akun Github?
+  Mengapa tidak klik "Forgot password" saat mau Sign-in?
+* [No date/clock at Ubuntu top panel](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/no-date-at-ubuntu-top-panel.html).
+  Kalau tanggalan hilang dari panel atas Ubuntu.
 * [Septik Tank: Kapan Kuras?](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/septik-tank-kapan-kuras.html).
   Berapa sering kita harus menguras Septik Tank (ST)?
   Berdasarkan penelusuran Google, hasilnya sangat bervariasi dari satu pendapat ke pendapat lainnya. 

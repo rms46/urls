@@ -7,6 +7,15 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Demi Kinerja Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/demi-kinerja-windows-10.html).
+  Walau pun bukan penggemar, 
+  saya menggunakan Windows untuk beberapa hal yang tidak dapat dilakukan pada GNU/Linux. 
+  Berikut beberapa tips demi kinerja yang dicomot dari sana sini. 
+* [Lupa Password Github?](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/lupa-password-github.html)
+  "Terlambat" mengumpulkan tugas karena "ceritanya lupa" password akun Github?
+  Mengapa tidak klik "Forgot password" saat mau Sign-in?
+* [No date/clock at Ubuntu top panel](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/no-date-at-ubuntu-top-panel.html).
+  Kalau tanggalan hilang dari panel atas Ubuntu.
 * [IT Tradisional Mulai Punah](https://rahmatm.samik-ibrahim.vlsm.org/2016/12/it-tradisional-mulai-punah.html).
   Menjelang akhir wawancara dengan CMO Netscout, 
   ditanyakan perihal petunjuk lima tahun kedepan dalam karir Teknologi Informasi. 
