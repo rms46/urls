@@ -172,6 +172,12 @@ layout: "urls"
 * [SETITAHA: Sepotong Tinj* Tanpa Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2016/09/setitaha-sepotong-tinj-tanpa-harapan.html).
   Istilah apa untuk "Hopeless piece of sh*t"?
 <!-- ZCZC NNNN -->
+* [Sebuah Pesan Untuk Lapak Starbucks](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/sebuah-pesan-untuk-lapak-starbucks.html).
+  Kalau WC rusak, seharusnya diperbaiki dalam jangka waktu 1 x 24 jam. 
+  Nyatanya, WC di lapak Starbucks sekitar KM13 Tol Jakarta Merak rusak hingga berminggu-minggu. Terlalu!
+* [Pengukur Oli Daihatsu Xenia 1.0](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/pengukur-oli-daihatsu-xenia-10.html).
+  Pertanyaan terbuka untuk perancang tongkat pengukur oli Daihatsu Xenia 1.0:
+  Apa anda mabuk saat menetapkan posisi tongkat pas dibawah pipa pendingin?
 * [Demi Kinerja Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/demi-kinerja-windows-10.html).
   Walau pun bukan penggemar, 
   saya menggunakan Windows untuk beberapa hal yang tidak dapat dilakukan pada GNU/Linux.
