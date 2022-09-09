@@ -166,12 +166,31 @@ layout: "urls"
 * [Ubuntu has experienced an internal error](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/ubuntu-has-experienced-internal-error.html).
   Terkadang -- saat login -- mengeluarkan pesan yang sangat menyebalkan, yaitu: 
   "Sorry, Ubuntu 1X.XX has experienced an internal error".
-* [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
+<!-- ZCZC NNNN -->
+* [Error "1E" pada mesin cuci LG WF-S850CR](https://rahmatm.samik-ibrahim.vlsm.org/2016/07/error-1e-pada-mesin-cuci-lg.html).
+  Jika ada "ERROR 1E" pada mesin cuci LG, artinya filter air perlu dibersihkan.
+  Konon filter ini, direkomendasikan untuk dibersihkan setiap bulan.
+  Kenyataan, error 1E ini muncul setelah mesin cuci digunakan 2 tahun. 
+* [HTML5 1996 - 2016](https://rahmatm.samik-ibrahim.vlsm.org/2016/07/html5-1996-2016.html).
+  Tidak terasa -- pertama kali mengedit berkas HTML sekitar tahun 1996-an -- 20 tahun yang lalu. 
+  Walau pun praktek mengedit langsung berkas HTML sudah lama ditinggalkan, 
+  banyak berkas lawas yang masih tertayang pada laman-laman web lama.
 * [Panggil saya "Rahmat"](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/panggil-saya-rahmat.html).
   Nama saya... Rahmat...; Rahmat... nama saya...; Kalau bukan Rahmat...; Bukan nama saya...
+* [Garda Oto: I Am Worry, Not Happy!](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/garda-oto-i-am-worry-not-happy.html).
+  Saya tidak suka ditelepon, titik! (Emangnya ada yang suka?)!
+  Karena itu, saya cenderung memilih produk yang dapat diperoleh via email.
+  Kenyataannya, tetap saja para "sales" mencoba menghubungi saya via telepon,
+  walau pun sekedar memberi tahu bahwa emailnya sudah di balas, LOL!
+* [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
+  (from man) logrotate is designed to ease administration of systems that generate large numbers of log files.
+  It allows automatic rotation, compression, removal, and mailing of log files. 
+  Each log file may be handled daily, weekly, monthly, or when it grows too large.
+* [Silakan... kupi susu coklat dingin...](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/silakan-kupi-susu-coklat-dingin.html).
+  Ini bukan iklan kupi... cuma sekedar memperkenalkan campuran kupi, bubuk coklat, susu UHT, dan tanpa gula. 
+  Diracik dalam botol bekas kopi Gold, lalu didiamkan dalam kulkas hingga dingin.
 * [SETITAHA: Sepotong Tinj* Tanpa Harapan](https://rahmatm.samik-ibrahim.vlsm.org/2016/09/setitaha-sepotong-tinj-tanpa-harapan.html).
   Istilah apa untuk "Hopeless piece of sh*t"?
-<!-- ZCZC NNNN -->
 * [Sebuah Pesan Untuk Lapak Starbucks](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/sebuah-pesan-untuk-lapak-starbucks.html).
   Kalau WC rusak, seharusnya diperbaiki dalam jangka waktu 1 x 24 jam. 
   Nyatanya, WC di lapak Starbucks sekitar KM13 Tol Jakarta Merak rusak hingga berminggu-minggu. Terlalu!

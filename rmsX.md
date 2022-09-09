@@ -7,6 +7,10 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
+  (from man) logrotate is designed to ease administration of systems that generate large numbers of log files. 
+  It allows automatic rotation, compression, removal, and mailing of log files. 
+  Each log file may be handled daily, weekly, monthly, or when it grows too large.
 * [Demi Kinerja Windows 10](https://rahmatm.samik-ibrahim.vlsm.org/2016/10/demi-kinerja-windows-10.html).
   Walau pun bukan penggemar, 
   saya menggunakan Windows untuk beberapa hal yang tidak dapat dilakukan pada GNU/Linux. 
