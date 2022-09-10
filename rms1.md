@@ -155,18 +155,20 @@ layout: "urls"
 <br>
 ## 2016
 
+<!-- ZCZC NNNN -->
+* [McD Drive Thru: Beberapa Masalah](https://rahmatm.samik-ibrahim.vlsm.org/2016/03/mcd-drive-thru-beberapa-masalah.html).
+  Beberapa permasalahan pada McD Drive Thru.
 * [Jawaban Standar: Mea Culpa](https://rahmatm.samik-ibrahim.vlsm.org/2016/04/mea-culpa.html).
   Pagi ini, pertanyaan serupa ditujukan kepada dua Janitor/Cleaning Service
   yang terkait dengan WC tersebut.
-* [God Bless Achmad Albar](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/god-bless-achmad-albar.html).
-  AKA Ucok Harahap, Genesis Phil Collins.
-* [Ubuntu dan NTFS](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/ubuntu-dan-ntfs.html).
-  Terkadang, kita perlu "membereskan " sistem berkas "NTFS" melalui ubuntu. 
-  Caranya dengan menginstal paket "ntfs-3g" serta melink program "/bin/ntfsfix"  ke "/sbin/fsck.ntfs".
 * [Ubuntu has experienced an internal error](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/ubuntu-has-experienced-internal-error.html).
   Terkadang -- saat login -- mengeluarkan pesan yang sangat menyebalkan, yaitu: 
   "Sorry, Ubuntu 1X.XX has experienced an internal error".
-<!-- ZCZC NNNN -->
+* [Ubuntu dan NTFS](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/ubuntu-dan-ntfs.html).
+  Terkadang, kita perlu "membereskan " sistem berkas "NTFS" melalui ubuntu. 
+  Caranya dengan menginstal paket "ntfs-3g" serta melink program "/bin/ntfsfix"  ke "/sbin/fsck.ntfs".
+* [God Bless Achmad Albar](https://rahmatm.samik-ibrahim.vlsm.org/2016/05/god-bless-achmad-albar.html).
+  AKA Ucok Harahap, Bani Adam Farid, Noah Ariel, Genesis Phil Collins.
 * [Error "1E" pada mesin cuci LG WF-S850CR](https://rahmatm.samik-ibrahim.vlsm.org/2016/07/error-1e-pada-mesin-cuci-lg.html).
   Jika ada "ERROR 1E" pada mesin cuci LG, artinya filter air perlu dibersihkan.
   Konon filter ini, direkomendasikan untuk dibersihkan setiap bulan.
