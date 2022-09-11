@@ -148,6 +148,10 @@ layout: "urls"
   Setelah beberapa hari menunggu, akhirnya upgrade Windows 10 "mampir" juga!
   Mulai sekarang menggunakan Windows 10! Jujur saja;
   saya tidak merasakan perbedaan nyata antara Windows 8.1 dan Windows 10.
+<!-- ZCZC NNNN -->
+* [Demi sepotong Flatbread](https://rahmatm.samik-ibrahim.vlsm.org/2015/08/demi-sepotong-flatbread.html).
+  Ini kupon untuk Flatbread PHD gratis. Namun, repot banget syarat dan ketentuannya.... 
+  Tidak jadi saja.... Cape deh!
 * [Investigasi Tempo: Jejak Suap Resep Obat](https://rahmatm.samik-ibrahim.vlsm.org/2015/11/tempo-upeti-resep-obat.html).
   Majalah Tempo, 8 November 2015.
 * [Logo FASILKOM UI](https://rahmatm.samik-ibrahim.vlsm.org/2015/12/logo-fasilkom-ui.html).
@@ -155,7 +159,13 @@ layout: "urls"
 <br>
 ## 2016
 
-<!-- ZCZC NNNN -->
+* [UU no 24/2013 ps 1:14 perihal masa laku eKTP](https://rahmatm.samik-ibrahim.vlsm.org/2016/03/uu-no-242013-ps-647-perihal-masa-laku.html).
+  Kita sering mendengar bahwa berdasarkan aturan baru, eKTP berlaku seumur hidup. 
+  Namun jarang sekali yang menyampaikan bahwa perubahan ini ada dalam Undang-undang nomor 24 tahun 2013, 
+  pasal 1 ayat 14 perihal perubahan pasal 64 ayat 7 (UU no 23 tahun 2006).
+* [Kantong Plastik: 4 Tahun Kemudian](https://rahmatm.samik-ibrahim.vlsm.org/2016/03/kantong-plastik-4-tahun-kemudian.html).
+  Sejak 16 Maret 2012 lalu, saya menempelkan sebuah kantong plastik "hijau" pada papan dinding di ruang kerja.
+  Empat tahun kemudian, kantong tersebut masih "terlihat utuh", padahal sudah sangat rapuh.
 * [McD Drive Thru: Beberapa Masalah](https://rahmatm.samik-ibrahim.vlsm.org/2016/03/mcd-drive-thru-beberapa-masalah.html).
   Beberapa permasalahan pada McD Drive Thru.
 * [Jawaban Standar: Mea Culpa](https://rahmatm.samik-ibrahim.vlsm.org/2016/04/mea-culpa.html).

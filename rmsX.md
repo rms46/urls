@@ -7,6 +7,11 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Logo FASILKOM UI](https://rahmatm.samik-ibrahim.vlsm.org/2015/12/logo-fasilkom-ui.html).
+* [UU no 24/2013 ps 1:14 perihal masa laku eKTP](https://rahmatm.samik-ibrahim.vlsm.org/2016/03/uu-no-242013-ps-647-perihal-masa-laku.html).
+  Kita sering mendengar bahwa berdasarkan aturan baru, eKTP berlaku seumur hidup. 
+  Namun jarang sekali yang menyampaikan bahwa perubahan ini ada dalam Undang-undang nomor 24 tahun 2013,
+  pasal 1 ayat 14 perihal perubahan pasal 64 ayat 7 (UU no 23 tahun 2006).
 * [logrotate wtmp](https://rahmatm.samik-ibrahim.vlsm.org/2016/08/logrotate-wtmp.html).
   (from man) logrotate is designed to ease administration of systems that generate large numbers of log files. 
   It allows automatic rotation, compression, removal, and mailing of log files. 
