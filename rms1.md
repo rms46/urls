@@ -142,13 +142,18 @@ layout: "urls"
   LinkedIn's mission is to connect the world's professionals to allow them to be more 
   productive and successful.
   Invitations should only be sent to people you know personally because this IS NOT a "silaturahmi" site.
+<!-- ZCZC NNNN -->
+* [MacBook Air: No, Thanks!](https://rahmatm.samik-ibrahim.vlsm.org/2015/06/no-thanks.html)
+  Saya bukan penggemar Apple seperti MacIntosh, iPod, iPad, iPhone, dst.
+  Yang terakhir pernah digunakan ialah Apple ][e pada tahun 1980an yang lalu.
+* [Pioneer DEH-2128ZY Daihatsu Xenia](https://rahmatm.samik-ibrahim.vlsm.org/2015/06/pioneer-deh-2128zy-daihatsu-xenia.html).
+  Berikut merupakan salinan manual Pioneer DEH-2128ZY yang berhubungan dengan hal tersebut.
 * [Hole Punch](https://rahmatm.samik-ibrahim.vlsm.org/2015/07/hole-punch.html).
   Dengan ini -- secara resmi -- "Hole Punch" dinyatakan pensiun!
 * [Windows 10 Sudah Tiba!](https://rahmatm.samik-ibrahim.vlsm.org/2015/08/mana-windows10-neh.html)
   Setelah beberapa hari menunggu, akhirnya upgrade Windows 10 "mampir" juga!
   Mulai sekarang menggunakan Windows 10! Jujur saja;
   saya tidak merasakan perbedaan nyata antara Windows 8.1 dan Windows 10.
-<!-- ZCZC NNNN -->
 * [Demi sepotong Flatbread](https://rahmatm.samik-ibrahim.vlsm.org/2015/08/demi-sepotong-flatbread.html).
   Ini kupon untuk Flatbread PHD gratis. Namun, repot banget syarat dan ketentuannya.... 
   Tidak jadi saja.... Cape deh!
