@@ -341,6 +341,9 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [What time is it? It's COVID time!](https://rahmatm.samik-ibrahim.vlsm.org/2022/08/what-time-is-it-its-covid-time.html).
   Let's join the COVID bandwagon! First the test.Next, choose a doctor. Let us try this one by one. 
   The first "AIDO health" didn't work. The second, "ALODOKTER," did not work. Next, "getwell" still didn't work! 
+* [Muhammad Asad (born Leopold Weiss, 1900-1992)](https://rahmatm.samik-ibrahim.vlsm.org/2022/09/muhammad-asad-born-leopold-weiss-1900.html).
+  Muhammad Asad, born Leopold Weiss (1900-1992), was an Austro-Hungarian-born Jew who converted to Islam 
+  and worked as a journalist, traveler, writer, linguist, political theorist, and diplomat.
 
 <br>
 ## 2023
