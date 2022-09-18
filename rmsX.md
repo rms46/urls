@@ -7,6 +7,9 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Reset GRUB/UBUNTU setelah install WINDOWS](https://rahmatm.samik-ibrahim.vlsm.org/2015/04/reset-grububuntu-setelah-install-windows.html).
+  Kalau meng-install MS Windows pada sistem yang ada Ubuntu GNU/Linux, maka loader (GRUB) mungkin akan tertimpa. 
+  Untuk pengembalian seperti semula, perlu dilakukan langkah-langkah berikut.
 * [Logo FASILKOM UI](https://rahmatm.samik-ibrahim.vlsm.org/2015/12/logo-fasilkom-ui.html).
 * [UU no 24/2013 ps 1:14 perihal masa laku eKTP](https://rahmatm.samik-ibrahim.vlsm.org/2016/03/uu-no-242013-ps-647-perihal-masa-laku.html).
   Kita sering mendengar bahwa berdasarkan aturan baru, eKTP berlaku seumur hidup. 

@@ -143,6 +143,9 @@ layout: "urls"
   productive and successful.
   Invitations should only be sent to people you know personally because this IS NOT a "silaturahmi" site.
 <!-- ZCZC NNNN -->
+* [Reset GRUB/UBUNTU setelah install WINDOWS](https://rahmatm.samik-ibrahim.vlsm.org/2015/04/reset-grububuntu-setelah-install-windows.html).
+  Kalau meng-install MS Windows pada sistem yang ada Ubuntu GNU/Linux, maka loader (GRUB) mungkin akan tertimpa. 
+  Untuk pengembalian seperti semula, perlu dilakukan langkah-langkah berikut.
 * [MacBook Air: No, Thanks!](https://rahmatm.samik-ibrahim.vlsm.org/2015/06/no-thanks.html)
   Saya bukan penggemar Apple seperti MacIntosh, iPod, iPad, iPhone, dst.
   Yang terakhir pernah digunakan ialah Apple ][e pada tahun 1980an yang lalu.
