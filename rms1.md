@@ -143,6 +143,13 @@ layout: "urls"
   productive and successful.
   Invitations should only be sent to people you know personally because this IS NOT a "silaturahmi" site.
 <!-- ZCZC NNNN -->
+* [Install Ubuntu 14.04 Minimum](https://rahmatm.samik-ibrahim.vlsm.org/2015/02/install-ubuntu-1404-minimum.html).
+  Install Ubuntu 14.04 Minimum.
+* [Lego (Shell): Seberapa Rumitkah?](https://rahmatm.samik-ibrahim.vlsm.org/2015/03/lego-shell-seberapa-rumitkah.html)
+  Seberapa sulitkah, untuk merakit sebuah model Lego?
+  Apa yang terjadi, jika belum memiliki pengalaman dengan Lego?
+* [PUTTY (ssh) ke NAT VMware Player](https://rahmatm.samik-ibrahim.vlsm.org/2015/04/putty-ssh-ke-nat-vmware-player.html).
+  Bagaimanakah caranya membuat Ubuntu yang jalan di atas VMware Player (NAT) dapat diakses melalui PUTTY (ssh) dari Windows?
 * [Reset GRUB/UBUNTU setelah install WINDOWS](https://rahmatm.samik-ibrahim.vlsm.org/2015/04/reset-grububuntu-setelah-install-windows.html).
   Kalau meng-install MS Windows pada sistem yang ada Ubuntu GNU/Linux, maka loader (GRUB) mungkin akan tertimpa. 
   Untuk pengembalian seperti semula, perlu dilakukan langkah-langkah berikut.
