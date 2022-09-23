@@ -143,6 +143,10 @@ layout: "urls"
   productive and successful.
   Invitations should only be sent to people you know personally because this IS NOT a "silaturahmi" site.
 <!-- ZCZC NNNN -->
+* [Virtual Guest 2 Core 2G RAM 8G DISK](https://rahmatm.samik-ibrahim.vlsm.org/2015/02/virtual-guest-2-core-2g-ram-8g-disk.html).
+  Berikut merupakan petunjuk untuk membuat "Virtual Guest" Linux 32 bit, 2 core, 2 GB RAM, 
+  serta 8 GB disk. "Virtual Host" menjalankan program Virtual Box pada  sebuah PC berbasis Windows 8.1.
+  Diasumsikan, bahwa prosesor host sekurangnya 2 core, RAM sekurangnya 4 GB, serta sekurangnya ada sisa 16 GB disk.
 * [Install Ubuntu 14.04 Minimum](https://rahmatm.samik-ibrahim.vlsm.org/2015/02/install-ubuntu-1404-minimum.html).
   Install Ubuntu 14.04 Minimum.
 * [Lego (Shell): Seberapa Rumitkah?](https://rahmatm.samik-ibrahim.vlsm.org/2015/03/lego-shell-seberapa-rumitkah.html)
