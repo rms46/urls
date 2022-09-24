@@ -132,17 +132,28 @@ layout: "urls"
   Di sebelah kanan, terlihat ujung sebuah sofa yang sering digunakan untuk istirahat.
   Lalu ada sistem galon air minum.
 * [CARA MEMBACA CEPAT](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-membaca-cepat.html).
-  
+<!-- ZCZC NNNN -->
+* [Cara "RESTART" HP Laser Jet P1102](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-restart-hp-laser-jet-p1102.html).
+  Printer HP Laser Jet P1102 tidak memiliki tombol RESTART.
+  Yang harus dilakukan ialah membuka dan menutup bagian atas tempat meletakan toner.
 
 <br>
 ## 2015
 
-* [LinkedIn: Invitation Advice](https://rahmatm.samik-ibrahim.vlsm.org/2015/01/linkedin-invitation-advice.html).
-  The following is my standard reply to anyone who has sent me a LinkedIn invitation.
-  LinkedIn's mission is to connect the world's professionals to allow them to be more 
-  productive and successful.
-  Invitations should only be sent to people you know personally because this IS NOT a "silaturahmi" site.
-<!-- ZCZC NNNN -->
+* [Struk ATM dan Kartu Kredit](https://rahmatm.samik-ibrahim.vlsm.org/2015/01/struk-atm-dan-kartu-kredit.html).
+  Telah berlalu 2014... seperti tahun sebelumnya, meninggalkan tumpukan struk ATM dan Kartu Kredit. 
+  Yang menjadi pertanyaan ialah, apakah memang perlu kita mengumpulkan struk tersebut, 
+  atau langsung dibuang saja? 
+  Selama ini, rasanya belum pernah memerlukan (kembali) struk tersebut. Jadi, mulai 2015, langsung buang saja?
+* [Perangkat Jaman Dahulu](https://rahmatm.samik-ibrahim.vlsm.org/2015/01/perangkat-jaman-dahulu.html).
+  Mesti diapakan, perangkat-perangkat dari jaman dahulu? 
+  Umpamanya, pelubang kertas (puncher) dan kompas arah kiblat. 
+  Masih dapat digunakan, namun tidak lagi digunakan terlihat dari tebal debu yang melekat....
+* [Ayam Kremes Kraton](https://rahmatm.samik-ibrahim.vlsm.org/2015/01/ayam-kremes-kraton.html).
+  Pada kotak (box) "Ayam Kremes Kraton" tertulis sebagai berikut: 
+  "This Boxes made from High Quality Food Contact Materials". Kira-kira, apa maksudnya?
+* [Kinky Narcissism](https://rahmatm.samik-ibrahim.vlsm.org/2015/02/kinky-narcissism.html)
+  No Comment!
 * [Virtual Guest 2 Core 2G RAM 8G DISK](https://rahmatm.samik-ibrahim.vlsm.org/2015/02/virtual-guest-2-core-2g-ram-8g-disk.html).
   Berikut merupakan petunjuk untuk membuat "Virtual Guest" Linux 32 bit, 2 core, 2 GB RAM, 
   serta 8 GB disk. "Virtual Host" menjalankan program Virtual Box pada  sebuah PC berbasis Windows 8.1.
