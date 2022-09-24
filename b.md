@@ -10,7 +10,8 @@ layout: "urls"
 ||
 | [B: Blogger](https://www.blogger.com/) | [B: BTemplates](https://btemplates.com/) | [B: Papersheet](https://github.com/mynimi/Papersheet) |
 | [B: API](https://developers.google.com/blogger/)| [B: Start API](https://developers.google.com/blogger/docs/3.0/getting_started) | [B: Using API](https://developers.google.com/blogger/docs/3.0/using) | [B: API Performance](https://developers.google.com/blogger/docs/3.0/performance) |
-| [B: API Reference](https://developers.google.com/blogger/docs/3.0/reference) | [B: Template 1](https://www.compromath.com/2017/07/create-blogger-template.html) | [B: Template 2](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/) | [B: elCreateive](https://www.elcreativeacademy.com/search/label/Blogger) | 
+| [B: API Reference](https://developers.google.com/blogger/docs/3.0/reference) | [B: elCreateive](https://www.elcreativeacademy.com/search/label/Blogger) | 
+| [B: Template 1](https://www.compromath.com/2017/07/create-blogger-template.html) | [B: Template 2](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/) | [B: Templete 3](https://www.freshtechtips.com/2018/11/create-custom-blogger-template.html) |
 | [B: Widget Tags](https://support.google.com/blogger/answer/46995) | [B: Layout Tags](https://support.google.com/blogger/answer/47270) | [B: Tags Reference](https://blogger2ools.mystady.com/) | [B: Theme Tags](https://geekthis.net/post/blogger-theme-data-tags-for-widgets/) | 
 | [B: stackoverflow](https://stackoverflow.com/questions/tagged/blogger) | [B: googleblog](https://blogger.googleblog.com/) | [B: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [B: Source Code Formatter](http://codeformatter.blogspot.com/) | 
 ||
