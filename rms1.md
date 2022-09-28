@@ -133,6 +133,8 @@ layout: "urls"
   Lalu ada sistem galon air minum.
 * [CARA MEMBACA CEPAT](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-membaca-cepat.html).
 <!-- ZCZC NNNN -->
+* [Periksa Kartu eTOLL](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/periksa-kartu-etoll.html).
+  Kartu non-Tunai Bank Mandiri hanya menyimpan informasi 10 transaksi terakhir.
 * [Cara "RESTART" HP Laser Jet P1102](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-restart-hp-laser-jet-p1102.html).
   Printer HP Laser Jet P1102 tidak memiliki tombol RESTART.
   Yang harus dilakukan ialah membuka dan menutup bagian atas tempat meletakan toner.
