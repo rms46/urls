@@ -7,6 +7,9 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [gscan2pdf: alat manipulasi berkas PDF serba bisa](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/gscan2pdf-alat-manipulasi-berkas-pdf.html).
+  Berikut merupakan petunjuk cara mengubah halaman dengan dua kolom menjadi halaman-halaman terpisah (satu kolom).
+  Seharusnya, cukup menggunakan utilitas "gscan2pdf".
 * [Reset GRUB/UBUNTU setelah install WINDOWS](https://rahmatm.samik-ibrahim.vlsm.org/2015/04/reset-grububuntu-setelah-install-windows.html).
   Kalau meng-install MS Windows pada sistem yang ada Ubuntu GNU/Linux, maka loader (GRUB) mungkin akan tertimpa. 
   Untuk pengembalian seperti semula, perlu dilakukan langkah-langkah berikut.

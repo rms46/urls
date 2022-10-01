@@ -131,8 +131,17 @@ layout: "urls"
   Ini merupakan salah satu sudut dari markas 3207.
   Di sebelah kanan, terlihat ujung sebuah sofa yang sering digunakan untuk istirahat.
   Lalu ada sistem galon air minum.
-* [CARA MEMBACA CEPAT](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-membaca-cepat.html).
 <!-- ZCZC NNNN -->
+* [Perda Larangan Merokok](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/perda-larangan-merokok.html).
+  Walau pun sudah ada PERDA berserta sanksinya, masih banyak yang merokok di Mall.
+* [Hindari Basa Basi!](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/hindari-basa-basi.html)
+  Hindari Ruas Jalan: Pasar Jumat, TB Simatupang, Fatmawati, Panglimat Polim, Sisingamagaraja, Jend. Sudirman.
+  Ada pekerjaan Pembangunan MASS RAPID TRANSIT (MRT). 
+* [gscan2pdf: alat manipulasi berkas PDF serba bisa](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/gscan2pdf-alat-manipulasi-berkas-pdf.html).
+  Berikut merupakan petunjuk cara mengubah halaman dengan dua kolom menjadi halaman-halaman terpisah (satu kolom).
+  Seharusnya, cukup menggunakan utilitas "gscan2pdf". 
+* [CARA MEMBACA CEPAT](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-membaca-cepat.html).
+  AccelaReader, Iris Reading, Membaca Cepat, How to read a Book in 45 minutes, Speed-Reading Techniques.
 * [Periksa Kartu eTOLL](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/periksa-kartu-etoll.html).
   Kartu non-Tunai Bank Mandiri hanya menyimpan informasi 10 transaksi terakhir.
 * [Cara "RESTART" HP Laser Jet P1102](https://rahmatm.samik-ibrahim.vlsm.org/2014/12/cara-restart-hp-laser-jet-p1102.html).
