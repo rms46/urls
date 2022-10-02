@@ -132,6 +132,12 @@ layout: "urls"
   Di sebelah kanan, terlihat ujung sebuah sofa yang sering digunakan untuk istirahat.
   Lalu ada sistem galon air minum.
 <!-- ZCZC NNNN -->
+* [Kisah Keluhan Produk Susu](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/kisah-keluhan-produk-susu.html).
+  Kasusnya sendiri terjadi beberapa bulan yang lalu, sekitar Agustus/September 2014.
+  Saya mendapatkan sebuah produk susu berisi gumpalan-gumpalan. 
+  Namun, keluhan baru dikirim akhir Oktober 2014, saat secara kebetulan mampir di situs produk tersebut.
+* [Prefix Operator Ponsel Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/prefix-operator-ponsel-indonesia.html).
+  Daftar prefix ini dari tahun 2014. Mungkin sudah berubah akibat penggabungan/merge.
 * [Perda Larangan Merokok](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/perda-larangan-merokok.html).
   Walau pun sudah ada PERDA berserta sanksinya, masih banyak yang merokok di Mall.
 * [Hindari Basa Basi!](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/hindari-basa-basi.html)
