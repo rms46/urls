@@ -14,7 +14,7 @@ layout: "urls"
 | [B: Template 1](https://www.compromath.com/2017/07/create-blogger-template.html) | [B: Template 2](https://blog.templatetoaster.com/create-blogger-template-tutorial-guide/) | [B: Templete 3](https://www.freshtechtips.com/2018/11/create-custom-blogger-template.html) |
 | [B: Widget Tags](https://support.google.com/blogger/answer/46995) | [B: Layout Tags](https://support.google.com/blogger/answer/47270) | [B: Tags Reference](https://blogger2ools.mystady.com/) | [B: Theme Tags](https://geekthis.net/post/blogger-theme-data-tags-for-widgets/) | 
 | [B: stackoverflow](https://stackoverflow.com/questions/tagged/blogger) | [B: googleblog](https://blogger.googleblog.com/) | [B: F* your Blog on Search Engines](https://support.google.com/blogger/answer/41373) | [B: Source Code Formatter](http://codeformatter.blogspot.com/) | 
-| [Y: Blooger](https://youtu.be/CrSC1ZA9j0M) |
+| [Y: Blogger1](https://youtu.be/CrSC1ZA9j0M) | [Y: Blogger2](https://youtu.be/O7WbVj5apxU) |
 ||
 | [BibMe](https://www.bibme.org/) | [Browser: What is my Browser?](https://www.whatismybrowser.com/) | [Browser: Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/) |
 ||
