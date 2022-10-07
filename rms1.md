@@ -132,6 +132,14 @@ layout: "urls"
   Di sebelah kanan, terlihat ujung sebuah sofa yang sering digunakan untuk istirahat.
   Lalu ada sistem galon air minum.
 <!-- ZCZC NNNN -->
+* [Angket Majalah Tempo 2014](https://rahmatm.samik-ibrahim.vlsm.org/2014/09/angket-majalah-tempo-2014.html).
+  Survei hanya menyediakan empat skala Likert yaitu: (1) Selalu (2) Sering (3) Jarang  dan (4) Tidak Pernah.
+  Tidak ada penjelasan sama sekali, perbedaan antara mengisi "Selalu" serta mengisi "Sering". 
+* [Satu Buku Tiga Label](https://rahmatm.samik-ibrahim.vlsm.org/2014/10/satu-buku-tiga-label.html).
+  Perhatikan sampul belakang dari sebuah buku perpustakaan. Terlihat ada tiga barcode: 
+  ISBN, inventaris, dan sirkulasi. Mengapa tidak cukup satu label saja?
+* [LibreOffice Calc Tips](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/libreoffice-calc-tips.html).
+  Absolute Addressing.
 * [Kisah Keluhan Produk Susu](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/kisah-keluhan-produk-susu.html).
   Kasusnya sendiri terjadi beberapa bulan yang lalu, sekitar Agustus/September 2014.
   Saya mendapatkan sebuah produk susu berisi gumpalan-gumpalan. 
