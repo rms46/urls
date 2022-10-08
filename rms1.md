@@ -125,13 +125,23 @@ layout: "urls"
   Mari berenang di CITOS (Cilandak Town Square)! 
   Kecuali hari Senin, kolam sudah buka jam 06:00 pagi.
   BTW, tracking dihentikan mulai Juli 2017.
-* [Partisi Disk 2TB](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/partisi-disk-2tb.html).
-  Agar baku pada setiap PC, setiap disk (2TB) dipartisi sebagai berikut.
+<!-- ZCZC NNNN -->
+* [LUDU: Lubang DXbur --- AXXhole](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/ahole-lidu-atau-ludu.html).
+  Istilah apakah yang sebaiknya digunakan sebagai pengganti "A**hole"?  Mohon kiranya memberikan petunjuk. LUDU?
 * [Markas 3207](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/markas-3207.html).
   Ini merupakan salah satu sudut dari markas 3207.
   Di sebelah kanan, terlihat ujung sebuah sofa yang sering digunakan untuk istirahat.
   Lalu ada sistem galon air minum.
-<!-- ZCZC NNNN -->
+* [Partisi Disk 2TB](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/partisi-disk-2tb.html).
+  Agar baku pada setiap PC, setiap disk (2TB) dipartisi sebagai berikut.
+* [BlackBerry Hang / Lemot](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/blackberry-hang-lemot.html).
+  Hare gene masih pakai BlackBerry? Ya; ternyata saya masih menggunakan BlackBerry Curve 9350 (CDMA) dengan paket Esia.
+* [BPJS: Bikin Pasien Jadi Susah](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/bpjs-bikin-pasien-jadi-susah.html).
+  BPJS (: Bikin Pasien Jadi Susah) Kesehatan dapat dikatakan merupakan jelmaan ASKES 
+  (= Asal Sabar Kembali Sehat :-) lama dengan steroid.
+* [B3: Bahan Berbahaya dan Beracun](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/b3-bahan-berbahaya-dan-beracun.html).
+  Numpang tanya: di mana / bagaimana seharusnya membuang "B3: Bahan Berbahaya dan Beracun" seperti batere ini?
+  Apakah pemerintah menyediakan tempat? Atau adakah LSM yang mengkoordinasi hal ini?
 * [Angket Majalah Tempo 2014](https://rahmatm.samik-ibrahim.vlsm.org/2014/09/angket-majalah-tempo-2014.html).
   Survei hanya menyediakan empat skala Likert yaitu: (1) Selalu (2) Sering (3) Jarang  dan (4) Tidak Pernah.
   Tidak ada penjelasan sama sekali, perbedaan antara mengisi "Selalu" serta mengisi "Sering". 
