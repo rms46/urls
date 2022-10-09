@@ -112,20 +112,44 @@ layout: "urls"
 * [Puss In Boots](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/puss-in-boots.html).
   Puss in Boots has been repeatedly filmed for over 100 years, 
   including a 2011 American film produced by DreamWorks Animation
+<!-- ZCZC NNNN -->
 
 <br>
 ## 2014
 
-* [Haydn vs Beethoven](https://rahmatm.samik-ibrahim.vlsm.org/2014/02/haydn-vs-beethoven.html)
+* [Kembali Ke Ubuntu 12.04 LTS](https://rahmatm.samik-ibrahim.vlsm.org/2014/01/kembali-ke-ubuntu-1204-lts.html).
+  (2014) Mari kembali ke Ubuntu 12.04.03 LTS.
+  Sepertinya akan tetap menggunakan versi ini untuk sekurangnya dua tahun ke depan.
+* [Bajaj Boleh Berlalu di Jalan Cendana](https://rahmatm.samik-ibrahim.vlsm.org/2014/01/bajaj-boleh-berlalu.html).
+  Tada! Ujung jalan Cendana sekarang telah menjadi pangkalan Bajaj!
+  Padahal pada zaman Orde Baru, tidak ada Bajaj yang berani melintas jalan Cendana!
+* [Haydn vs Beethoven](https://rahmatm.samik-ibrahim.vlsm.org/2014/02/haydn-vs-beethoven.html).
   Franz Joseph "Papa" Haydn (1732-1809) dan Ludwig van Beethoven (1770-1827)
   merupakan nama dua komposer papan atas yang tetap dikenal hingga kini.
+* [Kendaraan Oemar Bakri](https://rahmatm.samik-ibrahim.vlsm.org/2014/04/kendaraan-oemar-bakri.html).
+  Setelah ada TUKIN (Tunjangan Kinerja) dan TUSER (TUNJANGAN SERTIFIKASI), 
+  maka berikut kendaraan Oemar Bakri yang baru.
+* [Windows XP Rocks!](https://rahmatm.samik-ibrahim.vlsm.org/2014/05/xp-rocks.html)
+  Walau pun sudah "resmi" mati, konon (2014) Windows XP masih mengusai 26% PC "resmi" di atas muka bumi ini.
+  Angka tersebut belum termasuk versi bajakan.
+* [Santiaji Pemilu Orde Baru](https://rahmatm.samik-ibrahim.vlsm.org/2014/05/santiaji-pemilu-orde-baru.html).
+  Pada zaman Orde Baru --- semuanya dikondisikan dengan segala cara --- 
+  agar pemilu dimenangkan oleh pihak tertentu saja. 
+  Salah satu cara ialah dengan "mengarahkan" seluruh pegawai pemerintah, BUMN, BUMD 
+  yang pada saat itu berada dibawah naungan Korps Pegawai Republik Indonesia (KORPRI). 
+  Pengarahan tersebut dikenal dengan istilah "SANTIAJI". Kata "santiaji" itu sendiri berarti "pengarahan". 
+* [Failed Windows 8 Service](https://rahmatm.samik-ibrahim.vlsm.org/2014/05/failed-windows-8-service.html).
+  Masalah dengan Windows 8: Failed To Connect To A Windows Service.
+  Salah satu gejalanya ialah membuka aplikasi dan folder menjadi lemot bahkan tidak bisa sama sekali.
+  Entah apa yang sedang dilakukan oleh para idiot di Redmond!
 * [Ubuntu dan VirtualBox](https://rahmatm.samik-ibrahim.vlsm.org/2014/06/ubuntu-1204-lts-dan-virtualbox.html).
   Jika Ubuntu anda mengeluarkan pesan serupa: "No suitable module for running kernel found."
+* [Review: Lindt Excellence 99% Cocoa](https://rahmatm.samik-ibrahim.vlsm.org/2014/07/review-lindt-excellence-99-cocoa.html).
+  Ini dia: bukan sekedar "rasa coklat", namun rasa coklat murni. Sedaap!
 * [Berenang Di CITOS](https://rahmatm.samik-ibrahim.vlsm.org/2014/07/berenang-di-citos.html).
   Mari berenang di CITOS (Cilandak Town Square)! 
   Kecuali hari Senin, kolam sudah buka jam 06:00 pagi.
   BTW, tracking dihentikan mulai Juli 2017.
-<!-- ZCZC NNNN -->
 * [LUDU: Lubang DXbur --- AXXhole](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/ahole-lidu-atau-ludu.html).
   Istilah apakah yang sebaiknya digunakan sebagai pengganti "A**hole"?  Mohon kiranya memberikan petunjuk. LUDU?
 * [Markas 3207](https://rahmatm.samik-ibrahim.vlsm.org/2014/08/markas-3207.html).
