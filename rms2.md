@@ -344,6 +344,11 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Muhammad Asad (born Leopold Weiss, 1900-1992)](https://rahmatm.samik-ibrahim.vlsm.org/2022/09/muhammad-asad-born-leopold-weiss-1900.html).
   Muhammad Asad, born Leopold Weiss (1900-1992), was an Austro-Hungarian-born Jew who converted to Islam 
   and worked as a journalist, traveler, writer, linguist, political theorist, and diplomat.
+* [Bambu Runcing: Romantika dan Realita](https://rahmatm.samik-ibrahim.vlsm.org/2022/10/bambu-runcing-romantika-dan-realita.html).
+  Kita telah membaca banyak cerita tentang Bambu Runcing. Monumen Bambu Runcing didirikan dimana-mana,   
+  serta setiap 17-Agustusan akan ada spanduk heroik para pejuang dengan Bambu Runcing.
+  Se-olah-olah, kita "mengusir" penjajah hanya dengan senjata Bambu Runcing! 
+  Seberapa akuratkah cerita-cerita yang beredar?
 
 <br>
 ## 2023
