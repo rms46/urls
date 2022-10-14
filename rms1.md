@@ -107,12 +107,21 @@ layout: "urls"
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 * [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
   --- dari tahun ke tahun.
-* [Ferrari-ku (478 Italia)](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/ferrari-ku.html).
-  Akhirnya, kesampaian juga membeli Ferrari 458 Italia.
+<!-- ZCZC NNNN -->
+* [Dekan Fasilkom 2013-2017](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/dekan-fasilkom-2013-2017.html).
+  Mirna Adriani obtained a B.Sc. from California State University, Pomona, California, 
+  the USA, in 1989 and a Ph.D. from Glasgow University, Glasgow, Scotland, the UK, in 2000. 
+  The deceased served as Dean of Fasilkom UI for two terms, starting from 2013-2017 and 2017 until 2020. 
+  Previously, she served as Deputy Dean for Education and Research at Fasilkom UI from 2008-2013.
 * [Puss In Boots](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/puss-in-boots.html).
   Puss in Boots has been repeatedly filmed for over 100 years, 
   including a 2011 American film produced by DreamWorks Animation
-<!-- ZCZC NNNN -->
+* [Ferrari-ku (478 Italia)](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/ferrari-ku.html).
+  Akhirnya, kesampaian juga membeli Ferrari 458 Italia.
+* [ttf-mscorefonts-installer: The installer of Microsoft’s True Core Font](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/beberapa-problem-laten-ubuntu.html).
+  The Microsoft’s True core font "deb package" is called "ttf-mscorefonts-installer."
+  These fonts were provided by Microsoft "in the interest of cross-platform compatibility." 
+  This is no longer the case, but they are still available from third parties.
 
 <br>
 ## 2014

@@ -7,6 +7,10 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [ttf-mscorefonts-installer: The installer of Microsoft’s True Core Font](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/beberapa-problem-laten-ubuntu.html).
+  The Microsoft’s True core font "deb package" is called "ttf-mscorefonts-installer."
+  These fonts were provided by Microsoft "in the interest of cross-platform compatibility."
+  This is no longer the case, but they are still available from third parties.
 * [gscan2pdf: alat manipulasi berkas PDF serba bisa](https://rahmatm.samik-ibrahim.vlsm.org/2014/11/gscan2pdf-alat-manipulasi-berkas-pdf.html).
   Berikut merupakan petunjuk cara mengubah halaman dengan dua kolom menjadi halaman-halaman terpisah (satu kolom).
   Seharusnya, cukup menggunakan utilitas "gscan2pdf".
