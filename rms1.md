@@ -108,6 +108,16 @@ layout: "urls"
 * [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
   --- dari tahun ke tahun.
 <!-- ZCZC NNNN -->
+* [Google Spam](https://rahmatm.samik-ibrahim.vlsm.org/2013/11/google-spam.html).
+  Google tidak mengenal email buatan sendiri, LOL!
+* [Real Time Clock System Dual Boot Ubuntu -- Windows](https://rahmatm.samik-ibrahim.vlsm.org/2013/11/rt-clock-sistem-linuxwindows.html).
+  Real Time Clock sebuah PC digunakan untuk menunjuk waktu.
+  Microsoft Windows mengharapkan waktu lokal, sedangkan Linux mengharapkan waktu UTC (GMT). 
+  Untuk itu, sebaiknya registry Windows diubah agar juga menggunakan waktu UTC.
+* [Review: Hotel Ibis Jakarta Senen](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/review-hotel-ibis-jakarta-senen.html).
+  Hotel Ibis Jakarta Senen terletak di jalan Keramat Raya no 100, Jakarta 10420, Indonesia.
+  Konsep hotel ini minimalis tulen!
+  Lebar kamar hanya sekitar 3 meter, tanpa lemari pakaian berpintu, dan tanpa kulkas.
 * [Dekan Fasilkom 2013-2017](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/dekan-fasilkom-2013-2017.html).
   Mirna Adriani obtained a B.Sc. from California State University, Pomona, California, 
   the USA, in 1989 and a Ph.D. from Glasgow University, Glasgow, Scotland, the UK, in 2000. 

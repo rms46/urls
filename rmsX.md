@@ -7,6 +7,10 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Real Time Clock System Dual Boot Ubuntu -- Windows](https://rahmatm.samik-ibrahim.vlsm.org/2013/11/rt-clock-sistem-linuxwindows.html).
+  Real Time Clock sebuah PC digunakan untuk menunjuk waktu.
+  Microsoft Windows mengharapkan waktu lokal, sedangkan Linux mengharapkan waktu UTC (GMT).
+  Untuk itu, sebaiknya registry Windows diubah agar juga menggunakan waktu UTC.
 * [ttf-mscorefonts-installer: The installer of Microsoft’s True Core Font](https://rahmatm.samik-ibrahim.vlsm.org/2013/12/beberapa-problem-laten-ubuntu.html).
   The Microsoft’s True core font "deb package" is called "ttf-mscorefonts-installer."
   These fonts were provided by Microsoft "in the interest of cross-platform compatibility."
