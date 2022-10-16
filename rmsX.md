@@ -7,6 +7,8 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Google Chrome Setting List](https://rahmatm.samik-ibrahim.vlsm.org/2022/10/google-chrome-setting-list.html).
+  Google Chrome Setting List.
 * [Real Time Clock System Dual Boot Ubuntu -- Windows](https://rahmatm.samik-ibrahim.vlsm.org/2013/11/rt-clock-sistem-linuxwindows.html).
   Real Time Clock sebuah PC digunakan untuk menunjuk waktu.
   Microsoft Windows mengharapkan waktu lokal, sedangkan Linux mengharapkan waktu UTC (GMT).
