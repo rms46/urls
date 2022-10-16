@@ -105,9 +105,19 @@ layout: "urls"
   Ini merupakan laporan uji-coba hasil kompilasi kernel linux 3.2.27 RPI (Raspberry Pi) dari KA03 
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
+<!-- ZCZC NNNN -->
 * [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
   --- dari tahun ke tahun.
-<!-- ZCZC NNNN -->
+* [Lemper Tanpa Daun](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/lemper-tanpa-daun.html).
+  "Lemper" ini dibungkus kedap dengan aluminium!
+  Dengan demikian, lemper dapat bertahan dalam ruangan biasa hingga dua hari.
+* [Sejuk](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/sejuk.html).
+  Sementara suhu di luar 29.5 derajat, suhu di ruangan 22.0 derajat. Sejuk....
+* [Ubuntu 13.10](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/ubuntu-1310.html).
+  Selamat datang (upgrade ke) Ubuntu 13.10 Saucy Salamander.
+* [Jalan MatAmerika](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/jalan-matamerika.html).
+  Alangkah naifnya, jika berprasangka, tidak ada negara laen yang memata-matai kegiatan di Indonesia!?
+  Mengapa tidak? Apakah belom nonton pilem "Enemy of the State (1998)"?
 * [Google Spam](https://rahmatm.samik-ibrahim.vlsm.org/2013/11/google-spam.html).
   Google tidak mengenal email buatan sendiri, LOL!
 * [Real Time Clock System Dual Boot Ubuntu -- Windows](https://rahmatm.samik-ibrahim.vlsm.org/2013/11/rt-clock-sistem-linuxwindows.html).
