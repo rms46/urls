@@ -349,6 +349,8 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   serta setiap 17-Agustusan akan ada spanduk heroik para pejuang dengan Bambu Runcing.
   Se-olah-olah, kita "mengusir" penjajah hanya dengan senjata Bambu Runcing! 
   Seberapa akuratkah cerita-cerita yang beredar?
+* [Google Chrome Setting List](https://rahmatm.samik-ibrahim.vlsm.org/2022/10/google-chrome-setting-list.html).
+  Google Chrome Setting List.
 
 <br>
 ## 2023
