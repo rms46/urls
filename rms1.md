@@ -106,6 +106,12 @@ layout: "urls"
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 <!-- ZCZC NNNN -->
+* [Apa Perlu PowerBank](https://rahmatm.samik-ibrahim.vlsm.org/2013/09/apa-perlu-powerbank.html)?
+  Problem yang ingin diatasi ialah "ponsel pintar" yang cepat sekali menguras isi batere.
+  Solusi yang diajukan ialah membeli "power monster" 12400 mAh.
+* [Mas Delivery](https://rahmatm.samik-ibrahim.vlsm.org/2013/09/mas-delivery.html)!
+  Bukan saja Pizza dan Burger, Emas Logam Mulia pun dapat dipesan untuk diantar ke alamat tujuan!
+  Sesuai dengan petunjuk situs Logam Mulia P.T. Aneka Tambang, untuk pemesanan diperlukan Ponsel dan KTP.
 * [Kumpulan Foto Yang @#*+_#& Menjengkelkan](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/kumpulan-hal.html).
   --- dari tahun ke tahun.
 * [Lemper Tanpa Daun](https://rahmatm.samik-ibrahim.vlsm.org/2013/10/lemper-tanpa-daun.html).
