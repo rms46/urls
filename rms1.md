@@ -106,6 +106,19 @@ layout: "urls"
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 <!-- ZCZC NNNN -->
+* [Lenteng Agung Masih Kacau!](https://rahmatm.samik-ibrahim.vlsm.org/2013/08/lenteng-agung-masih-kacau.html).
+  Sementara media berlomba-lomba memberitakan dan memuji "ketertiban DKI" belakangan ini,
+  justru yang sebaliknya yang terjadi setiap pagi di jalan raya Lenteng Agung arah Depok!
+* [Kantong "Go Green"](https://rahmatm.samik-ibrahim.vlsm.org/2013/08/kantong-go-green.html).
+  Kantong "kresek" ini katanya "akan hancur dengan sendirinya".
+  Namun berapa lama sampai hancur? Bagaimana kondisi lingkungan agar lebih cepat hancur?
+* [Signora Pasta Cireundeu](https://rahmatm.samik-ibrahim.vlsm.org/2013/08/signora-pasta-cireudeu.html).
+  PERHATIAN (2021): Signora Pasta Cireundeu sudah lama tutup!
+* [Blackberry Esia Gagal Kirim SMS](https://rahmatm.samik-ibrahim.vlsm.org/2013/08/blackberry-esia-gagal-kirim-sms.html).
+  Blackberry Curve 9350 (OS versi 7.1) jika menggunakan operator Esia:
+  pengiriman SMS untuk opator lain sering gagal (Delivery Failed) pada pengiriman pertama.
+* [Ford Taunus Coupe 17M 1966](https://rahmatm.samik-ibrahim.vlsm.org/2013/08/ford-taunus-coupe-17m-1966.html).
+  Ford Taunus Coupe 17M tahun 1966,  berpintu dua (coupe), 1699cc, V-4 silinder, dengan 8 valve (OHV).
 * [Apa Perlu PowerBank](https://rahmatm.samik-ibrahim.vlsm.org/2013/09/apa-perlu-powerbank.html)?
   Problem yang ingin diatasi ialah "ponsel pintar" yang cepat sekali menguras isi batere.
   Solusi yang diajukan ialah membeli "power monster" 12400 mAh.
