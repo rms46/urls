@@ -106,6 +106,17 @@ layout: "urls"
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 <!-- ZCZC NNNN -->
+* ["BABE" Edwin Prijanto (1969-93)](https://rahmatm.samik-ibrahim.vlsm.org/2013/07/babe-edwin-prijanto-1969-93.html).
+  Salah satu ruangan Laboratorium di lantai satu gedung A - Fakultas Ilmu Komputer (Fasilkom) UI bernama "Lab Babe".
+  Nama tersebut untuk mengenang salah satu alumni Fasilkom angkatan 1988 bernama Edwin Prijanto 
+  (25 Agustus 1969 - 9 Mei 1993).
+* [Nilai 10 Perangkat Lunak Bebas](https://rahmatm.samik-ibrahim.vlsm.org/2013/07/perihal-10-perangkat-lunak-bebas.html).
+  Jack Wallen mengungkapkan nilai dari 10 perangkat lunak bebas yang layaknya diberi lebih daripada sekedar "donasi."
+* [Menghilangkan karakter aneh pada berkas](https://rahmatm.samik-ibrahim.vlsm.org/2013/07/menghilangkan-karakter-aneh-pada-berkas.html).
+  Script sederhana yang mengganti karakter-karakter aneh seperti [] (),?*#" menjadi dash "-".
+* [Medley Penasaran](https://rahmatm.samik-ibrahim.vlsm.org/2013/07/mencari-judul-lagu-medley.html).
+  Pernahkan anda penasaran dengan judul sebuah lagu?
+  Ini merupakan kisah "pencarian" judul lagu yang pernah saya dengar "beberapa" tahun yang lalu, tepatnya tahun 1967. 
 * [Lenteng Agung Masih Kacau!](https://rahmatm.samik-ibrahim.vlsm.org/2013/08/lenteng-agung-masih-kacau.html).
   Sementara media berlomba-lomba memberitakan dan memuji "ketertiban DKI" belakangan ini,
   justru yang sebaliknya yang terjadi setiap pagi di jalan raya Lenteng Agung arah Depok!
