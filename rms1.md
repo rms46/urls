@@ -106,12 +106,21 @@ layout: "urls"
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 <!-- ZCZC NNNN -->
+* [Di Atas Puing UI](https://rahmatm.samik-ibrahim.vlsm.org/2013/04/di-atas-puing-ui.html).
+  "Membangun Di Atas Puing Integritas -- Belajar dari Universitas Indonesia" diedit oleh R.K. Toha-Sarumpaet, 
+  M. Budiman, dan A. Armando berisi 23 tulisan.
+* [TouchPad Lenovo E135 Ubuntu](https://rahmatm.samik-ibrahim.vlsm.org/2013/05/touchpad-lenovo-e135-ubuntu.html).
+  Ketika ada masalah pada Lenovo ThinkPad Edge E135, 
+  lama sekali baru sadar bahwa tombol-tombol touchpad dan pointing stick selama ini mati rasa...
+* [Situs Bank Tanpa Guna Nyata](https://rahmatm.samik-ibrahim.vlsm.org/2013/05/situs-bank-tanpa-guna-nyata.html).
+  Bank-bank sudah mengeluarkan biaya tinggi untuk teknologi informasi, 
+  namun tidak juga menyediakan informasi yang paling dasar: alamat cabang-cabang mereka.
 * [Tab Firefox Gampang "Copot"](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/tab-firefox-gampang-copot.html).
   TAB Firefox terkadang dapat copot membentuk sebuah bingkai window yang terpisah.
   Hal ini dapat terjadi, kalau kita tetap menahan TAB tersebut saat menggeser mouse. 
 * [Hey McD, engkau berdusta](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/hey-mcd-engkau-berdusta.html).
-   McD masih beberapa ratus meter lagi. Tepatnya, 
-   sekitar 2.1 km dari papan iklan "1.5 km" di jalan raya Lenteng Agung tersebut.
+  McD masih beberapa ratus meter lagi. Tepatnya, 
+  sekitar 2.1 km dari papan iklan "1.5 km" di jalan raya Lenteng Agung tersebut.
 * [KFC, Engkau Berdusta Pula](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/kfc-engkau-berdusta-pula.html).
   Satu kilometer??? Padahal lokasi KFC Margonda itu SETELAH Margo City!
   Tepatnya 2.8 km dari papan iklan tersebut!
