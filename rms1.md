@@ -106,6 +106,19 @@ layout: "urls"
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 <!-- ZCZC NNNN -->
+* [Tab Firefox Gampang "Copot"](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/tab-firefox-gampang-copot.html).
+  TAB Firefox terkadang dapat copot membentuk sebuah bingkai window yang terpisah.
+  Hal ini dapat terjadi, kalau kita tetap menahan TAB tersebut saat menggeser mouse. 
+* [Hey McD, engkau berdusta](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/hey-mcd-engkau-berdusta.html).
+   McD masih beberapa ratus meter lagi. Tepatnya, 
+   sekitar 2.1 km dari papan iklan "1.5 km" di jalan raya Lenteng Agung tersebut.
+* [KFC, Engkau Berdusta Pula](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/kfc-engkau-berdusta-pula.html).
+  Satu kilometer??? Padahal lokasi KFC Margonda itu SETELAH Margo City!
+  Tepatnya 2.8 km dari papan iklan tersebut!
+* [Layar LG 24MN42A Oversized](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/layar-lg-24mn42a-oversized.html).
+  Layar monitor komputer LG  24MN42A membesar daripada seharusnya.
+* [Konsumsi BBM Saat Macet Total](https://rahmatm.samik-ibrahim.vlsm.org/2013/06/konsumsi-bbm-saat-macet-total.html).
+  Berapa jumlah BBM per kendaraan yang habis terbakar sia-sia, saat berada dalam kondisi berhenti total?
 * ["BABE" Edwin Prijanto (1969-93)](https://rahmatm.samik-ibrahim.vlsm.org/2013/07/babe-edwin-prijanto-1969-93.html).
   Salah satu ruangan Laboratorium di lantai satu gedung A - Fakultas Ilmu Komputer (Fasilkom) UI bernama "Lab Babe".
   Nama tersebut untuk mengenang salah satu alumni Fasilkom angkatan 1988 bernama Edwin Prijanto 
