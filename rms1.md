@@ -99,13 +99,34 @@ layout: "urls"
 <br>
 ## 2013
  
-* [fatsort: sortir playlist mp3](https://rahmatm.samik-ibrahim.vlsm.org/2013/03/fatsort-sortir-playlist-mp3.html).
-  Kebanyakan sistem berkas modern tidak menyimpan berkas secara terurut.
 * [CONFIG untuk Kernel Linux 3.2.27 RPI](https://rahmatm.samik-ibrahim.vlsm.org/2013/01/config-untuk-kernel-linux-3227-rpi.html)
   Ini merupakan laporan uji-coba hasil kompilasi kernel linux 3.2.27 RPI (Raspberry Pi) dari KA03 
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
 <!-- ZCZC NNNN -->
+* [Kecepatan Tulis Flashdisk](https://rahmatm.samik-ibrahim.vlsm.org/2013/02/kecepatan-tulis-flashdisk.html).
+  Semua flashdisk di atas adalah bekas pakai, serta mungkin saja barang palsu! 
+  Kedua --- sebagai perbandingan --- Hardisk Seagate 2 TB USB/3.5"; kecepatan transfer mencapai 31.9 MBps.
+* [Hidangan Tanpa Nama](https://rahmatm.samik-ibrahim.vlsm.org/2013/02/hidangan-tanpa-nama.html).
+  Di tahun 1980an, di ujung jalan Bagusrangin, Bandung -- arah UNPAD -- terdapat sebuah komplek pertokoan. 
+  Salah satu diantaranya sebuah rumah makan bernama "Hidangan Tanpa Nama". 
+  Kini lokasi tersebut telah tergusur habis, menjadi jalan Japati dan "Monumen Perjuangan Rakyat Jabar".
+* [Cell Phone Charging: On or Off?](https://rahmatm.samik-ibrahim.vlsm.org/2013/02/cell-phone-charging-on-or-off.html).
+  OK, ini kira-kira terjemahan dari judul Inggris di atas: Kalau men-"cas" atau meng-"isi" ponsel, 
+  apakah harus dimatikan, atau boleh tetap dalam keadaan hidup?
+* [fatsort: sortir playlist mp3](https://rahmatm.samik-ibrahim.vlsm.org/2013/03/fatsort-sortir-playlist-mp3.html).
+  Kebanyakan sistem berkas modern tidak menyimpan berkas secara terurut.
+* [Lupa Password BlackBerry ID](https://rahmatm.samik-ibrahim.vlsm.org/2013/04/lupa-password-blackberry-id.html).
+  BlackBerry ID jarang sekali diperlukan, sehingga menimbulkan peluang untuk lupa password-nya. 
+* [Energizer LED Folding Lantern](https://rahmatm.samik-ibrahim.vlsm.org/2013/04/energizer-led-folding-lantern.html).
+  Kesan pertama melihat lampu ini ialah -- "gile muahal sekalee..." -- 
+  yaitu Rp. 250000 di sebuah perkulakan di Ciputat. 
+* [Install Ubuntu Hang/Freeze](https://rahmatm.samik-ibrahim.vlsm.org/2013/04/install-ubuntu-hangfreeze.html).
+  Hingga awal April 2013 ini -- masih tetap ada bug saat install Ubuntu -- 
+  sistem akan membeku (freeze/hang) saat memeriksa disk dengan partisi yang sudah ada isinya.
+* [Daihatsu Xenixa1.0: Rp. 1250/km](https://rahmatm.samik-ibrahim.vlsm.org/2013/04/daihatsu-xenix-10-rp-1250km.html).
+  Biaya menggunakan kendaraan Daihatsu Xenia 1.0 sekitar Rp. 1250 per km.
+  Perhitungan ini berdasarkan penggunaan kendaraan dari baru antara tahun 2007 hingga 2012 (5 tahun) sejauh 120.000 km.
 * [Di Atas Puing UI](https://rahmatm.samik-ibrahim.vlsm.org/2013/04/di-atas-puing-ui.html).
   "Membangun Di Atas Puing Integritas -- Belajar dari Universitas Indonesia" diedit oleh R.K. Toha-Sarumpaet, 
   M. Budiman, dan A. Armando berisi 23 tulisan.
