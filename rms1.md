@@ -90,11 +90,35 @@ layout: "urls"
   Namun di dalam bank tidak ditemukan adanya nasabah.
   Jadi, kendaraan siapa yang parkir di sana? Mengapa nasabah 
   -- apa lagi yang tanpa supir -- yang harus parkir di tempat yang jauh?
+<!-- ZCZC NNNN -->
+* [MOD: Manager on Duty](https://rahmatm.samik-ibrahim.vlsm.org/2012/09/mod-manager-on-duty.html).
+  MOD atau Manager On Duty diperlukan dalam sebuah organisasi -- 
+  jika para pimpinan yang tidak dapat selalu hadir pada setiap saat atau pada setiap lokasi. 
+  Penunjukan MOD biasanya setelah jam kerja untuk menggantikan para pimpinan sedang tidak bertugas.
+* [Sate Gate Empang, Bogor](https://rahmatm.samik-ibrahim.vlsm.org/2012/10/sate-gate-empang.html).
+  Sate Gate, Alun-Alun Empang, Bogor... hm... sedap!  Yang tersedia, mulai dari Sate/ Gulai/ Sop Kambing; 
+  Nasi Putih/ Rames/ Goreng/ Kabsah/ Kebuli; Berbagai macam Roti Cane. Sayang, tempat parkirnya sangat sempit.
 * [Kesetaraan (Equal)](https://rahmatm.samik-ibrahim.vlsm.org/2012/10/kesetaraan-equal.html).
   Apakah di wilayah "Timur" ini, terdapat  pemahaman tentang konsep "kesetaraan" (equal)?
   Kelihatannya, konsep yang paling dekat yang ada ialah "adil" dan "beradab". 
 * [Sarapan](https://rahmatm.samik-ibrahim.vlsm.org/2012/11/sarapan.html).
   Sarapan bersama Caviar, Crackers, Mentega... Hm... sedaap! Flashdisk? No...
+* [Kinerja Prosesor Intel](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/prosesor-intel-core-i5-650.html).
+  Saat ini, saya menggunakan komputer kerja dengan  prosesor "Intel Core i5-650", 3.2 GHz.
+  Prosesor tersebut menggunakan "2 core" dengan masing-masing "2 hyper-thread".
+  Jenis prosesor tersebut pertama kali dirilis pada awal 2010 lalu.
+* [Nasi Uduk](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/nasi-uduk.html)...
+  kepada beta... tak terhingga sepanjang masa... Hanya membeli... tak harap kembalian...
+  bagai sang VISA menguasai dunia...
+* [Contacts Android dan Google](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/contacts-android-dan-google.html).
+  "Keunggulan Contacts" yang mampu memisahkan antara jenis-jenis sumber yang berbeda justru menambah 
+  kerumitan pengaturan saat pemeliharaan. 
+  IMHO -- sebaiknya setiap pesawat Android memiliki akun "Google" yang terpisah. 
+  Dengan demikian, setiap pesawat Android dapat diatur untuk memiliki Contacts yang spesifik.
+* [Nomor Ponsel Sebagai Bahan Habis Pakai](https://rahmatm.samik-ibrahim.vlsm.org/2012/12/nomor-ponsel-sebagai-bahan-habis-pakai.html).
+   Mengetahui sebuah nomor ponsel tidak otomatis berarti memiliki hak untuk menghubungi nomor tersebut!
+   Belum lagi, pihak yang mengirim SMS seperti "Kredit Tanpa Angunan", "Rumah/Mobil jangan dijual dulu", 
+   "Kirim Pulsa", "Kirim Uang", dst.
 
 <br>
 ## 2013
@@ -103,7 +127,6 @@ layout: "urls"
   Ini merupakan laporan uji-coba hasil kompilasi kernel linux 3.2.27 RPI (Raspberry Pi) dari KA03 
   (Nasution, Satria, Kusuma, Sanjaya, dan Rahartomo).
   Dengan menggunakan "config" yang terlampir, menghasilkan kernel terkompress dengan ukuran 1362352 bytes.
-<!-- ZCZC NNNN -->
 * [Kecepatan Tulis Flashdisk](https://rahmatm.samik-ibrahim.vlsm.org/2013/02/kecepatan-tulis-flashdisk.html).
   Semua flashdisk di atas adalah bekas pakai, serta mungkin saja barang palsu! 
   Kedua --- sebagai perbandingan --- Hardisk Seagate 2 TB USB/3.5"; kecepatan transfer mencapai 31.9 MBps.
