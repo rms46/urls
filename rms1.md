@@ -80,17 +80,32 @@ layout: "urls"
   Sayang, belum semua pintu Tol yang menerima eToll card...
 * [BusyBox: wget dan proxy](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/busyboxwget-dan-proxy.html).
   Bagaimana caranya menggunakan "wget" dibelakang proxy?
+<!-- ZCZC NNNN -->
 * [Kisah Sirene Ngaheong](https://rahmatm.samik-ibrahim.vlsm.org/2012/07/kisah-sirene-ngaheong.html).
   Alkisah sebuah bangunan Fabrik tua, yang telah berdiri sudah lama sekali.
   Kalau penduduk sekitar ditanyai perihal Fabrik tersebut, biasanya akan menjawab
   "Fabrik itu sudah berdiri sebelum aku lahir, bahkan sebelum orang tuaku lahir..."
+* [Tebakan Basmi 50](https://rahmatm.samik-ibrahim.vlsm.org/2012/07/tebakan-basmi-50.html).
+  Pertanyaan tebak-tebakan ini sederhana saja: Berhubung satu tahun lebih dari 52 minggu, 
+  berarti ada sekurangnya dua (2) minggu bebas/ libur pembasmian. 
+  Tentukanlah kriteria dari kedua minggu tersebut, lalu sebutkan kapan liburnya....
+* [Selamat Tinggal HandyCam](https://rahmatm.samik-ibrahim.vlsm.org/2012/08/selamat-tinggal-handycam.html).
+  Akhirnya setelah ditunda bertahun-tahun, dengan ini secara resmi dinyatakan bahwa 
+  kedua video camera Panasonic VHS-C produk abad 20 lalu, telah dihapus-bukukan dari daftar inventaris.
 * [Parkir Nasabah](https://rahmatm.samik-ibrahim.vlsm.org/2012/08/parkir-nasabah.html).
   Hampir setiap ke gedung Icon, Pondok Indah, 
   didapatkan tempat parkir yang dekat dengan pintu masuk sudah penuh.
   Namun di dalam bank tidak ditemukan adanya nasabah.
   Jadi, kendaraan siapa yang parkir di sana? Mengapa nasabah 
   -- apa lagi yang tanpa supir -- yang harus parkir di tempat yang jauh?
-<!-- ZCZC NNNN -->
+* [Renungan Berkala](https://rahmatm.samik-ibrahim.vlsm.org/2012/09/renungan-berkala.html).
+  Berapa kali kita mengganti pakaian dalam setiap hari?
+  Berapa kali kita mengganti pakaian dalam jangka satu minggu?
+  Berapa kali kita mengganti sikat gigi dalam jangka setahun?
+* [SOP: Standard Operating Procedure](https://rahmatm.samik-ibrahim.vlsm.org/2012/09/sop-standard-operating-procedure.html).
+  Dalam sebuah organisasi "world class" beneran, seharusnya untuk setiap kegiatan, 
+  dibuatkan sebuah dokumen petunjuk pelaksanaan yang lengkap. 
+  Artinya: jika terjadi "X", maka laksanakanlah prosedur "Y".
 * [MOD: Manager on Duty](https://rahmatm.samik-ibrahim.vlsm.org/2012/09/mod-manager-on-duty.html).
   MOD atau Manager On Duty diperlukan dalam sebuah organisasi -- 
   jika para pimpinan yang tidak dapat selalu hadir pada setiap saat atau pada setiap lokasi. 
