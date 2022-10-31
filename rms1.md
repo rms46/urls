@@ -81,6 +81,14 @@ layout: "urls"
 * [BusyBox: wget dan proxy](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/busyboxwget-dan-proxy.html).
   Bagaimana caranya menggunakan "wget" dibelakang proxy?
 <!-- ZCZC NNNN -->
+* [Strategi Backup Berkala](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/strategi-backup-berkala.html).
+  Marilah (kita) secara berkala, mem-backup harta digital yang dimiliki.
+  Walau pun dewasa ini, mulai banyak pilihan backup secara online, 
+  sebaiknya memperhitungkan bahwa perusahaan tersebut sewaktu-waktu dapat bangkrut,
+  dan sewaktu-waktu dapat memutuskan hubungan sesukanya.
+* [Backup Apa Saja](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/backup-apa-saja.html)?
+  Berikut merupakan daftar harta digital yang sebaiknya di-backup. 
+  Silakan memberi komentar, jika punya ide/ pendapat lainnya.
 * [Kisah Sirene Ngaheong](https://rahmatm.samik-ibrahim.vlsm.org/2012/07/kisah-sirene-ngaheong.html).
   Alkisah sebuah bangunan Fabrik tua, yang telah berdiri sudah lama sekali.
   Kalau penduduk sekitar ditanyai perihal Fabrik tersebut, biasanya akan menjawab
