@@ -78,9 +78,21 @@ layout: "urls"
   Sekedar informasi, kemarin tanggal 7 Maret 2012, 
   para pengguna eToll card tidak perlu membayar saat melewati pinto Tol.
   Sayang, belum semua pintu Tol yang menerima eToll card...
+<!-- ZCZC NNNN -->
 * [BusyBox: wget dan proxy](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/busyboxwget-dan-proxy.html).
   Bagaimana caranya menggunakan "wget" dibelakang proxy?
-<!-- ZCZC NNNN -->
+* [What is Virtue](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/what-is-virtue.html)?
+  Apakah pernah ada yang berfikir, bahwa di sebuah "world class university", 
+  seharusnya dengan kantin yang "world class" juga. 
+* [Sendal Jepit dan Ijazah SMA](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/sendal-jepit-dan-ijazah-sma.html).
+  Apakah Dosen memiliki hak untuk melarang mahasiswa beralaskan sendal jepit di dalam kelas?
+  Apakah perlu ijazah (SMA) untuk masuk ke perguruan tinggi (PT)? 
+* [Kapan Merdekanya, Gan](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/kapan-merdekanya-gan.html)?
+  Para penguasa sudah terbiasa membuat peraturan tanpa memperhatikan perundangan yang ada....
+* [Selamat Tinggal Kamus Meja](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/selamat-tinggal-kamus-meja.html).
+  Kamus setebal hampir 700 halaman ini ternyata sudah non-aktif selama beberapa tahun ini. 
+  Hm... membuka kamus merupakan sesuatu dari masa lalu... 
+  Sudah saatnya kamus ini menyingkir dari "lokasi utama".
 * [Strategi Backup Berkala](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/strategi-backup-berkala.html).
   Marilah (kita) secara berkala, mem-backup harta digital yang dimiliki.
   Walau pun dewasa ini, mulai banyak pilihan backup secara online, 
