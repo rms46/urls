@@ -66,19 +66,27 @@ layout: "urls"
   They were surprised to discover small pieces of copper. 
 * [Grounded Theory](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/grounded-theory-is.html)
   --- is a general method of comparative analysis.
+<!-- ZCZC NNNN -->
 * [Default A4 untuk LibreOffice](https://rahmatm.samik-ibrahim.vlsm.org/2012/02/default-a4-untuk-libreoffice.html).
-* [Tiny Core Linux](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/tiny-core-linux.html)
-  (TC) merupakan sistem Linux yang sangat ringkas dan cepat.
-  TC masih dapat berfungsi pada perangkat keras dengan memori terbatas (< 100 MB!).
-* [Menambah Nomor Baris](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/menambah-nomor-baris.html).
-  Cara mudah menambahkan nomor baris ke sebuah berkas, umpamanya "program.c".
-* [Plastik Urinoir](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/untuk-pembesaran-silakan-klik-foto-di.html).
-  Bagaimana pendapat anda, perihal URINOIR yang dihalangi dengan plastik transparan? Mempermudah? Mempersulit? 
 * [Sehari Bebas Biaya Tol](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/sehari-bebas-biaya-tol.html).
   Sekedar informasi, kemarin tanggal 7 Maret 2012, 
   para pengguna eToll card tidak perlu membayar saat melewati pinto Tol.
   Sayang, belum semua pintu Tol yang menerima eToll card...
-<!-- ZCZC NNNN -->
+* [Plastik Urinoir](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/untuk-pembesaran-silakan-klik-foto-di.html).
+  Bagaimana pendapat anda, perihal URINOIR yang dihalangi dengan plastik transparan? Mempermudah? Mempersulit? 
+* [NL: Menambah Nomor Baris](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/menambah-nomor-baris.html).
+  Cara mudah menambahkan nomor baris ke sebuah berkas, umpamanya "program.c".
+* [Kisah RMS Titanic - 14 April 1912](https://rahmatm.samik-ibrahim.vlsm.org/2012/04/kisah-titanic.html).
+  Setelah 100 tahun kapal RMS Titanic tenggelam (14 April 1912-2012), 
+  masih saja terjadi kesimpang-siuran perihal apa yang terjadi pada malam tersebut.
+  Dari semua penjelasan yang ada, kelihatannya penjelasan Tim Maltin merupakan yang paling masuk akal, 
+  yaitu: BUKAN keteledoran.
+* [VBOXNET0 Pada Ubuntu](https://rahmatm.samik-ibrahim.vlsm.org/2012/04/vboxnet0-pada-ubuntu.html).
+  Network adapter vboxnet0 diperlukan jika kita ingin mengakses sistem tamu (guest) 
+  yang dijalankan diatas "virtualbox" dari sistem induk (host).
+* [Tiny Core Linux](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/tiny-core-linux.html)
+  (TC) merupakan sistem Linux yang sangat ringkas dan cepat.
+  TC masih dapat berfungsi pada perangkat keras dengan memori terbatas (< 100 MB!).
 * [BusyBox: wget dan proxy](https://rahmatm.samik-ibrahim.vlsm.org/2012/05/busyboxwget-dan-proxy.html).
   Bagaimana caranya menggunakan "wget" dibelakang proxy?
 * [What is Virtue](https://rahmatm.samik-ibrahim.vlsm.org/2012/06/what-is-virtue.html)?
