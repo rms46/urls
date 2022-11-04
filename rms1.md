@@ -61,12 +61,23 @@ layout: "urls"
 <br>
 ## 2012
 
-* [The First Internet Nation](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/first-internet-nation.html).
-  Some COUNTRY_A scientists were digging 50 meters under the ground.
-  They were surprised to discover small pieces of copper. 
 * [Grounded Theory](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/grounded-theory-is.html)
   --- is a general method of comparative analysis.
 <!-- ZCZC NNNN -->
+* [The First Internet Nation](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/first-internet-nation.html).
+  Some COUNTRY_A scientists were digging 50 meters under the ground.
+  They were surprised to discover small pieces of copper. 
+* [Dari Ubuntu, Kembali Ke Kubuntu...](https://rahmatm.samik-ibrahim.vlsm.org/2012/02/dari-ubuntu-kembali-ke-kubuntu.html).
+  Setelah mengalami beberapa hal yang tidak menyenyangkan dengan Ubuntu, 
+  akhirnya memutuskan untuk kembali ke Kubuntu!
+  Berikut, merupakan catatan pribadi perihal beberapa langkah tambahan setelah install.
+* [*UBUNTU: Gara-gara NTFS](https://rahmatm.samik-ibrahim.vlsm.org/2012/02/ubuntu-gara-gara-ntfs.html).
+  Apa yang mesti dilakukan jika pada saat *UBUNTU boot, muncul pesan 
+  "Serious errors were found while checking the disk drive for [AN NTFS]"? 
+  Pesan ini muncul karena NTFS (New Technology File System) bukan merupakan anggota keluarga kandung dari GNU/Linux.
+* [Tarif Drakula dari Halo Telkomsel: Rp. 5/kb](https://rahmatm.samik-ibrahim.vlsm.org/2012/02/telkomsel-halo-drakula-rp-5kb.html).
+  Ternyata, tarif GPRS (DATA) dari Telkomsel Halo ialah Rp. 5/kb. 
+  Pantesan, untuk sekedar testing login/logout saja, dapat menghabiskan sekitar Rp. 3500an!  Terlalu!
 * [Default A4 untuk LibreOffice](https://rahmatm.samik-ibrahim.vlsm.org/2012/02/default-a4-untuk-libreoffice.html).
 * [Sehari Bebas Biaya Tol](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/sehari-bebas-biaya-tol.html).
   Sekedar informasi, kemarin tanggal 7 Maret 2012, 
