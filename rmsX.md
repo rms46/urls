@@ -7,6 +7,9 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Enable/Disable MOTD (SSHD)](https://rahmatm.samik-ibrahim.vlsm.org/2011/09/enabledisable-motd-sshd.html).
+  Pada GNU/Linux secara umum -- khususnya Debian -- 
+  terdapat berbagai tempat untuk enable/disable "motd" (message of today).
 * [NL: Menambah Nomor Baris](https://rahmatm.samik-ibrahim.vlsm.org/2012/03/menambah-nomor-baris.html).
   Cara mudah menambahkan nomor baris ke sebuah berkas, umpamanya "program.c".
 * [Google Chrome Setting List](https://rahmatm.samik-ibrahim.vlsm.org/2022/10/google-chrome-setting-list.html).

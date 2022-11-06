@@ -46,12 +46,28 @@ layout: "urls"
 * [Ubuntu 11.04: Install](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/ubuntu-1104-install.html).
   Mari kita "bermaen" nginstall-nginstallan Ubuntu 11.04 :)! 
   Kita mulai dengan memboot komputer menggunakan CD Ubuntu 11.04 desktop.
+<!-- ZCZC NNNN -->
 * [Cheese: Teman Webcam Anda!](https://rahmatm.samik-ibrahim.vlsm.org/2011/07/cheese-teman-webcam-anda.html).
   Cheese merupakan sebuah perangkat lunak Gnome yang dapat merekam foto dan video dari webcam.
   Paket ini juga tersedia untuk Beagle Board Angstrom.
 * [Ibu Ke Pasar Membeli Ayam](https://rahmatm.samik-ibrahim.vlsm.org/2011/08/ibu-ke-pasar-membeli-ayam.html).
   Ibu membawa uang sebesar Rp. 100.000. Harga seekor ayam ialah Rp. 25.000. 
   Pertanyaan: Berapa ekor ayam yang dapat dibeli ibu?
+* [Angstrom: Masalah "Local Time"](https://rahmatm.samik-ibrahim.vlsm.org/2011/09/angstrom-masalah-local-time.html).
+  BeagleBoard tidak dilengkapi dengan batere, sehingga perlu ada penetapan waktu setiap kali dihidupkan. 
+  Karena itu, akan sangat membantu jika memiliki ntpserver lokal, terutama jika berada dibalik sebuah firewall.
+* [Tragedi...](https://rahmatm.samik-ibrahim.vlsm.org/2011/09/tragedi.html)
+  Sebuah kejadian dengan satu korban pun sudah dapat disebut sebagai tragedi. 
+  Namun, sebelum membesar-besarkan sebuah tragedi, silakan bandingkan dengan daftar di atas ini!
+* [Enable/Disable MOTD (SSHD)](https://rahmatm.samik-ibrahim.vlsm.org/2011/09/enabledisable-motd-sshd.html).
+  Pada GNU/Linux secara umum -- khususnya Debian -- 
+  terdapat berbagai tempat untuk enable/disable "motd" (message of today).
+* [Jam Kuda JORR](https://rahmatm.samik-ibrahim.vlsm.org/2011/10/jam-kuda-jorr.html).
+  Tarif Jalan Tol Lingkar Luar Jakarta kembali dinaikkan, atas nama "mempertahankan tingkat layanan". 
+  Janjinya, tarif akan dinaikkan pada tanggal 7 Oktober 2011 jam 0.00. 
+  Kenyataannya, "sistem waktu" dari PT Jalantol Lingkarluar Jakarta lebih cepat sekitar 10 menit!
+* [Dunkin'Donuts LA](https://rahmatm.samik-ibrahim.vlsm.org/2011/10/untuk-pembesaran-silakan-klik-foto-di.html).
+  Tulisan ini melaporkan kunjungan ke Dunkin' Donuts(R) Lenteng Agung, pada tanggal 25 Oktober 2011 pagi.
 * [Apa Gunanya Partai/Wakil Rakyat?](https://rahmatm.samik-ibrahim.vlsm.org/2011/12/apa-gunanya-partaiwakil-rakyat.html)
   Tulisan ini TENTANG IDE bahwa TEKNOLOGI INFORMASI telah memungkinkan pemangkasan peranan dari para 
   wakil rakyat dan partai.
@@ -61,9 +77,6 @@ layout: "urls"
 <br>
 ## 2012
 
-* [Grounded Theory](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/grounded-theory-is.html)
-  --- is a general method of comparative analysis.
-<!-- ZCZC NNNN -->
 * [The First Internet Nation](https://rahmatm.samik-ibrahim.vlsm.org/2012/01/first-internet-nation.html).
   Some COUNTRY_A scientists were digging 50 meters under the ground.
   They were surprised to discover small pieces of copper. 
