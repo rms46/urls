@@ -7,6 +7,11 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [pdftk: Memotong/Sambung Berkas PDF](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/pdftk-memotong-berkas-pdf.html).
+  Utilitas pdftk dapat digunakan untuk mengedit berkas PDF. 
+  Umpamanya, kita hanya memerlukan halaman 1-10 dan 20- "akhir" dari contoh.pdf untuk dijadikan buntung.pdf.
+* [e2label: Label Partisi](https://rahmatm.samik-ibrahim.vlsm.org/2011/06/e2label-label-partisi.html).
+  Perintah untuk melabel partisi disk /dev/sdb1 dengan: "LABELDISK" ialah: e2label /dev/sdb1 LABELDISK.
 * [Enable/Disable MOTD (SSHD)](https://rahmatm.samik-ibrahim.vlsm.org/2011/09/enabledisable-motd-sshd.html).
   Pada GNU/Linux secara umum -- khususnya Debian -- 
   terdapat berbagai tempat untuk enable/disable "motd" (message of today).

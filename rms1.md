@@ -47,6 +47,15 @@ layout: "urls"
   Mari kita "bermaen" nginstall-nginstallan Ubuntu 11.04 :)! 
   Kita mulai dengan memboot komputer menggunakan CD Ubuntu 11.04 desktop.
 <!-- ZCZC NNNN -->
+* [pdftk: Memotong/Sambung Berkas PDF](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/pdftk-memotong-berkas-pdf.html).
+  Utilitas pdftk dapat digunakan untuk mengedit berkas PDF. 
+  Umpamanya, kita hanya memerlukan halaman 1-10 dan 20- "akhir" dari contoh.pdf untuk dijadikan buntung.pdf. 
+* [Linux: The Black Swan Design](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/black-swan-design.html).
+  Linus menegaskan bahwa kita biasanya tidak dapat merancang sesuatu, 
+  karena sebetulnya kita tidak tahu bagaimana bentuk akhirnya. 
+  Karena itu, kita harus secara berkesinambungan selalu melakukan penyesuaian.
+* [e2label: Label Partisi](https://rahmatm.samik-ibrahim.vlsm.org/2011/06/e2label-label-partisi.html).
+  Perintah untuk melabel partisi disk /dev/sdb1 dengan: "LABELDISK" ialah: e2label /dev/sdb1 LABELDISK.
 * [Cheese: Teman Webcam Anda!](https://rahmatm.samik-ibrahim.vlsm.org/2011/07/cheese-teman-webcam-anda.html).
   Cheese merupakan sebuah perangkat lunak Gnome yang dapat merekam foto dan video dari webcam.
   Paket ini juga tersedia untuk Beagle Board Angstrom.
