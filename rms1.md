@@ -43,10 +43,13 @@ layout: "urls"
 * [Review: AHAtouch CDMA](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/review-ahatouch-cdma.html).
   Produk AHAtouch ini merupakan versi CDMA (AHA/Esia) untuk Huawei IDEOS U8150:
   murah-meriah, hanya 1.5 jeti sudah bisa bermain Andriod Froyo 2.2.
+<!-- ZCZC NNNN -->
+* [Omong Kosong Subsidi PREMIUM](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/omong-kosong-premium.html).
+  Mengapa tidak dibuatkan aturan yang jelas perihal peruntukan Premium "Subsidi" tersebut?
+  Kedua, pihak yang dinyatakan "tidak mampu" tersebut akan menggunakan Premium untuk apa?
 * [Ubuntu 11.04: Install](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/ubuntu-1104-install.html).
   Mari kita "bermaen" nginstall-nginstallan Ubuntu 11.04 :)! 
   Kita mulai dengan memboot komputer menggunakan CD Ubuntu 11.04 desktop.
-<!-- ZCZC NNNN -->
 * [Ketika MOTD muncul dobel](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/ketika-motd-muncul-dobel.html).
   Pada saat masuk ke shell, muncul pesan bohong bahwa ada paket belum di-update.
   Cara mengatasi hal ini ialah dengan mengosongkan (truncate)  berkas /etc/motd.tail.
