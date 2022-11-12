@@ -47,6 +47,15 @@ layout: "urls"
   Mari kita "bermaen" nginstall-nginstallan Ubuntu 11.04 :)! 
   Kita mulai dengan memboot komputer menggunakan CD Ubuntu 11.04 desktop.
 <!-- ZCZC NNNN -->
+* [Ketika MOTD muncul dobel](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/ketika-motd-muncul-dobel.html).
+  Pada saat masuk ke shell, muncul pesan bohong bahwa ada paket belum di-update.
+  Cara mengatasi hal ini ialah dengan mengosongkan (truncate)  berkas /etc/motd.tail.
+* [Laporan Sebuah Kegagalan](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/laporan-sebuah-kegagalan.html).
+  Pernahkah mencoba minum Kopi Manis campur Yakult?! Ternyata rasanya tidak keruan! 
+  Satu jam kemudian, (after taste) tetap tidak keruan. 
+* [Cartridge Refill For Toner](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/cartridge-refill-for-toner.html).
+  Pernahkan membaca spanduk "Terima Cartridge Kosong Dengan Harga Tinggi"?
+  Ternyata harga tinggi itu hanya sekitar beberapa puluh ribu rupiah.
 * [pdftk: Memotong/Sambung Berkas PDF](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/pdftk-memotong-berkas-pdf.html).
   Utilitas pdftk dapat digunakan untuk mengedit berkas PDF. 
   Umpamanya, kita hanya memerlukan halaman 1-10 dan 20- "akhir" dari contoh.pdf untuk dijadikan buntung.pdf. 
