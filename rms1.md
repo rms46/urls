@@ -29,21 +29,26 @@ layout: "urls"
 
 <br>
 ## 2011
+<!-- ZCZC NNNN -->
 
-* [Dirjen Gayus](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/dirjen-gayus.html).
-  Heran... Hare Gene masih menggunakan kertas dengan ukuran Folio!
-  Apakah dirjen Gayus belum pernah mendengar bahwa kebanyakan rakyat menggunakan kertas ukuran A4?
 * [Mari Bermain Android](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/mari-bermain-android.html).
   Saya biasanya membeli kamera yang ada "HP"-nya.
   Dewasa ini, Sony Ericsson Elm: lumayan murah meriah dengan resolusi 5M pixel.
   Besar kemungkinan, kamera mendatang bersistem operasi Andriod.
   Untuk sementara, mau belajar menggunakan emulator terlebih dahulu!
-* [Android, the Memo](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/android-memo.html).
-  Developing Android Applications.
+* [Dirjen Gayus](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/dirjen-gayus.html).
+  Heran... Hare Gene masih menggunakan kertas dengan ukuran Folio!
+  Apakah dirjen Gayus belum pernah mendengar bahwa kebanyakan rakyat menggunakan kertas ukuran A4?
+* [Ubuntu Unity No -- Gnome Yes](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/ubuntu-1104-unity-no-gnome-classic-yes.html).
+  Bagi penggemar Andriod, atau smart-smartan yang laen, Unity mungkin sesuatu yang mantap.  
+  Namun bagi yang sudah terbiasa Gnome Classic (setelah sebel dengan KDE4),  
+  nggak langsung terbiasa menggunakan interfes baru ini.
 * [Review: AHAtouch CDMA](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/review-ahatouch-cdma.html).
   Produk AHAtouch ini merupakan versi CDMA (AHA/Esia) untuk Huawei IDEOS U8150:
   murah-meriah, hanya 1.5 jeti sudah bisa bermain Andriod Froyo 2.2.
-<!-- ZCZC NNNN -->
+* [Wacana: SBF/ CGT](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/computers-get-together-2011.html).
+  Computers Get Together (CGT) merupakan sebuah acara ajang apresiasi seni dan kreasi, 
+  silaturahmi sekali gus reuni dari alumni seluruh angkatan Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI). 
 * [Omong Kosong Subsidi PREMIUM](https://rahmatm.samik-ibrahim.vlsm.org/2011/04/omong-kosong-premium.html).
   Mengapa tidak dibuatkan aturan yang jelas perihal peruntukan Premium "Subsidi" tersebut?
   Kedua, pihak yang dinyatakan "tidak mampu" tersebut akan menggunakan Premium untuk apa?
