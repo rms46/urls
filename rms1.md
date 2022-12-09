@@ -31,6 +31,8 @@ layout: "urls"
 ## 2011
 <!-- ZCZC NNNN -->
 
+* [Wacana Fasilitas Antar Jemput Pasien](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/wacana-fasilitas-antar-jemput-pasien.html).
+  Catatan Tambahan: Pada tahun 2011 belum ada transportasi "online".
 * [Mari Bermain Android](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/mari-bermain-android.html).
   Saya biasanya membeli kamera yang ada "HP"-nya.
   Dewasa ini, Sony Ericsson Elm: lumayan murah meriah dengan resolusi 5M pixel.
