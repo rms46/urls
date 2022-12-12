@@ -30,7 +30,18 @@ layout: "urls"
 <br>
 ## 2011
 <!-- ZCZC NNNN -->
-
+* [Dua Tahun Kemudian](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/dua-tahun-kemudian.html).
+  Apakah setelah dua tahun, terjadi kemajuan? Duh!
+* [Windows Update: Lama Sekale?!](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/windows-update-lama-sekale.html)
+  Apakah si Bill Gates et. al. nggak pernah denger istilah: apt-get update; apt-get upgrade -y;
+* [Membedakan Debian dan Ubuntu](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/membedakan-debian-dan-ubuntu.html).
+  Konteks tulisan ini BUKAN untuk membandingkan UBUNTU dan DEBIAN, 
+  melainkan hanya bagaimana cara membedakan / mengidentifikasi antara kedua distro tersebut. 
+* [System Overloaded For Dummies](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/system-overloaded-for-dummies.html).
+  Ampun, kalau sistem lagi lemot... Salah satu cara penanggulangannya ialah...
+* [CDROM "PALSU" HP P1102 (UBUNTU)](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/cdrom-palsu-hp-p1102-ubuntu.html).
+  Ubuntu: Entah karena apa, pada desktop muncul lambang "CDROM" palsu, 
+  serta printer HP Laser Jet P1102 berhenti bekerja!
 * [Wacana Fasilitas Antar Jemput Pasien](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/wacana-fasilitas-antar-jemput-pasien.html).
   Catatan Tambahan: Pada tahun 2011 belum ada transportasi "online".
 * [Mari Bermain Android](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/mari-bermain-android.html).
