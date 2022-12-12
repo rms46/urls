@@ -351,6 +351,8 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   Seberapa akuratkah cerita-cerita yang beredar?
 * [Google Chrome Setting List](https://rahmatm.samik-ibrahim.vlsm.org/2022/10/google-chrome-setting-list.html).
   Google Chrome Setting List.
+* [OpenAI: Still in Infancy](https://rahmatm.samik-ibrahim.vlsm.org/2022/12/openai-still-in-infancy.html).
+  Cape Deh (see openai.com)!
 
 <br>
 ## 2023
