@@ -26,10 +26,26 @@ layout: "urls"
   Sate Kiloan PSK... why not? 
   Lokasinya di jalan raya Lenteng Agung menjelang pintu masuk kampus Universitas Indonesia.
   Inilah laporan kunjungan pertama, dan mungkin kunjungan terakhir ke tempat tersebut.
+<!-- ZCZC NNNN -->
+* [2024: Mengharapkan Sistem Politik Seperti Apa?](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/2014-mengharapkan-sistem-politik.html)
+  Semoga 2014 lebih baik... (tidak juga). Semoga 2019 lebih baik... (tidak juga). Semoga 2024 lebih baik? Duh!
 
 <br>
 ## 2011
-<!-- ZCZC NNNN -->
+* [Mengubah waktu JPEG dengan exiv2](https://rahmatm.samik-ibrahim.vlsm.org/2011/01/mengubah-waktu-jpeg-dengan-exiv2.html).
+  Terkadang, setelah men-scan foto JPEG jadul, perlu dilakukan modifikasi tanggal pada foto JPEG tersebut. 
+  Cara termudah ialah dengan command line "exiv2."
+* [Undang-Undang Pelarangan Mengorbankan Masyarakat](https://rahmatm.samik-ibrahim.vlsm.org/2011/01/undang-undang-pelarangan-mengorbankan.html).
+  Ada baiknya dilakukan penyelidikan atas kemungkinan terjadinya pelanggaran Hak Asasi Manusia saat pemerintah menjamu tamu asing penting. 
+* [Gerhana Matahari Total - 11 Juni 1983](https://tinjari.blogspot.com/2016/12/untuk-pembesaran-silakan-klik-foto-di.html).
+  Ayo kita rayakan setiap tanggal 11-Juni sebagai "Hari Pembodohan Nasional".
+* [Tirulah Obama](https://rahmatm.samik-ibrahim.vlsm.org/2011/01/tirulah-obama.html).
+  Semoga 2014 lebih baik... (tidak juga). Semoga 2019 lebih baik... (tidak juga). Semoga 2024 lebih baik? Duh!
+* [Cara Backup Blogger Blogspot](https://rahmatm.samik-ibrahim.vlsm.org/2011/02/cara-backup-blogger-blogspot.html).
+  Cara membackup Blogspot sangat mudah.
+* [CLONE Ke HardDisk Lebih Besar](https://rahmatm.samik-ibrahim.vlsm.org/2011/02/clone-ke-harddisk-lebih-besar.html).
+  Catatan berikut ini ialah bagaimana caranya memindahkan isi DISK LAMA ke DISK BARU 
+  dengan sekalian memperbesar partisinya, tanpa harus install ulang.
 * [Dua Tahun Kemudian](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/dua-tahun-kemudian.html).
   Apakah setelah dua tahun, terjadi kemajuan? Duh!
 * [Windows Update: Lama Sekale?!](https://rahmatm.samik-ibrahim.vlsm.org/2011/03/windows-update-lama-sekale.html)
