@@ -27,6 +27,33 @@ layout: "urls"
   Lokasinya di jalan raya Lenteng Agung menjelang pintu masuk kampus Universitas Indonesia.
   Inilah laporan kunjungan pertama, dan mungkin kunjungan terakhir ke tempat tersebut.
 <!-- ZCZC NNNN -->
+* [Memperpanjang STNK di SAMSAT CIPUTAT](https://rahmatm.samik-ibrahim.vlsm.org/2010/11/memperpanjang-stnk-di-samsat-ciputat.html).
+  Kalau proses pemeriksaan manualnya dihilangkan, serta diperkenalkan prosedur SATU MEJA, 
+  mudah-mudahan di masa mendatang, proses perpanjangan STNK cukup berlangsung beberapa menit saja!
+* [Frost/Nixon (2008)](https://rahmatm.samik-ibrahim.vlsm.org/2010/11/frostnixon-2008.html).
+  "Frost/Nixon" merupakan kisah yang didramatisasi seputar upaya David Frost 
+  mewawancarai mantan presiden Richard Nixon. Film ini menarik, 
+  terutama bagi yang ingin mengetahui dibalik sebuah skandal yang dikenal dengan nama "Watergate".
+* [Quick Fix Breakfast ala RMS](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/quick-fix-breakfast-ala-rms.html).
+  Agar tidak merusak selera, sangat dianjurkan untuk sarapan tanpa membaca media/ berita dalam negeri. 
+  Jika mau baca-baca, umpamanya Newsweek saja.
+* [Soto Betawi Tulen](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/soto-betawi-tulen.html).
+  Soto Betawi Tulen, Jl Margonda Raya, sebelum ACE Hardware, seberang Depok Mall.
+* [Kalender Dinding: Ya atau Stop?!](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/kalender-dinding-ya-atau-stop.html)
+  Hare Gene, apakah masih memerlukan Kalender Dinding? 
+  Kapankah (anda/ kita) paling akhir pernah merujuk ke Kalender Dinding? 
+  Kalau merujuk ke Kalender Meja sih, masih! Namun kalau merujuk ke Kalender Dinding: Siapa Butuh?	
+* [Mengubah mode (chmod) berkas-berkas dengan perintah find](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/mengubah-mode-chmod-berkas-berkas.html).
+  Jika ingin mengubah mode direktori menjadi 755 (rwxr-xr-x) atau 
+  Jika ingin mengubah mode file menjadi 644 (rw-r--r--). 
+* [What Is Sex Like After 50?](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/what-is-sex-like-after-50.html)
+  Pada suatu jamuan di rumah orang tuanya,
+  GWB dalam keadaan setengah mabuk bertanya kepada seorang tamu wanita setengah baya yang masih cantik: 
+  "What Is Sex Like After 50?"
+* [2024: Akan Memilih Presiden Seperti Apa?](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/2014-akan-memilih-presiden-seperti-apa.html)
+  Semoga 2014 lebih baik... (tidak juga). Semoga 2019 lebih baik... (tidak juga). Semoga 2024 lebih baik? Duh!
+* [2024: Akan Memilih Partai Seperti Apa?](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/2014-akan-memilih-partai-seperti-apa.html)
+  Semoga 2014 lebih baik... (tidak juga). Semoga 2019 lebih baik... (tidak juga). Semoga 2024 lebih baik? Duh!
 * [2024: Mengharapkan Sistem Politik Seperti Apa?](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/2014-mengharapkan-sistem-politik.html)
   Semoga 2014 lebih baik... (tidak juga). Semoga 2019 lebih baik... (tidak juga). Semoga 2024 lebih baik? Duh!
 

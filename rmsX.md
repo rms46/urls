@@ -7,6 +7,9 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Mengubah mode (chmod) berkas-berkas dengan perintah find](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/mengubah-mode-chmod-berkas-berkas.html).
+  Jika ingin mengubah mode direktori menjadi 755 (rwxr-xr-x) atau
+  Jika ingin mengubah mode file menjadi 644 (rw-r--r--).
 * [pdftk: Memotong/Sambung Berkas PDF](https://rahmatm.samik-ibrahim.vlsm.org/2011/05/pdftk-memotong-berkas-pdf.html).
   Utilitas pdftk dapat digunakan untuk mengedit berkas PDF. 
   Umpamanya, kita hanya memerlukan halaman 1-10 dan 20- "akhir" dari contoh.pdf untuk dijadikan buntung.pdf.
