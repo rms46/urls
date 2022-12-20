@@ -27,6 +27,11 @@ layout: "urls"
   Lokasinya di jalan raya Lenteng Agung menjelang pintu masuk kampus Universitas Indonesia.
   Inilah laporan kunjungan pertama, dan mungkin kunjungan terakhir ke tempat tersebut.
 <!-- ZCZC NNNN -->
+* [Kolam Berenang Pribadi: Hanya Rp. 12.000](https://rahmatm.samik-ibrahim.vlsm.org/2010/10/kolam-berenang-pribadi-hanya-rp-12000.html).
+  Hanya dengan Rp. 12.000*), sudah dapat berenang puas pada hari kerja di "Monte Carlo Sport Club", Pakuan Hill, Bogor.
+* [Hallo Birokrat: Kosongkanlah Lapangan Parkirmu!](https://rahmatm.samik-ibrahim.vlsm.org/2010/11/hallo-birokrat-kosongkanlah-lapangan.html)
+  Jakarta semangkin macet... cet... cet... Berbagai wacana muncul untuk penanggulangnya! 
+  Seharusnya pemerentah mulai dengan menata dirinya sendiri dari pada omdo doang...
 * [Memperpanjang STNK di SAMSAT CIPUTAT](https://rahmatm.samik-ibrahim.vlsm.org/2010/11/memperpanjang-stnk-di-samsat-ciputat.html).
   Kalau proses pemeriksaan manualnya dihilangkan, serta diperkenalkan prosedur SATU MEJA, 
   mudah-mudahan di masa mendatang, proses perpanjangan STNK cukup berlangsung beberapa menit saja!
