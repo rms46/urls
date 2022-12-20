@@ -12,21 +12,52 @@ layout: "urls"
 <br>
 ## 2010
 
+<!-- ZCZC NNNN -->
+* [2024 yang lebih baik](https://rahmatm.samik-ibrahim.vlsm.org/2010/03/2014-yang-lebih-baik.html).
+  Semoga 2014 lebih baik... (tidak juga).
+  Semoga 2019 lebih baik... (tidak juga).
+  Semoga 2024 lebih baik? Duh!
+* [Ingin lebih Bahagia? Cobalah Linux...](https://rahmatm.samik-ibrahim.vlsm.org/2010/05/rusmanto-maryanto-dan-linux-ingin-lebih.html).
+  Menurut bapak Rusmanto Maryanto: Ingin lebih Bahagia? Cobalah Linux...
 * [Ke Bareskrim dan Poli Gigi RSCM](https://rahmatm.samik-ibrahim.vlsm.org/2010/05/ke-bareskrim-dan-poli-gigi-rscm.html).
   Pagi ini berkunjung ke BARESKRIM, POLRI.
+* [A Context Free Poem](https://rahmatm.samik-ibrahim.vlsm.org/2010/06/context-free-poem.html).
+  The woman shoots the woman.
 * [Lifebouy Handwash: Salah Rancangan](https://rahmatm.samik-ibrahim.vlsm.org/2010/06/salah-rancangan.html).
   Lazimnya, sabun cuci tangan di tempat umum berbentuk cairan.
   Gambar atas memperlihatkan contoh dari dua produk sabun cair untuk cuci tangan.
   Produk sabun sebelah kiri mungkin lebih dikenal karena terlebih dahulu tersedia di-mana-mana.
   Belakangan ini, mulai muncul produk saingan keluaran Unilever, yaitu Lifebuoy Handwash (botol kanan).
-* [Misteri Box Sampah](https://rahmatm.samik-ibrahim.vlsm.org/2010/08/misteri-box-sampah.html)
-  Terlihat sebuah tempat sampah besar, sebidang meja, pengumuman agar 
-  "tidak menempatkan sampah di atas meja", (namun ada) sampah dalam wujud box bekas makan. 
+* [MUI: Majelis Ulama Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2010/07/mui-majelis-ulama-indonesia.html).
+  Sebuah pertanyaan agak mendasar: "MUI itu apa?" 
+  Atau lebih tepatnya, bagaimana caranya untuk mendapatkan informasi rinci perihal MUI?
 * [Sate Kiloan PSK: Hello Goodbye!](https://rahmatm.samik-ibrahim.vlsm.org/2010/08/psk-hello-googbye.html).
   Sate Kiloan PSK... why not? 
   Lokasinya di jalan raya Lenteng Agung menjelang pintu masuk kampus Universitas Indonesia.
   Inilah laporan kunjungan pertama, dan mungkin kunjungan terakhir ke tempat tersebut.
-<!-- ZCZC NNNN -->
+* [Ada Apa Dengan Indonesia?](https://rahmatm.samik-ibrahim.vlsm.org/2010/08/ada-apa-dengan-indonesia.html)
+  Sementara di dalam negeri kita dihantam berita miring seperti tabung gas meledak, 
+  premium membuat mogok, bandara tanpa listrik, politikus egois, dst; masyarakat dunia sedang bingung 
+  perihal kejadian-kejadian fantastis di Indonesia. 
+* [Misteri Box Sampah](https://rahmatm.samik-ibrahim.vlsm.org/2010/08/misteri-box-sampah.html)
+  Terlihat sebuah tempat sampah besar, sebidang meja, pengumuman agar 
+  "tidak menempatkan sampah di atas meja", (namun ada) sampah dalam wujud box bekas makan. 
+* [Selamat Idul Fitri](https://rahmatm.samik-ibrahim.vlsm.org/2010/09/selamat-idul-fitri.html).
+  Taqaballahu Minna wa Minkum! 
+  Terimakasih untuk tidak lagi mengirim ucapan dengan SMS!
+* [Wajib Kunjung Luar Negeri!](https://rahmatm.samik-ibrahim.vlsm.org/2010/09/ayo-ramai-ramai-studi-banding-ke-luar.html)
+  Sebaiknya setiap pejabat atau legislator baru, diwajibkan -- sebelum dilantik -- 
+  untuk langsung melakukan studi banding ke luar negeri. 
+* [Misteri Sampah II](https://rahmatm.samik-ibrahim.vlsm.org/2010/09/misteri-sampah-ii.html).
+  Apa salahnya sih, kalau para pengelola gedung menyediakan lebih banyak tempat sampah?
+  Heran, seolah-olah tempat sampah merupakan benda yang mahal dan sulit diperoleh.
+* [Mobil Birokrat Parkir Sembarangan di Bandara Soeta](https://rahmatm.samik-ibrahim.vlsm.org/2010/10/mobil-birokrat-parkir-sembarangan-di.html).
+  Kita lihat saja kelak di akhirat, apa yang terjadi dengan birokrat sombong tersebut!
+* [Toni Jack's: Not Bad, Lah!](https://rahmatm.samik-ibrahim.vlsm.org/2010/10/toni-jacks-not-bad-lah.html)
+  Toni Jack ini, selain sedikit lebih murah, rasanya lebih "Indonesia" dibandingkan McD.
+* [The Soul of a New Machine](https://rahmatm.samik-ibrahim.vlsm.org/2010/10/soul-of-new-machine.html).
+  Ini merupakan salah satu bacaan favorit dari masa ke masa. Pertama kali diperkenalkan, 
+  ketika baru mulai bekerja (1984) di lantai 4, Pusat Ilmu Komputer, Universitas Indonesia - Salemba. 
 * [Kolam Berenang Pribadi: Hanya Rp. 12.000](https://rahmatm.samik-ibrahim.vlsm.org/2010/10/kolam-berenang-pribadi-hanya-rp-12000.html).
   Hanya dengan Rp. 12.000*), sudah dapat berenang puas pada hari kerja di "Monte Carlo Sport Club", Pakuan Hill, Bogor.
 * [Hallo Birokrat: Kosongkanlah Lapangan Parkirmu!](https://rahmatm.samik-ibrahim.vlsm.org/2010/11/hallo-birokrat-kosongkanlah-lapangan.html)
