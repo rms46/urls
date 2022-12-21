@@ -13,6 +13,9 @@ layout: "urls"
 ## 2010
 
 <!-- ZCZC NNNN -->
+* [INET95: Orang-orang Internet -- 27 tahun lalu](https://rahmatm.samik-ibrahim.vlsm.org/2010/03/orang-orang-internet-15-tahun-lalu.html)
+  Ini merupakan orang-orang Internet, 27 tahun lalu. 
+  Tulung kasih tahu, nama yang terlewatkan berikut detik keberapa tampilnya.
 * [2024 yang lebih baik](https://rahmatm.samik-ibrahim.vlsm.org/2010/03/2014-yang-lebih-baik.html).
   Semoga 2014 lebih baik... (tidak juga).
   Semoga 2019 lebih baik... (tidak juga).
