@@ -13,6 +13,15 @@ layout: "urls"
 ## 2010
 
 <!-- ZCZC NNNN -->
+* [In Memoriam Kambing.UI.AC.ID (2001-2021)](https://rahmatm.samik-ibrahim.vlsm.org/2010/02/iklan-juragan-kambinguiacid.html).
+  Penampakan pertama, tahun 2001, penampakan terakhir, tahun 2021.
+* [Patung Duryodana pengganti patung Obama](https://rahmatm.samik-ibrahim.vlsm.org/2010/02/duryodana.html).
+  Akhirnya -- patung Obama cilik di taman Menteng dipindahlan ke SDN Menteng 01, duh!
+* [Home Alone](https://rahmatm.samik-ibrahim.vlsm.org/2010/03/home-alone.html).
+  Ini merupakan hari ke dua, "grounded home alone", karena kaki keseleo. Ya begitulah, 
+  kalau hanya menjadi buruh dosen yang bekerja di sebuah lingkungan yang kurang memperhatikan keselamatan kerja.
+* [Mahabharata](https://rahmatm.samik-ibrahim.vlsm.org/2010/03/mahabharata.html).
+  Mahabharata -- epik dinasti Bharata -- lebih dari sekedar kisah sebuah dinasti besar.
 * [INET95: Orang-orang Internet -- 27 tahun lalu](https://rahmatm.samik-ibrahim.vlsm.org/2010/03/orang-orang-internet-15-tahun-lalu.html)
   Ini merupakan orang-orang Internet, 27 tahun lalu. 
   Tulung kasih tahu, nama yang terlewatkan berikut detik keberapa tampilnya.
