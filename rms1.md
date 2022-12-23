@@ -13,6 +13,19 @@ layout: "urls"
 ## 2010
 
 <!-- ZCZC NNNN -->
+* [A hopeless ISO 9001 2008 piece of s_IT](https://rahmatm.samik-ibrahim.vlsm.org/2010/01/hopeless-iso-9001-2008-piece-of-sit.html).
+  A hopeless ISO 9001 2008 piece of s*IT memiliki ciri sebagai berikut.
+* [Jurusan BAYPAAS](https://rahmatm.samik-ibrahim.vlsm.org/2010/01/jurusan-baypaas.html).
+  Siapa yang mau ke Baypaas? Silakan naik angkot berikut ini!
+* [Korupsi Sandal Jepit](https://rahmatm.samik-ibrahim.vlsm.org/2010/01/korupsi-sandal-jepit.html).
+  Ini merupakan kisah nyata perihal sekumpulan sandal jepit yang sering menghilang dari Mushola Lantai Satu, 
+  gedung C, Fasilkom UI.
+* [Penyumbat Kelancaran LaluLintas](https://rahmatm.samik-ibrahim.vlsm.org/2010/01/penyumbat-kelancaran-lalulintas.html).
+  Salah satu penyumbat lalu lintas di Ciputat ialah Bis besar yang memaksakan berputar 
+  di tengah sebuah keramaian. Setiap ada bis berputar, akan terjadi penghambatan sekitar 2 menit.
+* [Perpustakaan Terbesar di... Jalan Margonda](https://rahmatm.samik-ibrahim.vlsm.org/2010/01/perpustakaan-terbesar-di-jalan-margonda.html).
+  Akhirnya, rampung pada pertengahan 2011 pada saat World Class Library di manca negara mulai ditutup/
+  diciutkan ukurannya akibat revolusi digital.
 * [In Memoriam Kambing.UI.AC.ID (2001-2021)](https://rahmatm.samik-ibrahim.vlsm.org/2010/02/iklan-juragan-kambinguiacid.html).
   Penampakan pertama, tahun 2001, penampakan terakhir, tahun 2021.
 * [Patung Duryodana pengganti patung Obama](https://rahmatm.samik-ibrahim.vlsm.org/2010/02/duryodana.html).

@@ -222,19 +222,67 @@ layout: "urls"
   Central AC, Lemari Es, Tilpon, Televisi, Sistem Video (Bajakan?), Travel Biro, Kantor Penerbangan, 
   Apotik, Minishop, Restaurant, Bar, Newsstand, Telex, Tenis Court, dan Kolam Renang.
   Yang tidak ada: WiFi, Faksimili, YouTube, FaceBook, CNN, atau BBC.
-* [Universitas Kalifornia](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/universitas-kalifornia.html).
-  Universitas Kalifornia menaikan uang sekolah dari US$ 7788 menjadi US$ 10000.
+<!-- ZCZC NNNN -->
+* [3 in 1](https://rahmatm.samik-ibrahim.vlsm.org/2009/06/3-in-1.html).
+  Berbagai upaya untuk masuk ke dalam kawasan 3-in-1? Hm... Jakarta...
+* [Video Diri](https://rahmatm.samik-ibrahim.vlsm.org/2009/06/setahun-potret-diri.html).
+  Semenjak Mei 2008 lalu; saya berupaya memotret diri setiap hari kerja. HP yang digunakan berturut-turut: 
+  Siemens ME75 (VGA); Sony Ericsson K550i dan Elm.
+* [The Classical Customer Service Memorandum (rec.humor)](https://rahmatm.samik-ibrahim.vlsm.org/2009/06/classical-customer-service-memorandum.html).
+  Please stop submitting complaints. This is our system. We designed it, we built it, 
+  and we use it more than you do. If there are some features you think might be missing, 
+  if the system isn't as effective as you think it could be, TOUGH! Give it back, we don't need you. See figure 1.
+* [I saw IT in the MIRROR](https://rahmatm.samik-ibrahim.vlsm.org/2009/07/i-saw-it-in-mirror.html).
+  I saw IT in the MIRROR, I saw IT in my FACEBOOK, THAT I AM NO LONGER NEEDED, anyone can take my place.
+* [Michael Jackson: Come Softly To Me](https://rahmatm.samik-ibrahim.vlsm.org/2009/07/michael-jackson-come-softly-to-me.html).
+  Dooby do, damn damn, dumb de dumb de dumb...
+  Dooby do, damn damn, dumb de dumb de dumb...
+* [Kiat (Pribadi) Melawan Gejala Flu](https://rahmatm.samik-ibrahim.vlsm.org/2009/07/kiat-pribadi-melawan-gejala-flu.html).
+  Tulisan berikut ini sekedar pengalaman pribadi melawan gejala flu. 
+  Kiat ini BELUM pernah dibuktikan secara ilmiah, 
+  sehingga hanya merupakan sekedar bahan pertimbangan masing-masing saat mempersiapkan perlawanan terhadap gejala flu.
+* [Telkomsel Halo: Goodbye!?](https://rahmatm.samik-ibrahim.vlsm.org/2009/07/telkomsel-halo-goodbye.html)
+  Berdasarkan iklan yang bertubi-tubi di media, kelihatannya TELKOMSEL HALO merupakan yang paling mahal 
+  (tapi paling handal)!
+* [Hanya di Pamulang?](https://rahmatm.samik-ibrahim.vlsm.org/2009/08/hanya-di-pamulang.html)
+  Wilayah mana lagi selain Pamulang yang menyediakan fasilitas sanitas khusus anjing dan monyet?
+* [Logika Penjadwalan Kuliah](https://rahmatm.samik-ibrahim.vlsm.org/2009/08/logika-penjadwalan-kuliah.html).
+  Dari tahun ke tahun -- setiap awal semester -- sering timbul permasalahan penjadwalan kuliah; 
+  yaitu waktu kuliah bentrok.
 * [Kubuntu 9.10: Karmic Ciamik Wow!](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/ubuntu-910-alpha4-karmic-ciamik-wow.html).
   Kubuntu Versi 9.10 (Karmic Koala) ini kelihatannya kembali Ciamic! 
   Setidaknya, ini merupakan kesan pertama mencoba menginstallnya. 
 * [Memulai Era Baru](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/memulai-era-baru.html).
   Blog ini lebih merupakan tempat menuliskan catatan pribadi, walau pun publik dipersilakan untuk membacanya.
+* [Universitas Kalifornia](https://rahmatm.samik-ibrahim.vlsm.org/2009/09/universitas-kalifornia.html).
+  Universitas Kalifornia menaikan uang sekolah dari US$ 7788 menjadi US$ 10000.
 * [Jalanan di Jakarta](https://rahmatm.samik-ibrahim.vlsm.org/2009/10/joki-jakarta.html).
   Ripley's Believe Me or Not!
   Car Jockeys in Jakarta, Indonesia, 
   get paid to ride as passengers so commuters can use the express carpool lanes!
+* [Menaikkan tarif tol: Cekatan -- menangani kecelakaan: Amburadul](https://rahmatm.samik-ibrahim.vlsm.org/2009/10/menaikkan-tarif-tol-cekatan-menangani.html).
+  Truk Kaca Terbalik -- Macet di Jagorawi Mencapai Cawang, Tol JORR Kena Imbas.
+* [Kapan Tiba Di Kampus UI?](https://rahmatm.samik-ibrahim.vlsm.org/2009/10/kapan-tiba-di-kampus-ui.html)
+  Toko Besi Khusus Beton "Mega Baja" berada di sebelah kiri Jalan Raya Lenteng Agung arah menuju kampus Universitas Indonesia, Depok.
+* [INDOCOMTECH 2009](https://rahmatm.samik-ibrahim.vlsm.org/2009/11/indocomtech-2009.html).
+  Hari ini "mampir" di pameran Indocomtech 2009, dengan harapan mendapatkan informasi baru perihal "Home Networking".
+* [GIT](https://rahmatm.samik-ibrahim.vlsm.org/2009/11/git.html).
+  Git is a free & open source, distributed version control system designed to 
+  handle everything from small to very large projects with speed and efficiency.
+* [List of Little Mosque on the Prairie](https://rahmatm.samik-ibrahim.vlsm.org/2009/11/list-of-little-mosque-on-prairie.html).
+  Ada sebuah acara komedi situasi (sitcom) Kanada berjudul "Little Mosque on the Prairie" 
+  yang pada musim gugur 2009 ini telah masuk ke tahun ke empat.
+* [The Long and Windy ROAD (IPv6)](https://rahmatm.samik-ibrahim.vlsm.org/2009/11/the-long-and-windy-road.html).
+  This is a brief history of Internet routing and addressing (ROAD) evolution especially the IPng 
+  (Internet Protocol Next Generation) in the early 1990s.
+* [Milis DICK: Dihidupkan kembali?](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/milis-dick-dihidupkan-kembali.html).
+  (Almarhum) milis DICK (Data Information Communications Knowledge) dibentuk sekitar tahun 1998-an yang lalu 
+  "menggantikan" milis sebelumnya yaitu "PISSWorld". 
 * [Lulusan Perguruan Tinggi](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/tamatan-perguruan-tinggi.html).
   Apa yang kita dapat harapkan dari para lulusan perguruan tinggi? 
   Berikut beberapa cuplikan dari situs-situs perguruan tinggi pada awal Desember 2009 ini.
+* [Believe It or Not: Indonesia](https://rahmatm.samik-ibrahim.vlsm.org/2009/12/lumpur-oh-lumpur.html).
+  Susilo Bambang Yudhoyono (2010) and Mud Volcano Sidoarjo (2009).
+
 
 <br><br><br><br><br>
