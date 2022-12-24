@@ -192,7 +192,6 @@ layout: "urls"
   pak Buyung menghampiri untuk menawarkan korek api jumbo seharga IDR 2000.
 * [Uh-oh! Yahoo Email](https://rahmatm.samik-ibrahim.vlsm.org/2008/07/uh-oh-pagi-pagi-sudah-mau-dikadalin.html).
   Pagi ini menerima email dari ''Yahoo!" dengan url http://yahoo-email.com/ yang kemudian dialihkan ke login Yahoo!?
-<!-- ZCZC NNNN -->
 * [Awas Tikus!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/awas-tikus.html).
   Akhir pekan lalu, menjelang tengah malam -- ketika akan pulang -- 
   saya ''berpapasan'' di tangga dengan seekor tikus (betulan).
@@ -223,6 +222,17 @@ layout: "urls"
   Apotik, Minishop, Restaurant, Bar, Newsstand, Telex, Tenis Court, dan Kolam Renang.
   Yang tidak ada: WiFi, Faksimili, YouTube, FaceBook, CNN, atau BBC.
 <!-- ZCZC NNNN -->
+* [Pengakuan Bersalah...](https://rahmatm.samik-ibrahim.vlsm.org/2009/04/pengakuan-bersalah.html)
+  Ternyata para pembuat kebijaksanaan serta para pelaksana (eksekutif) tidak pernah tersentuh dan tidak pernah salah?!
+* [Paradigma Gratisan Masa Resesi](https://rahmatm.samik-ibrahim.vlsm.org/2009/04/paradigma-gratisan-masa-resesi.html).
+  Dalam masa resesi ini telah terjadi pengetatan terhadap definisi "potensi menguntungkan", 
+  yaitu kegiatan-kegiatan yang tidak menghasilkan uang, namun dianggap memiliki harapan suatu hari akan untung.
+* [Kembali ke MINIX](https://rahmatm.samik-ibrahim.vlsm.org/2009/05/kembali-ke-minix.html).
+  Saya mulai berkenalan dengan MINIX sudah luamaa sekale, yaitu semenjak penghujung tahun 1980-an... 
+  Pada awalnya, MINIX hanya dapat diperoleh dengan membeli disketnya pada Prentice Hall. 
+* [Tidak Layak Tidak Sama Dengan Tua!](https://rahmatm.samik-ibrahim.vlsm.org/2009/05/tidak-layak-tidak-sama-dengan-tua.html).
+  Sudah saatnya kita semua memahami perbedaan antara "tua" dan "tidak layak"! 
+  Sesuatu yang tua belum tentu tidak layak, dan yang tidak layak belum tentu sudah tua!
 * [3 in 1](https://rahmatm.samik-ibrahim.vlsm.org/2009/06/3-in-1.html).
   Berbagai upaya untuk masuk ke dalam kawasan 3-in-1? Hm... Jakarta...
 * [Video Diri](https://rahmatm.samik-ibrahim.vlsm.org/2009/06/setahun-potret-diri.html).
