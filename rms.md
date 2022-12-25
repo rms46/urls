@@ -216,12 +216,41 @@ layout: "urls"
 * [Apa KABAR?](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/apa-kabar.html).
   Kabar adalah sesuatu yang disampaikan secara lisan, tertulis, mau pun elektronis.
   Pada awalnya, nenek moyang kita menyampaikan kabar secara lisan. 
+<!-- ZCZC NNNN -->
+* [Academic Letter of Recommendation Samples](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/academic-letter-of-recommendation.html).
+  Please help yourself to assemble an Academic Letter of Recommendation. 
+* [The Haunt of Orde Baru](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/haunt-of-orde-baru.html).
+  Saat bapak Obama dilantik menjadi presiden, semua stasiun TV secara serempak menayangkan acara tersebut!
+* [Facebook Forever](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/facebook-forever.html).
+  In most countries in the Arab world, Facebook is now one of the 10 most-visited Web sites,
+  and in Egypt it ranks third, after Google and Yahoo.
 * [1978: Promosi Hotel Sahid (Jadul Banget)](https://rahmatm.samik-ibrahim.vlsm.org/2009/02/1978-jadul-banget.html).
   Tarif Hotel Sahid USD 30 per malam (50% off) dengan fasilitas: 
   Central AC, Lemari Es, Tilpon, Televisi, Sistem Video (Bajakan?), Travel Biro, Kantor Penerbangan, 
   Apotik, Minishop, Restaurant, Bar, Newsstand, Telex, Tenis Court, dan Kolam Renang.
   Yang tidak ada: WiFi, Faksimili, YouTube, FaceBook, CNN, atau BBC.
-<!-- ZCZC NNNN -->
+* [Aturan Pajak/ NPWP bagi yang berada di luar negeri](https://rahmatm.samik-ibrahim.vlsm.org/2009/02/aturan-pajak-npwp-bagi-yang-berada-di.html).
+  Berikut ini sekedar informasi perpajakan bagi yang berada di luar negeri. 
+* [Internship in Information Systems undergraduate programme](https://rahmatm.samik-ibrahim.vlsm.org/2009/02/internship-in-information-systems.html).
+  I am tasked to evaluate the internship programme of our department. 
+* [Masih Bingung Memilih Partai](https://rahmatm.samik-ibrahim.vlsm.org/2009/02/masih-bingung-memilih-partai.html).
+  Partai yang mana engkau akan pilih?
+  Partai yang mana engkau akan pilih?
+* [Nasi Uduk Pak Khotib](https://rahmatm.samik-ibrahim.vlsm.org/2009/03/nasi-uduk-pak-khotib.html).
+  Salah satu penyedia nasi uduk ialah pak Khotib Syambas yang berjualan di depan Chic Mart Kemang semejak 1991.
+* [SU (Super User): Tradisi Illini](https://rahmatm.samik-ibrahim.vlsm.org/2009/03/su-super-user-tradisi-illini.html).
+  Setiap superuser memiliki account (UID=0) dengan password yang terpisah. 
+  Umpamanya, "sujohn", "susmith", "surms", dst.
+* [Partai no 140/ caleg no 22: YES!](https://rahmatm.samik-ibrahim.vlsm.org/2009/03/partai-no-140-caleg-no-22-yes.html)
+  Sodara-sodara sebangsa dan setanah aer! Kol. Sanders adalah pilihan yang paling tepat! Hm... sedaaaaap! 
+  Jangan lupa, partai no 140, caleg no 22!
+* [Jadul Ujian Komprehensip Perioda Dua](https://rahmatm.samik-ibrahim.vlsm.org/2009/03/jadul-ujian-komprehensip-perioda-dua.html).
+  Ketika itu, sekretaris jurusan Fisika ialah bapak Lilik Hendrajaya, yang pernah juga kemudian menjadi rektor ITB.
+  Sayang sekali, beberapa nama dosen penguji telah mendahului kita semua, 
+  seperti Sri Jatno W, M. Hamron, Hans J. Wospakrik, R. Soegeng, serta juga rekan Victor M. Ratag.
+* [Earth Hour 28 Mar 2009 20:30-21:30](https://rahmatm.samik-ibrahim.vlsm.org/2009/03/earth-hour-28-mar-2009-2030-2130.html).
+  Nanti malam (28 Maret 2009; 20:30-21:30), penghuni bumi dianjurkan untuk mengurangi penghamburan energi 
+  (seperti listrik) untuk hal-hal yang tidak perlu. 
 * [Pengakuan Bersalah...](https://rahmatm.samik-ibrahim.vlsm.org/2009/04/pengakuan-bersalah.html)
   Ternyata para pembuat kebijaksanaan serta para pelaksana (eksekutif) tidak pernah tersentuh dan tidak pernah salah?!
 * [Paradigma Gratisan Masa Resesi](https://rahmatm.samik-ibrahim.vlsm.org/2009/04/paradigma-gratisan-masa-resesi.html).
