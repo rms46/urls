@@ -7,6 +7,9 @@ layout: "urls"
 
 <br id="idx10">
 ## XXX10
+* [Membaca Cepat (Speed Reading)](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/membaca-cepat-speed-reading.html).
+  Membaca cepat (speed reading) sangat bermanfaat bagi hampir siapa pun yang biasa membaca artikel, 
+  manual, blog, atau tulisan lainnya.
 * [Mengubah mode (chmod) berkas-berkas dengan perintah find](https://rahmatm.samik-ibrahim.vlsm.org/2010/12/mengubah-mode-chmod-berkas-berkas.html).
   Jika ingin mengubah mode direktori menjadi 755 (rwxr-xr-x) atau
   Jika ingin mengubah mode file menjadi 644 (rw-r--r--).

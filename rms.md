@@ -209,6 +209,18 @@ layout: "urls"
   Beginilah suasana kelas IKI40991: Seminar Bidang Sistem Informasi.
   Para peserta bebas membawa notebook ke dalam kelas.
   Pun para peserta bebas memilih alas kaki sesuai dengan kepercayaan masing-masing.
+<!-- ZCZC NNNN -->
+* [Lagu Jadul: Antonio's Song](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/lagu-jadul-antonio-song.html).
+  Wah, tiba-tiba ingat lagu jadul, Antonio's Song:
+  But sing the Song; Forgotten for so long; And let the Music flow; Like Light into the Rainbow.
+* [Ngiring Bingah](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/ngiring-bingah.html).
+  Sepatu butut, Buatan Rancaekek, Siapa Hitut, Bisi di ....
+* [Membaca Cepat (Speed Reading)](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/membaca-cepat-speed-reading.html).
+  Membaca cepat (speed reading) sangat bermanfaat bagi hampir siapa pun yang biasa membaca artikel, 
+  manual, blog, atau tulisan lainnya. 
+* [Facebook](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/facebook.html).
+  Atas desakan anak/istri/sodara; maka saya jadi ikut-ikutan ber-facebook-ria. 
+  Masalah timbul, karena saya ini sudah uzur dan banyak lupanya.
 
 <br>
 ## 2009
@@ -216,7 +228,12 @@ layout: "urls"
 * [Apa KABAR?](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/apa-kabar.html).
   Kabar adalah sesuatu yang disampaikan secara lisan, tertulis, mau pun elektronis.
   Pada awalnya, nenek moyang kita menyampaikan kabar secara lisan. 
-<!-- ZCZC NNNN -->
+* [Top 5 Lies About the Assault on Gaza](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/top-5-lies-about-assault-on-gaza.html).
+  Only targeting legitimate military sites.
+  Hamas violated the cease-fire.
+  Hamas is using human shields.
+  Arab nations have not condemned these actions.
+  Israel is not responsible for civilian deaths.
 * [Academic Letter of Recommendation Samples](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/academic-letter-of-recommendation.html).
   Please help yourself to assemble an Academic Letter of Recommendation. 
 * [The Haunt of Orde Baru](https://rahmatm.samik-ibrahim.vlsm.org/2009/01/haunt-of-orde-baru.html).
