@@ -353,6 +353,9 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   Google Chrome Setting List.
 * [OpenAI: Still in Infancy](https://rahmatm.samik-ibrahim.vlsm.org/2022/12/openai-still-in-infancy.html).
   Cape Deh (see openai.com)!
+* [BliBli: SanDisk Ultra Dual Drive 64GB](https://rahmatm.samik-ibrahim.vlsm.org/2022/12/i-have-purchased-two-sandisk-ultra-dual.html).
+  I have purchased two "Sandisk Ultra Dual Drive 64GB" flash drives online from the same online seller at BliBli.
+  It turned out that the two disks were from different distributors with different performances! 
 
 <br>
 ## 2023
