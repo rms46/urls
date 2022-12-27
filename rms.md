@@ -210,6 +210,9 @@ layout: "urls"
   Para peserta bebas membawa notebook ke dalam kelas.
   Pun para peserta bebas memilih alas kaki sesuai dengan kepercayaan masing-masing.
 <!-- ZCZC NNNN -->
+* [Tanggal 10 November ialah hari... Kamis](https://rahmatm.samik-ibrahim.vlsm.org/2008/11/tanggal-10-november-ialah-hari-kamis.html).
+  "Eh, kalau 10 November itu hari apa ya?" Percaya atau tidak, sebagian akan menjawab: 
+  "Hari Kamis" (untuk tahun 2016 ini).
 * [Lagu Jadul: Antonio's Song](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/lagu-jadul-antonio-song.html).
   Wah, tiba-tiba ingat lagu jadul, Antonio's Song:
   But sing the Song; Forgotten for so long; And let the Music flow; Like Light into the Rainbow.
@@ -218,6 +221,9 @@ layout: "urls"
 * [Membaca Cepat (Speed Reading)](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/membaca-cepat-speed-reading.html).
   Membaca cepat (speed reading) sangat bermanfaat bagi hampir siapa pun yang biasa membaca artikel, 
   manual, blog, atau tulisan lainnya. 
+* [UBUNTU 8.10 Home Network (NAT)](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/ubuntu-810-home-network-nat.html).
+  Akhirnya sadar -- setelah google sini/google sana --
+  bahwa paket network-manager ubuntu mengabaikan konfigurasi di /etc/network/interfaces. 
 * [Facebook](https://rahmatm.samik-ibrahim.vlsm.org/2008/12/facebook.html).
   Atas desakan anak/istri/sodara; maka saya jadi ikut-ikutan ber-facebook-ria. 
   Masalah timbul, karena saya ini sudah uzur dan banyak lupanya.
