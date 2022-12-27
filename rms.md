@@ -141,6 +141,7 @@ layout: "urls"
 * [Peserta Milis Tolol](https://rahmatm.samik-ibrahim.vlsm.org/2007/07/peserta-milis-tolol.html).
   Setolol-tololnya peserta milis ialah yang tidak tahu cara berhenti langganan.
   Padahal, tidak jarang pada kaki (footer) setiap email ada petunjuk untuk berhenti langganan.
+<!-- ZCZC NNNN -->
 * [Tiga Hambatan Distribusi Bahan Bebas](https://rahmatm.samik-ibrahim.vlsm.org/2007/08/tiga-hambatan-distribusi-bahan-bebas.html).
   Tiga jenis hambatan dalam pendistribusian: tidak mengaktifkan fasilitas "rsync" pada repositori,
   lebih mengutamakan tampilan dinamis, menggunakan nota Hak Cipta yang berlebihan.
@@ -158,10 +159,6 @@ layout: "urls"
   Masih banyak orang yang berpendidikan (+gaji) tinggi, tapi berlogika rendah banget.
   Apa nggak ada kerjaan lain daripada memforward isi dari satu milis (sampah) ke milis lainnya?
   Mesti bagaimana, jika menerima email dengan ciri berikut.
-* [Partisi Server Miror](https://rahmatm.samik-ibrahim.vlsm.org/2008/01/partisi-server-miror.html).
-  Berikut merupakan usulan pembakuan pembuatan partisi disk untuk keperluan server mirror (umpama si Komo).
-  Untuk meningkatkan kehandalan sistem, sebaiknya disk selalu dibagi menjadi empat (4) partisi.
-  Pada tulisan ini akan digunakan contoh disk /dev/sdd.
 * [UI DOT EDU](https://rahmatm.samik-ibrahim.vlsm.org/2008/01/ui-dot-edu.html).
   Baik ''ui.edu'' maupun ''ui.ac.id'' telah digunakan secara paralel semenjak pertengahan 
   1990-an/awal penggunaan JUITA (Jaringan Universitas Indonesia Terpadu).
@@ -180,7 +177,7 @@ layout: "urls"
 * [Ikhlas... Ikhlas...](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/ikhlas-ikhlas.html).
   Ikhlas... ikhlas...  Dua kali sehari...
 * [Fasilitas Penghapusan Sanksi Pajak Penghasilan (2008)](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/fasilitas-penghapusan-sanksi-pph.html).
-* [T04 1979?](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/t04-1979.html).
+* [T04 1979?](https://rahmatm.samik-ibrahim.vlsm.org/2008/04/t04-1979.html)
   Apakah ada yang punya daftar anggota T04 MIPA ITB 1979?
   Saya hanya punya daftar pengumuman Proyek Perintis Satu (tanpa perintis dua) neh!
 * [Pesan Barack untuk Semua!](https://rahmatm.samik-ibrahim.vlsm.org/2008/06/pesan-barack-untuk-semua.html)
@@ -192,24 +189,31 @@ layout: "urls"
   pak Buyung menghampiri untuk menawarkan korek api jumbo seharga IDR 2000.
 * [Uh-oh! Yahoo Email](https://rahmatm.samik-ibrahim.vlsm.org/2008/07/uh-oh-pagi-pagi-sudah-mau-dikadalin.html).
   Pagi ini menerima email dari ''Yahoo!" dengan url http://yahoo-email.com/ yang kemudian dialihkan ke login Yahoo!?
-* [Awas Tikus!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/awas-tikus.html).
-  Akhir pekan lalu, menjelang tengah malam -- ketika akan pulang -- 
-  saya ''berpapasan'' di tangga dengan seekor tikus (betulan).
-  Hebatnya, tikus tersebut tenang-tenang saja, tidak lari,
-  seakan yakin bahwa tidak ada yang perduli akan kehadirannya.
 * [Heil Hitler!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/heil-hitler.html).
   Pemimpin negara yang paling bertanggung-jawab atas malapetaka Perang Dunia II (PDII) adalah Dul Hitler.
   Jika kurang kenal siapa dia, silakan mengkaji sendiri kelakuannya. So what?
   Pelajaran sejarah apa yang kita dapatkan?
+* [Happy Feet](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/happy-feet.html).
+  Saya habis nonton Happy Feet, neh! Namun masih bertanya-tanya pada diri sendiri, 
+  mengapa tertarik menonton film tersebut?! 
+* [Awas Tikus!](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/awas-tikus.html)
+  Akhir pekan lalu, menjelang tengah malam -- ketika akan pulang -- 
+  saya ''berpapasan'' di tangga dengan seekor tikus (betulan).
+  Hebatnya, tikus tersebut tenang-tenang saja, tidak lari,
+  seakan yakin bahwa tidak ada yang perduli akan kehadirannya.
+* [Pamulangians Mengenang Pemilu 7 Juni 1999](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/pamulangians-mengenang-pemilu-7-juni.html).
+  Merekam bagaimana Pamulangians (warga Pamulang) menyongsong pelaksanaan pesta demokrasi 1999 tersebut. 
+* [Diambang Ramadan](https://rahmatm.samik-ibrahim.vlsm.org/2008/08/diambang-ramadan.html).
+  Wahai orang-orang yang beriman, telah diwajibkan ke atas kamu berpuasa sebagaimana telah diwajibkan 
+  ke atas umat-umat yang sebelum kamu, semoga kamu menjadi orang-orang yang bertaqwa (Q2:183).
 * [PC Murah: Hanya Seratus Rebu!](https://rahmatm.samik-ibrahim.vlsm.org/2008/09/pc-murah-hanya-seratus-rebu.html).
   PC murah! Multi-Core 5 GHz, FSB 10000, 1 TB RAM, WiFi, dst... Ayo, ayo! Hanya Rp. 100.000!
-* [Pesan Sumpah Pemuda dari Bang Onno](https://rahmatm.samik-ibrahim.vlsm.org/2008/10/pesan-sumpah-pemuda-dari-bang-onno.html).
-  Buku pelajaran TIK SMA.
 * [Seminar Santai (Ver 2.0)](https://rahmatm.samik-ibrahim.vlsm.org/2008/10/seminar-santai-ver-20.html).
   Beginilah suasana kelas IKI40991: Seminar Bidang Sistem Informasi.
   Para peserta bebas membawa notebook ke dalam kelas.
   Pun para peserta bebas memilih alas kaki sesuai dengan kepercayaan masing-masing.
-<!-- ZCZC NNNN -->
+* [Pesan Sumpah Pemuda dari Bang Onno](https://rahmatm.samik-ibrahim.vlsm.org/2008/10/pesan-sumpah-pemuda-dari-bang-onno.html).
+  Buku pelajaran TIK SMA.
 * [Tanggal 10 November ialah hari... Kamis](https://rahmatm.samik-ibrahim.vlsm.org/2008/11/tanggal-10-november-ialah-hari-kamis.html).
   "Eh, kalau 10 November itu hari apa ya?" Percaya atau tidak, sebagian akan menjawab: 
   "Hari Kamis" (untuk tahun 2016 ini).
