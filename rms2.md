@@ -359,6 +359,11 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 
 <br>
 ## 2023
+<!-- ZCZC NNNN -->
+* [Resolusi 2023++: Tafsir Al-Azhar](https://rahmatm.samik-ibrahim.vlsm.org/2023/01/resolusi-2023-tafsir-al-azhar.html).
+  Untuk resolusi 2023, saya merencanakan untuk memulai kembali membaca Tafsir Al-Azhar tersebut.
+  Dengan estimasi membaca rata-rata 50 halaman per minggu (atau 10 halaman per hari) --- insya Allah --- 
+  sekitar 8200 halaman akan dirampungkan dalam 3 tahun!
 
 <br>
 ## 2024
