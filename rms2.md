@@ -364,6 +364,8 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   Untuk resolusi 2023, saya merencanakan untuk memulai kembali membaca Tafsir Al-Azhar tersebut.
   Dengan estimasi membaca rata-rata 50 halaman per minggu (atau 10 halaman per hari) --- insya Allah --- 
   sekitar 8200 halaman akan dirampungkan dalam 3 tahun!
+* [Resolusi 2023++: Jalan-jalan Pagi](https://rahmatm.samik-ibrahim.vlsm.org/2023/01/disclaimer-this-is-how-me-do-it-grrr.html).
+  Semoga, bisa jalan jalan pagi untuk sepanjang 2023 ini.
 
 <br>
 ## 2024
