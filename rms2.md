@@ -366,6 +366,10 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   sekitar 8200 halaman akan dirampungkan dalam 3 tahun!
 * [Resolusi 2023++: Jalan-jalan Pagi](https://rahmatm.samik-ibrahim.vlsm.org/2023/01/disclaimer-this-is-how-me-do-it-grrr.html).
   Semoga, bisa jalan jalan pagi untuk sepanjang 2023 ini.
+* [Bank Sampah PKK RW14 Pamulang Permai](https://rahmatm.samik-ibrahim.vlsm.org/2023/01/bank-sampah-pkk-rw14-pamulang-permai.html).
+  Tabungan Sampah dilakukan setiap Kamis kedua oleh ibu-ibu PKK RW14, Pamulang Permai, Tangerang Selatan. 
+  Sampah untuk daur ulang, terdiri dari plastik dan kertas/kardus. 
+  Kegiatan ini juga dikenal dengan nama Bank Sampah.
 
 <br>
 ## 2024
