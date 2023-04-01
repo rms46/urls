@@ -3,6 +3,8 @@ layout: "urls"
 ---
 
 ||
+| [Islamic-Awareness.org](https://www.islamic-awareness.org/) |
+| [Muslim Scholar Database](http://muslimscholars.info/) |
 | [Muslim Matters](https://muslimmatters.org/) |
 | [YBT: Blogging Theology](https://www.youtube.com/c/BloggingTheology/videos) | [YBT:Quran and Science](https://youtu.be/cpZt8DUfLMc) |
 | [Y: The Prophet's Prayer](https://www.youtube.com/watch?v=vx1rz-28HNk) | [Philosophy In The Islamic World](https://historyofphilosophy.net/intro-islamic-world) |
