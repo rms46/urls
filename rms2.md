@@ -370,6 +370,12 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   Tabungan Sampah dilakukan setiap Kamis kedua oleh ibu-ibu PKK RW14, Pamulang Permai, Tangerang Selatan. 
   Sampah untuk daur ulang, terdiri dari plastik dan kertas/kardus. 
   Kegiatan ini juga dikenal dengan nama Bank Sampah.
+* [The Sahih Al-Bukhari Numbering Systems](https://rahmatm.samik-ibrahim.vlsm.org/2023/04/the-sahih-al-bukhari-numbering-systems.html).
+  Some "Sahih Al-Bukhari" scholars and publishers have used different numbering systems over the years, 
+  which can sometimes confuse us when referencing specific Hadiths.
+* [Windows: Installing and Upgrading PowerShell with winget](https://rahmatm.samik-ibrahim.vlsm.org/2023/04/windows-installing-and-upgrading.html).
+  winget install --id Microsoft.Powershell --source winget
+
 
 <br>
 ## 2024

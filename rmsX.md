@@ -201,6 +201,9 @@ layout: "urls"
   First, you should make sure about what the source of the problem is.
 * [Windows 10: HIBERNATE OFF](https://rahmatm.samik-ibrahim.vlsm.org/2018/07/windows-10-hibernate-off.html).
   Cara mematikan hibernasi pada Windows 10 dengan menjalankan "PowerShell" sebagai administrator.
+* [Windows: Installing and Upgrading PowerShell with winget](https://rahmatm.samik-ibrahim.vlsm.org/2023/04/windows-installing-and-upgrading.html).
+  winget install --id Microsoft.Powershell --source winget
+
 
 <br id="idx50">
 ## Teknologi Informasi Indonesia
