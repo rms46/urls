@@ -375,6 +375,7 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   which can sometimes confuse us when referencing specific Hadiths.
 * [Windows: Installing and Upgrading PowerShell with winget](https://rahmatm.samik-ibrahim.vlsm.org/2023/04/windows-installing-and-upgrading.html).
   winget install --id Microsoft.Powershell --source winget
+* [Popeyes LA](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/popeyes-la.html) --- Akibat pandemi, KFC LA Terrace tidak lagi buka 24 jam. KFC 24 Jam terdekat sepertinya di Pondok Indah. Kini, di Jalan Raya Lenteng Agung arah Depok baru dibuka sebuah gerai Popeyes Chicken. 
 
 
 <br>
