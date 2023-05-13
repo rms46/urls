@@ -376,7 +376,7 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Windows: Installing and Upgrading PowerShell with winget](https://rahmatm.samik-ibrahim.vlsm.org/2023/04/windows-installing-and-upgrading.html).
   winget install --id Microsoft.Powershell --source winget
 * [Popeyes LA](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/popeyes-la.html) --- Akibat pandemi, KFC LA Terrace tidak lagi buka 24 jam. KFC 24 Jam terdekat sepertinya di Pondok Indah. Kini, di Jalan Raya Lenteng Agung arah Depok baru dibuka sebuah gerai Popeyes Chicken. 
-
+* [Kisah Dua MoGeErs](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/kisah-dua-mogeers.html) --- Dua MoGe-ers sedang jalan-jalan menuju hutan yang lebat. Ditengah hutan lebat, mereka baru sadar lupa membawa kompas dan ponsel. Padahal mereka mau sholat. Masing-masing ijtihad untuk menentukan arah kiblat. Namun, hasilnya, berbeda 180 derajat!
 
 <br>
 ## 2024
