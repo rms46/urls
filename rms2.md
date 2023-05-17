@@ -378,6 +378,8 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Popeyes LA](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/popeyes-la.html) --- Akibat pandemi, KFC LA Terrace tidak lagi buka 24 jam. KFC 24 Jam terdekat sepertinya di Pondok Indah. Kini, di Jalan Raya Lenteng Agung arah Depok baru dibuka sebuah gerai Popeyes Chicken. 
 * [Kisah Dua MoGeErs](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/kisah-dua-mogeers.html) --- Dua MoGe-ers sedang jalan-jalan menuju hutan yang lebat. Ditengah hutan lebat, mereka baru sadar lupa membawa kompas dan ponsel. Padahal mereka mau sholat. Masing-masing ijtihad untuk menentukan arah kiblat. Namun, hasilnya, berbeda 180 derajat!
 * [Serangan Siber Masih Menjadi Ancaman (Kompas)](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/serangan-siber-masih-menjadi-ancaman.html) --- Data sebesar 1,5 terabita yang di antaranya berisi data pribadi 15 juta pelanggan dan pegawai BSI diduga dicuri oleh kelompok peretas. 
+* [Radion Baru Mencuci Sendiri](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/radion-baru-mencuci-sendiri.html) ---
+Radion baru, busanya berlimpah-limpah. Radion baru, mencuci sendiri (Iklan Radio tahun 1960an).
 
 <br>
 ## 2024
