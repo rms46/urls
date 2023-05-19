@@ -380,6 +380,8 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 * [Serangan Siber Masih Menjadi Ancaman (Kompas)](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/serangan-siber-masih-menjadi-ancaman.html) --- Data sebesar 1,5 terabita yang di antaranya berisi data pribadi 15 juta pelanggan dan pegawai BSI diduga dicuri oleh kelompok peretas. 
 * [Radion Baru Mencuci Sendiri](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/radion-baru-mencuci-sendiri.html) ---
 Radion baru, busanya berlimpah-limpah. Radion baru, mencuci sendiri (Iklan Radio tahun 1960an).
+* [Ai Business micro Computer Model 20 (ABC-20)](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/ai-business-micro-computer-model-20-abc.html) ---
+In the early 1980s, an ABC-20 microcomputer was in the Electronic Lab, Department. of Physics, ITB. ABC-20 was a product by AI Electronics Corp, Japan (Ai Denshi Sokki Kabushiki Gaisha).
 
 <br>
 ## 2024
