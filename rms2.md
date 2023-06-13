@@ -382,6 +382,12 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
 Radion baru, busanya berlimpah-limpah. Radion baru, mencuci sendiri (Iklan Radio tahun 1960an).
 * [Ai Business micro Computer Model 20 (ABC-20)](https://rahmatm.samik-ibrahim.vlsm.org/2023/05/ai-business-micro-computer-model-20-abc.html) ---
 In the early 1980s, an ABC-20 microcomputer was in the Electronic Lab, Department. of Physics, ITB. ABC-20 was a product by AI Electronics Corp, Japan (Ai Denshi Sokki Kabushiki Gaisha).
+* [SH*T HAPPENS II](https://rahmatm.samik-ibrahim.vlsm.org/2023/06/sht-happens-ii.html) ---
+Something is announcing its presence in the hallway of my room, which is no longer as flourishing as before COVID.
+* [Popeyes Goes Open Source (Ubuntu)](https://rahmatm.samik-ibrahim.vlsm.org/2023/06/popeyes-goes-open-source-ubuntu.html) ---
+There's a new option at Popeyes: "Software Updater." I have no idea how it tastes, so I ordered (installed) it! Too long to wait!
+
+
 
 <br>
 ## 2024
