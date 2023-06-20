@@ -386,6 +386,11 @@ In the early 1980s, an ABC-20 microcomputer was in the Electronic Lab, Departmen
 Something is announcing its presence in the hallway of my room, which is no longer as flourishing as before COVID.
 * [Popeyes Goes Open Source (Ubuntu)](https://rahmatm.samik-ibrahim.vlsm.org/2023/06/popeyes-goes-open-source-ubuntu.html) ---
 There's a new option at Popeyes: "Software Updater." I have no idea how it tastes, so I ordered (installed) it! Too long to wait!
+* [The Prisoner (1917)](https://rahmatm.samik-ibrahim.vlsm.org/2023/06/the-prisoner-1967.html) ---
+"The Prisoner" is a British television series created by Patrick McGoohan in 1967.
+The story revolves around a former secret agent, "Number Six," who finds himself trapped in 
+a mysterious seaside village after resigning from his position. Constantly monitored and devoid of personal identity, 
+Number Six navigates a surreal world where he struggles to maintain his individuality and freedom.
 
 
 
