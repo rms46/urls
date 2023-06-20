@@ -391,6 +391,9 @@ There's a new option at Popeyes: "Software Updater." I have no idea how it taste
 The story revolves around a former secret agent, "Number Six," who finds himself trapped in 
 a mysterious seaside village after resigning from his position. Constantly monitored and devoid of personal identity, 
 Number Six navigates a surreal world where he struggles to maintain his individuality and freedom.
+* [Bersama Guru SMA](https://rahmatm.samik-ibrahim.vlsm.org/2023/06/bersama-guru-sma.html) ---
+Foto ini diambil di kawah gunung Tangkuban Perahu pada tahun 1979 lalu. 
+Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogor.
 
 
 
