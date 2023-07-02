@@ -17,7 +17,7 @@ layout: "urls"
 | [SpeedTest](https://www.comparitech.com/internet-providers/speed-test/) | [Sunah.com](https://sunnah.com/) | [Y: SpeedReading](https://youtu.be/RmmQyE00vl4/) |
 ||
 | [Security Tutorial](https://riseup.net/en/security) | [Security Cain and Abel](https://www.youtube.com/watch?v=EGlq6J1E7no) | [Strength Test](http://rumkin.com/tools/password/passchk.php) |
-| [S: Password Generator](https://www.lastpass.com/features/password-generator#generatorTool) | [S: Security Check](https://myaccount.google.com/security-checkup) | [S: Google Security](https://myaccount.google.com/security) | 
+| [S: Password Generator](https://www.lastpass.com/features/password-generator#generatorTool) | [S: Security Check](https://myaccount.google.com/security-checkup) | [S: Google Security](https://myaccount.google.com/security) | [Y: Google Privacy Setting](https://youtu.be/oQn7CIOgW0g) |
 ||
 | [Play List](https://www.youtube.com/playlist?list=PLBSbnqa_elVtZHIifu6EQody-AYNTOEq0) |
 | [Speed Reading](https://youtu.be/RmmQyE00vl4) |
