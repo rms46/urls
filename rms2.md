@@ -395,7 +395,7 @@ Number Six navigates a surreal world where he struggles to maintain his individu
 Foto ini diambil di kawah gunung Tangkuban Perahu pada tahun 1979 lalu. 
 Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogor.
 * [Kulkas Kosong Bunyinya Nyaring](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/kulkas-kosong-bunyinya-nyaring.html) --- Berikut, cuplikan tulisan "Neli Triana" di Kompas.id, Minggu, 9 Juli 2023, halaman 4: "Belanja dan Belanja, tetapi Kulkas Tak Juga Penuh."
-
+* [Rahmat Daud Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/rahmat-daud-samik-ibrahim-1964-2023.html) --- 13 Agustus 1964 - 16 Juli 2023.
 
 
 <br>
