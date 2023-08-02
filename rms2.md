@@ -397,6 +397,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [Kulkas Kosong Bunyinya Nyaring](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/kulkas-kosong-bunyinya-nyaring.html) --- Berikut, cuplikan tulisan "Neli Triana" di Kompas.id, Minggu, 9 Juli 2023, halaman 4: "Belanja dan Belanja, tetapi Kulkas Tak Juga Penuh."
 * [Rahmat Daud Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/rahmat-daud-samik-ibrahim-1964-2023.html) --- 13 Agustus 1964 - 16 Juli 2023.
 * [1984-2023](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/1984-2023.html) --- 29 Juli 1984.
+* [Membakar Sampah](https://rahmatm.samik-ibrahim.vlsm.org/2023/08/membakar-sampah.html) --- UU no 32/2009.
 
 
 <br>
