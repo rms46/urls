@@ -398,7 +398,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [Rahmat Daud Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/rahmat-daud-samik-ibrahim-1964-2023.html) --- 13 Agustus 1964 - 16 Juli 2023.
 * [1984-2023](https://rahmatm.samik-ibrahim.vlsm.org/2023/07/1984-2023.html) --- 29 Juli 1984.
 * [Membakar Sampah](https://rahmatm.samik-ibrahim.vlsm.org/2023/08/membakar-sampah.html) --- UU no 32/2009.
-
+* [GRUB_DISABLE_OS_PROBER: dual boot Linux Windows](https://rahmatm.samik-ibrahim.vlsm.org/2023/08/grubdisableosprober-dual-boot-linux.html) --- Duh: os-prober is now disabled 
+  and therefore doesn’t discover Windows anymore.
+  You need to change in file /etc/default/grub:
+  GRUB_DISABLE_OS_PROBER=true
 
 <br>
 ## 2024
