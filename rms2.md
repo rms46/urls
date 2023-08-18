@@ -402,6 +402,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   and therefore doesn’t discover Windows anymore.
   You need to change in file /etc/default/grub:
   GRUB_DISABLE_OS_PROBER=true
+* [Kompas: Belum Saatnya Melepas Masker](https://rahmatm.samik-ibrahim.vlsm.org/2023/08/kompas-belum-saatnya-melepas-masker.html) --- Penggunaan masker saat beraktivitas di luar ruang perlu kembali dilakukan ketika polusi udara masih buruk. Hal ini untuk mencegah sejumlah penyakit (Kompas).
 
 <br>
 ## 2024
