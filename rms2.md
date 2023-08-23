@@ -403,6 +403,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   You need to change in file /etc/default/grub:
   GRUB_DISABLE_OS_PROBER=true
 * [Kompas: Belum Saatnya Melepas Masker](https://rahmatm.samik-ibrahim.vlsm.org/2023/08/kompas-belum-saatnya-melepas-masker.html) --- Penggunaan masker saat beraktivitas di luar ruang perlu kembali dilakukan ketika polusi udara masih buruk. Hal ini untuk mencegah sejumlah penyakit (Kompas).
+* [Kompas: Partai Politik Terkonsolidasi Pilihan Calon Presiden ]https://rahmatm.samik-ibrahim.vlsm.org/2023/08/kompas-partai-politik.html) --- 
+  Elektabilitas partai politik terus menguat di tengah dinamika elite politik yang saling unjuk strategi 
+  koalisi dalam mengusung capres. Dalam persaingan yang semakin ketat, 
+  partai besar pengusung capres cenderung memperoleh benefit elektoral ketimbang parpol menengah.
 
 <br>
 ## 2024
