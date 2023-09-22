@@ -9,7 +9,7 @@ layout: "urls"
 | [2016](rms1.md#2016) | [2017](rms1.md#2017) | [2018](rms1.md#2018) | [2019](rms1.md#2019) | [2020](rms2.md#2020) |
 | [2021](rms2.md#2021) | [2022](rms2.md#2022) | [2023](rms2.md#2023) | [2024](rms2.md#2024) | [2025](rms2.md#2025) |
 
-<br>
+[&#x213C;](#)<br id="idx20">
 ## 2020
 
 * [Permasalahan Kemasan Obat Blister Dan Strip](https://rahmatm.samik-ibrahim.vlsm.org/2020/01/permasalahan-kemasan-obat-blister-dan.html).
@@ -105,7 +105,7 @@ layout: "urls"
   Niatnya sih, ini akan merupakan tempat pengumpulan posting seputar Teknologi Informasi Indonesia 2010-2020. Langkah awalnya, posting judulnya saja.
   Entah kapan, posting ini akan diisi. Apalagi, entah kapan, tulisan ini akan rampung!
 
-<br>
+[&#x213C;](#)<br id="idx21">
 ## 2021
 
 * [How to contact Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/how-to-contact-rahmat-m-samik-ibrahim.html).
@@ -260,7 +260,7 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   It even happens to GitHub.com. On Sunday, 28-Nov-2021 03:43 UTC+7, 
   GitHub.com has started investigating reports of degraded performance for GitHub Actions.
 
-<br>
+[&#x213C;](#)<br id="idx22">
 ## 2022
 
 * [GitHub Metadata: No GitHub API authentication could be found](https://rahmatm.samik-ibrahim.vlsm.org/2022/02/github-metadata-no-github-api.html).
@@ -357,7 +357,7 @@ Pemilik WhatsApp yang baru mengabaikan ketentuan lama dari pemilik lama dan deng
   I have purchased two "Sandisk Ultra Dual Drive 64GB" flash drives online from the same online seller at BliBli.
   It turned out that the two disks were from different distributors with different performances! 
 
-<br>
+[&#x213C;](#)<br id="idx23">
 ## 2023
 <!-- ZCZC NNNN -->
 * [Resolusi 2023++: Tafsir Al-Azhar](https://rahmatm.samik-ibrahim.vlsm.org/2023/01/resolusi-2023-tafsir-al-azhar.html).
@@ -408,10 +408,11 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   koalisi dalam mengusung capres. Dalam persaingan yang semakin ketat, 
   partai besar pengusung capres cenderung memperoleh benefit elektoral ketimbang parpol menengah.
 * [Kompas: Polusi Udara Perpendek Usia Warga Kota 4,3 Tahun](https://rahmatm.samik-ibrahim.vlsm.org/2023/09/kompas-polusi-udara-perpendek-usia.html) --- Polusi udara memendekkan harapan hidup warga di 18 kota metropolitan Indonesia rata-rata 4,3 tahun. Warga Depok paling banyak berkurang angka harapan hidupnya, yakni 6,6 tahun.
-<br>
+
+[&#x213C;](#)<br id="idx24">
 ## 2024
 
-<br>
+[&#x213C;](#)<br id="idx25">
 ## 2025
 
 <br><br><br><br><br>
