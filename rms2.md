@@ -407,7 +407,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Elektabilitas partai politik terus menguat di tengah dinamika elite politik yang saling unjuk strategi 
   koalisi dalam mengusung capres. Dalam persaingan yang semakin ketat, 
   partai besar pengusung capres cenderung memperoleh benefit elektoral ketimbang parpol menengah.
-
+* [Kompas: Polusi Udara Perpendek Usia Warga Kota 4,3 Tahun](https://rahmatm.samik-ibrahim.vlsm.org/2023/09/kompas-polusi-udara-perpendek-usia.html) --- Polusi udara memendekkan harapan hidup warga di 18 kota metropolitan Indonesia rata-rata 4,3 tahun. Warga Depok paling banyak berkurang angka harapan hidupnya, yakni 6,6 tahun.
 <br>
 ## 2024
 
