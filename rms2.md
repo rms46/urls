@@ -408,6 +408,9 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   koalisi dalam mengusung capres. Dalam persaingan yang semakin ketat, 
   partai besar pengusung capres cenderung memperoleh benefit elektoral ketimbang parpol menengah.
 * [Kompas: Polusi Udara Perpendek Usia Warga Kota 4,3 Tahun](https://rahmatm.samik-ibrahim.vlsm.org/2023/09/kompas-polusi-udara-perpendek-usia.html) --- Polusi udara memendekkan harapan hidup warga di 18 kota metropolitan Indonesia rata-rata 4,3 tahun. Warga Depok paling banyak berkurang angka harapan hidupnya, yakni 6,6 tahun.
+* [H.M. Hefner and N.J. Mortenson](https://rahmatm.samik-ibrahim.vlsm.org/2023/09/hm-hefner-adn-nj-mortenson.html) ---
+  Hugh Marston Hefner and Norma Jeane Mortenson (Marilyn Monroe) were born in 1926. 
+  Both are buried at Pierce Brothers Westwood Village Memorial Park and Mortuary, LA.
 
 [&#x213C;](#)<br id="idx24">
 ## 2024
