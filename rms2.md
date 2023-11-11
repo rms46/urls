@@ -413,6 +413,11 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Both are buried at Pierce Brothers Westwood Village Memorial Park and Mortuary, LA.
 * [Antara 1969 dan 2023](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/antara-1969-dan-2023.html) --- 
   Bandingkan catatan harian Ahmad Wahib bertanggal 24 Agustus 1969 dengan artikel Kompas, 4 November 2023.
+* [Kompas: Penyebaran Global Cacar Monyet](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/kompas-penyebaran-global-cacar-monyet.html) ---
+  Penyebaran penyakit cacar monyet terus meluas. 
+  Juli 2023, WHO telah meningkatkan status wabah ”monkey-pox” ini menjadi 
+  Kedaruratan Kesehatan Masyarakat yang Meresahkan Dunia 
+  (”Public Health Emergency of International Concern”).
 
 [&#x213C;](#)<br id="idx24">
 ## 2024
