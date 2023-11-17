@@ -418,6 +418,12 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Juli 2023, WHO telah meningkatkan status wabah ”monkey-pox” ini menjadi 
   Kedaruratan Kesehatan Masyarakat yang Meresahkan Dunia 
   (”Public Health Emergency of International Concern”).
+* [Tentang Gerakan Mahasiswa](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/tentang-gerakan-mahasiswa.html) ---
+  Gerakan mahasiswa di Indonesia tidak pernah siap dalam menghadapi situasi kritis.
+  Kekuatan revolusioner dari mahasiswa selalu gagal dalam merebut pimpinan dan memimpin inisiatif 
+  di saat-saat genting yang menentukan.
+  Cobalah kita perhatikan apa yang terjadi pada proklamasi 1945 dan Maret 1966.
+
 
 [&#x213C;](#)<br id="idx24">
 ## 2024
