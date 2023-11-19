@@ -423,6 +423,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Kekuatan revolusioner dari mahasiswa selalu gagal dalam merebut pimpinan dan memimpin inisiatif 
   di saat-saat genting yang menentukan.
   Cobalah kita perhatikan apa yang terjadi pada proklamasi 1945 dan Maret 1966.
+* [Internet Indonesia di tahun 1980an (komentar)](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/internet-indonesia-di-tahun-1980.html) --- Berikut kutipan komentar dari sebuah video YouTube yang berjudul "PELOPOR INTERNET DI INDONESIA".
 
 
 [&#x213C;](#)<br id="idx24">
