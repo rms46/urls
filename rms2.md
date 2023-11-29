@@ -427,6 +427,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [Offline Meetings](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/offline-meetings.html) ---
   I met less and less offline after this pandemic. However, I am interested in meetings with a limited number. 
   It means there will probably be no more large-scale "REUNIONS" attending.
+* [Wartawan 1972 vs Kini?!](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/wartawan-1972-vs-kini.html) ---
+  Apakah ada perbedaan antara wartawan tahun 1972 dan kini?
 
 
 [&#x213C;](#)<br id="idx24">
