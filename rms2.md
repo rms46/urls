@@ -434,6 +434,11 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Memahami "Landasan Teori" serta "Bahasa Inggris" merupakan problem lama, dan tetap menjadi problem di tahun 2023 ini.
 * [Kompas: Layanan Servis Xiaomi](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/kompas-layanan-servis-xiaomi.html) ---
   Tidak puas dengan layanan Xiaomi? Ya jangan lagi beli Xiaomi!
+* [KOMPAS: Visi/Misi Para Ca(Wa)Pres](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/kompas-visimisi-para-cawapres.html) ---
+  Pertama-tama, berikut ini sepenuhnya komentar atas "KLAIM" visi/misi para Ca(Wa)Pres. 
+  Jadi, TIDAK merupakan dukungan atas kontestan tertentu.
+  Kedua-dua, tentu saja perlu disadari, visi/misi yang tertulis ini merupakan OMDO (Omong Doang).
+  Jadi, bisa jadi, TIDAK mencerminkan apa yang akan dijalankan oleh para pemenang pemilu 2024 yang akan datang.
 
 
 [&#x213C;](#)<br id="idx24">
