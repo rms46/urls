@@ -430,6 +430,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [Wartawan 1972 vs Kini?!](https://rahmatm.samik-ibrahim.vlsm.org/2023/11/wartawan-1972-vs-kini.html) ---
   Apakah ada perbedaan antara wartawan tahun 1972 dan kini?
 * [OS232: Operating Systems 2023 part 2](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/os232-operating-systems-2023-part-2.html) --- WEEK10: 30 Nov 2023.
+* [Problem Klasik: Landasan Teori dan Bahasa Inggris](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/problem-klasik-landasan-teori-dan.html) ---
+  Memahami "Landasan Teori" serta "Bahasa Inggris" merupakan problem lama, dan tetap menjadi problem di tahun 2023 ini.
 
 
 [&#x213C;](#)<br id="idx24">
