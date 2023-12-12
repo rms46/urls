@@ -439,6 +439,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Jadi, TIDAK merupakan dukungan atas kontestan tertentu.
   Kedua-dua, tentu saja perlu disadari, visi/misi yang tertulis ini merupakan OMDO (Omong Doang).
   Jadi, bisa jadi, TIDAK mencerminkan apa yang akan dijalankan oleh para pemenang pemilu 2024 yang akan datang.
+* [KOMPAS: Biaya Hidup Naik Rp 1 Juta-Rp 1,5 Juta](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/kompas-biaya-hidup-naik-rp-1-juta-rp-15.html) ---
+  Dalam empat tahun terakhir, nilai konsumsi rata-rata atau biaya hidup rumah tangga per bulan di 
+  Indonesia naik di kisaran Rp 1 juta hingga Rp 1,5 juta. 
+  Hal itu tecermin dari 10 kota dengan biaya hidup tertinggi.
 
 
 [&#x213C;](#)<br id="idx24">
