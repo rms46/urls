@@ -443,6 +443,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Dalam empat tahun terakhir, nilai konsumsi rata-rata atau biaya hidup rumah tangga per bulan di 
   Indonesia naik di kisaran Rp 1 juta hingga Rp 1,5 juta. 
   Hal itu tecermin dari 10 kota dengan biaya hidup tertinggi.
+* [KOMPAS: 54 Juta Non Aktif JKN-KIS](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/kompas-54-juta-non-aktif-jkn-kis.html) --- Puluhan juta peserta JKN-KIS terancam tidak mendapatkan perlindungan kesehatan dan tidak bisa mengakses layanan kesehatan karena menunggak iuran atau mutasi kepesertaan.
 
 
 [&#x213C;](#)<br id="idx24">
