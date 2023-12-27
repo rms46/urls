@@ -444,6 +444,17 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Indonesia naik di kisaran Rp 1 juta hingga Rp 1,5 juta. 
   Hal itu tecermin dari 10 kota dengan biaya hidup tertinggi.
 * [KOMPAS: 54 Juta Non Aktif JKN-KIS](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/kompas-54-juta-non-aktif-jkn-kis.html) --- Puluhan juta peserta JKN-KIS terancam tidak mendapatkan perlindungan kesehatan dan tidak bisa mengakses layanan kesehatan karena menunggak iuran atau mutasi kepesertaan.
+* [Catatan Harian Ahmad Wahib (1981)](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/catatan-harian-ahmad-wahib-1981.html) ---
+  Buku dengan judul lengkap "Pergolakan Pemikiran Islam: Catatan Harian Ahmad Wahib" 
+  pertama kali terbit pada tahun 1981 lalu.
+  Nuansa buku tersebut ialah awal era "Orde Baru", yaitu akhir 1960-an / awal 1970-an. 
+  Lebih dari 40 tahun kemudian, saya mencoba membaca ulang buku tersebut. 
+  * [Ahmad Wahib: Pendahuluan oleh Djohan Effendi](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-pendahuluan-oleh-djohan.html)
+  * [Ahmad Wahib: 9 Tema Teologi](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-9-tema-teologi.html)
+  * [Ahmad Wahib: 6 Masalah Kebudayaan](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-6-masalah-kebudayaan.html)
+  * [Ahmad Wahib: 9 Masalah Politik](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-9-masalah-politik.html)
+  * [Ahmad Wahib: 5 Proses Pembaharuan Pemahaman Islam](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-5-proses-pembaharuan.html)
+
 
 
 [&#x213C;](#)<br id="idx24">
