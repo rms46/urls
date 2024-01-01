@@ -455,10 +455,12 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   * [Ahmad Wahib: 9 Masalah Politik](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-9-masalah-politik.html)
   * [Ahmad Wahib: 5 Proses Pembaharuan Pemahaman Islam](https://rahmatm.samik-ibrahim.vlsm.org/2023/12/ahmad-wahib-5-proses-pembaharuan.html)
 
-
-
 [&#x213C;](#)<br id="idx24">
 ## 2024
+  * [Ahmad Wahib: Kalah dan Menang (Pemilu 1971)](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/ahmad-wahib-kalah-dan-menang-pemilu-1971.html) --- 
+    Kekalahan PNI sejauh yang saya amati, disebabkan oleh empat hal. 
+    Ada pula yang menjadi sebab kekalahan Parmusi? 
+    Apakah yang menyebabkan NU beroleh kemenangan? 
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
