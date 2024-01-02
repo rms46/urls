@@ -461,6 +461,9 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
     Kekalahan PNI sejauh yang saya amati, disebabkan oleh empat hal. 
     Ada pula yang menjadi sebab kekalahan Parmusi? 
     Apakah yang menyebabkan NU beroleh kemenangan? 
+  * [Ahmad Wahib: Kritik terhadap HMI](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/ahmad-wahib-kritik-terhadap-hmi.html) ---
+    Kritik 1969 ini masih tetap relevan di tahun 2024 ini. Kritik ini bukan saja untuk organisasi Mahasiswa, 
+    namun untuk organisasi secara lebih umum.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
