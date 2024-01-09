@@ -469,6 +469,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [KOMPAS: Jalan Tol Pamulang-Depok](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-jalan-tol-pamulang-depok.html) --- Setelah lebih dari 10 tahun, akhirnya, jalan Tol Pamulang-Depok diresmikan. 
   Warga Pamulang yang bekerja di Depok bisa menghemat waktu tempuh hingga 20 menit! 
   Heran, demi "seremoni peresmian", jalan Tol terpaksa di tutup beberapa saat!
+* [Ahmad Wahib: Karir](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/ahmad-wahib-karir.html) ---
+  Apakah karier yang ingin saya jalani? --- Saya kuatir rencana di atas tinggal rencana. Terlalu membisukan saya?
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
