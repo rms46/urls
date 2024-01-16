@@ -473,6 +473,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Apakah karier yang ingin saya jalani? --- Saya kuatir rencana di atas tinggal rencana. Terlalu membisukan saya?
 * [KOMPAS: Kartun Timun](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-kartun-timun.html) ---
   Bingung mau pilih mangga mana? Semua mangga matang pasti manis.
+* [KOMPAS: MALARI 1974 dan Hariman Siregar](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-malari-1974-dan-hariman-siregar.html) --- Hariman Siregar merupakan salah satu penggerak demo 15 Januari 1974 (MALARI).
+  Menurut Hariman, situasi saat ini belum banyak berubah dibandingkan dengan 50 tahun lalu.
+* [Pagi Yang Sepi di Pamulang](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/pagi-yang-sepi-di-pamulang.html) ---
+  Syarat dan ketentuan berlaku. Kalau sudah rame, mencapai 1 Mbps sudah bagus!
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
