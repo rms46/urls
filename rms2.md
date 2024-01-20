@@ -477,6 +477,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Menurut Hariman, situasi saat ini belum banyak berubah dibandingkan dengan 50 tahun lalu.
 * [Pagi Yang Sepi di Pamulang](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/pagi-yang-sepi-di-pamulang.html) ---
   Syarat dan ketentuan berlaku. Kalau sudah rame, mencapai 1 Mbps sudah bagus!
+* [KOMPAS: Pengadaan Jasa Konsultan](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-pengadaan-jasa-konsultan.html) --- Butuh alamat email instan? Gunakan GMAIL!
+  Butuh link instan? Gunakan Bit.ly
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
