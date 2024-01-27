@@ -480,6 +480,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [KOMPAS: Pengadaan Jasa Konsultan](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-pengadaan-jasa-konsultan.html) --- Butuh alamat email instan? Gunakan GMAIL!
   Butuh link instan? Gunakan Bit.ly
 * [2024: Partai Pengemis (Gai Bang)](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/2024-partai-pengemis-gai-bang.html) -- Pasangan Alfred E. Neumann dan Huang Rong didukung oleh Partai Pengemis.
+* [KOMPAS: You are what you choose](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-you-are-what-you-choose.html) --- You are what you eat --- you are what you choose.
 
 
 [&#x213C;](#)<br id="idx25">
