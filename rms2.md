@@ -481,6 +481,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Butuh link instan? Gunakan Bit.ly
 * [2024: Partai Pengemis (Gai Bang)](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/2024-partai-pengemis-gai-bang.html) -- Pasangan Alfred E. Neumann dan Huang Rong didukung oleh Partai Pengemis.
 * [KOMPAS: You are what you choose](https://rahmatm.samik-ibrahim.vlsm.org/2024/01/kompas-you-are-what-you-choose.html) --- You are what you eat --- you are what you choose.
+* [KOMPAS: ASN Kian Nekat Melanggar](https://rahmatm.samik-ibrahim.vlsm.org/2024/02/kompas-asn-kian-nekat-melanggar.html) --- Laporan yang masuk ke Komisi Aparatur Sipil Negara atau KASN menunjukkan ASN kian nekat dalam melanggar asas netralitas di Pemilu 2024. Mereka menggunakan sumber daya birokrasi, merekayasa regulasi, anggaran, hingga fasilitas untuk calon ter- tentu. Selain itu, KASN juga menemukan adanya anomali dalam laporan pelanggaran.
+
 
 
 [&#x213C;](#)<br id="idx25">
