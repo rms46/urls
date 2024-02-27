@@ -484,6 +484,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [KOMPAS: ASN Kian Nekat Melanggar](https://rahmatm.samik-ibrahim.vlsm.org/2024/02/kompas-asn-kian-nekat-melanggar.html) --- Laporan yang masuk ke Komisi Aparatur Sipil Negara atau KASN menunjukkan ASN kian nekat dalam melanggar asas netralitas di Pemilu 2024. Mereka menggunakan sumber daya birokrasi, merekayasa regulasi, anggaran, hingga fasilitas untuk calon ter- tentu. Selain itu, KASN juga menemukan adanya anomali dalam laporan pelanggaran.
 * [KPU: KaPUt](https://rahmatm.samik-ibrahim.vlsm.org/2024/02/kpu-kaput.html) ---
   14 Februari 2024 pagi, www.kpu.go.id lagi KaPUt.
+* [Tempo 2024: Selamat Tinggal](https://rahmatm.samik-ibrahim.vlsm.org/2024/02/tempo-2024-selamat-tinggal.html) ---
+  Tahun 2024 ini, saya kembali mencoba berlangganan Tempo. Namun setelah dua bulan, 
+  saya memutuskan untuk berhenti membaca Tempo, walau pun langganan hingga akhir tahun. 
+  Situs Tempo agak lemot, serta sulit sekali navigasinya. Byebye!
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
