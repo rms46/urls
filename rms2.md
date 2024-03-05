@@ -488,6 +488,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Tahun 2024 ini, saya kembali mencoba berlangganan Tempo. Namun setelah dua bulan, 
   saya memutuskan untuk berhenti membaca Tempo, walau pun langganan hingga akhir tahun. 
   Situs Tempo agak lemot, serta sulit sekali navigasinya. Byebye!
+* [KOMPAS: Solihin GP Berpulang](https://rahmatm.samik-ibrahim.vlsm.org/2024/03/kompas-solihin-gp-berpulang.html) ---
+  Letnan Jenderal (Purn) Solihin Gautama Purwanegara, yang dikenal dengan Solihin GP,
+  meninggal  pada Selasa, 5 Maret 2024. Penerima setidaknya 25 penghargaan tanda jasa itu 
+  mengakhiri "perjalanannya" di Bandung dalam usia 97 tahun.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
