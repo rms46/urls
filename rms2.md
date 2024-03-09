@@ -8,6 +8,8 @@ layout: "urls"
 | [2011](rms1.md#2011) | [2012](rms1.md#2012) | [2013](rms1.md#2013) | [2014](rms1.md#2014) | [2015](rms1.md#2015) |
 | [2016](rms1.md#2016) | [2017](rms1.md#2017) | [2018](rms1.md#2018) | [2019](rms1.md#2019) | [2020](rms2.md#2020) |
 | [2021](rms2.md#2021) | [2022](rms2.md#2022) | [2023](rms2.md#2023) | [2024](rms2.md#2024) | [2025](rms2.md#2025) |
+<br>
+| [2026](rms2.md#2026) | [2027](rms2.md#2027) | [2028](rms2.md#2028) | [2029](rms2.md#2029) | [2030](rms2.md#2030) |
 
 [&#x213C;](#)<br id="idx20">
 ## 2020
@@ -492,8 +494,24 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Letnan Jenderal (Purn) Solihin Gautama Purwanegara, yang dikenal dengan Solihin GP,
   meninggal  pada Selasa, 5 Maret 2024. Penerima setidaknya 25 penghargaan tanda jasa itu 
   mengakhiri "perjalanannya" di Bandung dalam usia 97 tahun.
+* [KOMPAS: Kartun Matematika SIREKAP](https://rahmatm.samik-ibrahim.vlsm.org/2024/03/kompas-kartun-matematika-sirekap.html) --- 1 + 4 = 14 (q.e.d)
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
+
+[&#x213C;](#)<br id="idx26">
+## 2026
+
+[&#x213C;](#)<br id="idx27">
+## 2027
+
+[&#x213C;](#)<br id="idx28">
+## 2028
+
+[&#x213C;](#)<br id="idx29">
+## 2029
+
+[&#x213C;](#)<br id="idx30">
+## 2030
 
 <br><br><br><br><br>
