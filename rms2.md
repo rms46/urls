@@ -496,6 +496,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [KOMPAS: Kartun Matematika SIREKAP](https://rahmatm.samik-ibrahim.vlsm.org/2024/03/kompas-kartun-matematika-sirekap.html) --- 1 + 4 = 14 (q.e.d)
 * [Ancient West Java Map](https://rahmatm.samik-ibrahim.vlsm.org/2024/04/ancient-jawa-barat-map.html) ---
   This is a screenshot of an ancient map whose accuracy is unclear. Does someone know the source?
+* [KOMPAS: Sumber Air Tercemar Bakteri](https://rahmatm.samik-ibrahim.vlsm.org/2024/05/kompas-sumber-air-tercemar-bakteri.html) --- 
+  Hasil uji sampel air yang digunakan oleh masyarakat Pesisir Selatan, Sumatera Barat, 
+  yakni dari mata air Pincuran Langit dan beberapa depot air galon isi ulang, 
+  menunjukkan keseluruhannya tinggi kandungan bakteri E coli.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
