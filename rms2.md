@@ -500,6 +500,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Hasil uji sampel air yang digunakan oleh masyarakat Pesisir Selatan, Sumatera Barat, 
   yakni dari mata air Pincuran Langit dan beberapa depot air galon isi ulang, 
   menunjukkan keseluruhannya tinggi kandungan bakteri E coli.
+* [KOMPAS: Teknik Memeras](https://rahmatm.samik-ibrahim.vlsm.org/2024/05/kompas-teknik-memeras.html) ---
+  Bapak-bapak oknum pejabat dari KPK, BPK, Kementrian, dan lain-lain, begini teknik memeras yang betul!
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
