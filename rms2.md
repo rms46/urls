@@ -502,6 +502,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   menunjukkan keseluruhannya tinggi kandungan bakteri E coli.
 * [KOMPAS: Teknik Memeras](https://rahmatm.samik-ibrahim.vlsm.org/2024/05/kompas-teknik-memeras.html) ---
   Bapak-bapak oknum pejabat dari KPK, BPK, Kementrian, dan lain-lain, begini teknik memeras yang betul!
+* [Haus Lipp](https://rahmatm.samik-ibrahim.vlsm.org/2024/06/haus-lipp.html) ---
+  Haus Lipp, Bachemer Str. 67, 50931 Cologne, Germany.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
