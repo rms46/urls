@@ -504,6 +504,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Bapak-bapak oknum pejabat dari KPK, BPK, Kementrian, dan lain-lain, begini teknik memeras yang betul!
 * [Haus Lipp](https://rahmatm.samik-ibrahim.vlsm.org/2024/06/haus-lipp.html) ---
   Haus Lipp, Bachemer Str. 67, 50931 Cologne, Germany.
+* [The Man From Earth + Holocene](https://rahmatm.samik-ibrahim.vlsm.org/2024/06/the-man-from-earth-holocene.html) ---
+  It is a science fiction drama film that revolves around Professor John Oldman, 
+  who reveals that he is an immortal caveman who has lived for over 14,000 years 
+  during a farewell party with his colleagues.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
