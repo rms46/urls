@@ -508,6 +508,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   It is a science fiction drama film that revolves around Professor John Oldman, 
   who reveals that he is an immortal caveman who has lived for over 14,000 years 
   during a farewell party with his colleagues.
+* [KOMPAS: Kebutuhan Perawatan Lansia Kian Meningkat](https://rahmatm.samik-ibrahim.vlsm.org/2024/06/kompas-kebutuhan-perawatan-lansia-kian.html) --- 
+  Persentasi penduduk lanjut usia akan terus meningkat sehingga kebutuhan perawatan jangkat panjang harus diperkuat.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
