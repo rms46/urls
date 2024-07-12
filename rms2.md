@@ -510,6 +510,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   during a farewell party with his colleagues.
 * [KOMPAS: Kebutuhan Perawatan Lansia Kian Meningkat](https://rahmatm.samik-ibrahim.vlsm.org/2024/06/kompas-kebutuhan-perawatan-lansia-kian.html) --- 
   Persentasi penduduk lanjut usia akan terus meningkat sehingga kebutuhan perawatan jangkat panjang harus diperkuat.
+* [KOMPAS: Lansia Panjang Umur Saja Tidak Cukup](https://rahmatm.samik-ibrahim.vlsm.org/2024/07/kompas-lansia-panjang-umur-saja-tidak.html) --- Populasi lansia Indonesia semakin meningkat. Berbagai tantangan masih harus dihadapi untuk mendukung penduduk lansia sehat dan produktif.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
