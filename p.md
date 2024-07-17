@@ -8,5 +8,8 @@ layout: "urls"
 | [Pajak Online](https://djponline.pajak.go.id/) | 
 ||
 | [Y: Philosophy of the Humanities](https://www.youtube.com/playlist?list=PLPeStI124dee1ByfcDzRvPxKDNb0GQjmo) | [Y Philosophy: Ngaji Filsafat](https://www.youtube.com/playlist?list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18) |
+| Y: Tier List [(35)](https://www.youtube.com/watch?v=b05F1w_UOcw) [(25)](https://www.youtube.com/watch?v=x8b1WjEaq2I) |
+| [Y: The Problem of Evil](https://www.youtube.com/watch?v=FfjrJH9PNPA) |
+| [Y: Platos Allegory of the Cave](https://www.youtube.com/watch?v=O6U25zUBsdQ) |
 
 
