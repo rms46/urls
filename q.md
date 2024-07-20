@@ -12,4 +12,6 @@ layout: "urls"
 | [Qur'anic Manuscripts](https://www.islamic-awareness.org/quran/text/mss/) | [Q: Corpus Coranicum](https://corpuscoranicum.de/en) |
 | [Q: Is the Qur'an preserved?](https://youtu.be/ancam0X4Bf0) |
 ||
+| [Reciters Sample](https://sdnbhd.github.io/quran/) |
+
 
