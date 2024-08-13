@@ -512,6 +512,8 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Persentasi penduduk lanjut usia akan terus meningkat sehingga kebutuhan perawatan jangkat panjang harus diperkuat.
 * [KOMPAS: Lansia Panjang Umur Saja Tidak Cukup](https://rahmatm.samik-ibrahim.vlsm.org/2024/07/kompas-lansia-panjang-umur-saja-tidak.html) --- Populasi lansia Indonesia semakin meningkat. Berbagai tantangan masih harus dihadapi untuk mendukung penduduk lansia sehat dan produktif.
 * [KOMPAS: Aturan Tidur](https://rahmatm.samik-ibrahim.vlsm.org/2024/07/kompas-aturan-tidur.html) --- Aturan Tidur dulu dan sekarang.
+* [KOMPAS: Korsel Rapat Darurat soal Mobil Listrik](https://rahmatm.samik-ibrahim.vlsm.org/2024/08/kompas-korsel-rapat-darurat-soal-mobil.html) ---
+  Insiden yang menghanguskan 140 mobil dan satu blok apartemen dipicu kebakaran mobil listrik yang sedang dalam proses pengisian beterei.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
