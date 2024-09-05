@@ -14,3 +14,4 @@ layout: "urls"
 ||
 | [Telegram](https://web.telegram.org/) | [TangSel DisDukCaPil](https://disdukcapil.tangerangselatankota.go.id/) | [TEMPO: Koran](https://koran.tempo.co/) | [TEMPO: Majalah](https://majalah.tempo.co/)
 | [Y: Twit](https://www.youtube.com/c/twit) |
+| [The True Size](https://thetruesize.com/) |
