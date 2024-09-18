@@ -514,6 +514,7 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
 * [KOMPAS: Aturan Tidur](https://rahmatm.samik-ibrahim.vlsm.org/2024/07/kompas-aturan-tidur.html) --- Aturan Tidur dulu dan sekarang.
 * [KOMPAS: Korsel Rapat Darurat soal Mobil Listrik](https://rahmatm.samik-ibrahim.vlsm.org/2024/08/kompas-korsel-rapat-darurat-soal-mobil.html) ---
   Insiden yang menghanguskan 140 mobil dan satu blok apartemen dipicu kebakaran mobil listrik yang sedang dalam proses pengisian beterei.
+* [KOMPAS: KOMPAS: Stop Diskriminasi Tukin Dosen ASN] --- Perbedaan pemberian tunjangan kinerja bagi dosen ASN tidak hanya berdampak pada kesejahteraan dosen, tetapi juga terutama ini bentuk ketidakadilan.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
