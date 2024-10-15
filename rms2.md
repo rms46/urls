@@ -516,6 +516,10 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
   Insiden yang menghanguskan 140 mobil dan satu blok apartemen dipicu kebakaran mobil listrik yang sedang dalam proses pengisian beterei.
 * [KOMPAS: Stop Diskriminasi Tukin Dosen ASN](https://rahmatm.samik-ibrahim.vlsm.org/2024/09/kompas-stop-diskriminasi-tukin-dosen-asn.html) --- Perbedaan pemberian tunjangan kinerja bagi dosen ASN tidak hanya berdampak pada kesejahteraan dosen, tetapi juga terutama ini bentuk ketidakadilan.
 * [KOMPAS: Semoga 2029 Lebih Baik?](https://rahmatm.samik-ibrahim.vlsm.org/2024/10/kompas-semoga-2029-lebih-baik.html) --- Semoga 2014 lebih baik... (tidak juga).  2019? ... (tidak juga).  2024? ... (tidak juga).  Semoga 2029 lebih baik? Duh!
+* [NEW STRAITS TIMES: THE EXIT OF IBNU SUTOWO](https://rahmatm.samik-ibrahim.vlsm.org/2024/10/new-straits-times-exit-of-ibnu-sutowo.html) --- 
+   Lt. Gen. Dr. Haji Ibnu Sutowo, 62, who will be recorded in Indonesian history as the man who put Pertamina 
+   on the world's oil map, is no longer at the helm of the state oil company. He was "sacked with honor" 
+   by President Suharto on 3 March, and two days later, he went abroad for medical treatment. 
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
