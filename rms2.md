@@ -520,6 +520,11 @@ Sebelah kiri pak Sujiman, dan sebelah kanan Pak Herman. Keduanya guru SMAN1 Bogo
    Lt. Gen. Dr. Haji Ibnu Sutowo, 62, who will be recorded in Indonesian history as the man who put Pertamina 
    on the world's oil map, is no longer at the helm of the state oil company. He was "sacked with honor" 
    by President Suharto on 3 March, and two days later, he went abroad for medical treatment. 
+* [KOMPAS: CREDIT SEEN BECOMING TIGHT](https://rahmatm.samik-ibrahim.vlsm.org/2024/10/kompas-credit-seen-becoming-tight.html) ---
+   To the national private banking sector, if it cannot be called barely sufficient, 
+   the limit of credit expansion, which the government announced to take effect on 1 April 1976, 
+   still falls short of the requirements. The reason is that in 1975, 
+   national private banks had expanded to such an extent that they needed a more significant margin for their activity.
 
 [&#x213C;](#)<br id="idx25">
 ## 2025
